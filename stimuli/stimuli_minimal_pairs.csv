@@ -1,0 +1,91 @@
+phenomenon,test_item,original_condition,sentence_grammatical,sentence_ungrammatical
+Anaphora,TS 1,grammatical,The new executive who oversaw the middle managers apparently doubted himself on most major decisions,The new executive who oversaw the middle managers apparently doubted themselves on most major decisions
+Anaphora,TS 2,grammatical,The popular sheriff who campaigned for the incumbent politicians never prepared himself for the new press briefing,The popular sheriff who campaigned for the incumbent politicians never prepared themselves for the new press briefing
+Anaphora,TS 3,grammatical,The construction worker who argued with the shift leaders undeniably hurt himself on the construction site,The construction worker who argued with the shift leaders undeniably hurt themselves on the construction site
+Anaphora,TS 4,grammatical,The young caddy who escorted the experienced golfers supposedly dirtied himself by falling in the sand,The young caddy who escorted the experienced golfers supposedly dirtied themselves by falling in the sand
+Anaphora,TS 5,grammatical,The police officer who aided the brilliant detectives reportedly disguised himself to get more information,The police officer who aided the brilliant detectives reportedly disguised themselves to get more information
+Anaphora,TS 6,ungrammatical,The football referee who argued with the large quarterbacks surprisingly excused himself from the important game,The football referee who argued with the large quarterbacks surprisingly excused themselves from the important game
+Anaphora,TS 7,ungrammatical,The somber minister who conversed with the religious scholars usually presented himself as very open-minded,The somber minister who conversed with the religious scholars usually presented themselves as very open-minded
+Anaphora,TS 8,ungrammatical,The serious general who advised the new corporals seemingly committed himself to the training regimen,The serious general who advised the new corporals seemingly committed themselves to the training regimen
+Anaphora,TS 9,ungrammatical,The paranoid foreman who supervised the coal miners presumably saved himself after the awful cave-in,The paranoid foreman who supervised the coal miners presumably saved themselves after the awful cave-in
+Anaphora,TS 10,ungrammatical,The grimy blacksmith who worked for the royal knights evidently hurt himself with the sharp tools,The grimy blacksmith who worked for the royal knights evidently hurt themselves with the sharp tools
+Center Embedding,TS 1,grammatical,The ancient manuscript that the grad student who the new card catalog had confused a great deal was studying in the library was missing a page,The ancient manuscript that the grad student who the new card catalog had confused a great deal was missing a page
+Center Embedding,TS 2,grammatical,The lullaby that the famous country singer who the record label had signed to a big contract was singing yesterday was written seventy years ago,The lullaby that the famous country singer who the record label had signed to a big contract was written seventy years ago
+Center Embedding,TS 3,grammatical,The game that the child who the lawnmower had startled in the yard was playing in the morning lasted for hours,The game that the child who the lawnmower had startled in the yard lasted for hours
+Center Embedding,TS 4,grammatical,The crime that the gangster who the story had profiled had planned for weeks was quickly solved,The crime that the gangster who the story had profiled was quickly solved
+Center Embedding,TS 5,grammatical,The picture that the artist who the school had expelled for cheating was hurriedly copying was printed in a magazine,The picture that the artist who the school had expelled for cheating was hurriedly copying was printed in a magazine
+Center Embedding,TS 6,ungrammatical,The trophy that the athlete who the restaurant had hired as a spokesman cherished was stolen later,The trophy that the athlete who the restaurant had hired as a spokesman was stolen later
+Center Embedding,TS 7,ungrammatical,The apartment that the maid who the service had sent over cleaned was well decorated,The apartment that the maid who the service had sent over was well decorated
+Center Embedding,TS 8,ungrammatical,The shirt that the seamstress who the immigration officer had investigated last week wore needed to be dry cleaned,The shirt that the seamstress who the immigration officer had investigated last week needed to be dry cleaned
+Center Embedding,TS 9,ungrammatical,The lecture that the professor who the newspaper story had just profiled in detail delivered was not well attended,The lecture that the professor who the newspaper story had just profiled in detail was not well attended
+Center Embedding,TS 10,ungrammatical,The novel that the horror author who the publishing company had recently fired wrote last year was banned by the local library,The novel that the horror author who the publishing company had recently fired was banned by the local library
+Comparative Sentences,TS 1,grammatical,More gym instructors won a marathon yesterday than lawyers did,More gym instructors won a marathon yesterday than Nikhil did
+Comparative Sentences,TS 2,grammatical,More Americans began law school this week than Canadians did,More Americans began law school this week than Jason did
+Comparative Sentences,TS 3,grammatical,This month more one-year-olds took their first steps than 10-month-olds did,This month more one-year-olds took their first steps than Marie's daughter did
+Comparative Sentences,TS 4,grammatical,Today more Brazilians immigrated to Japan than Chileans did,Today more Brazilians immigrated to Japan than Wolfgang did
+Comparative Sentences,TS 5,grammatical,More 18-year-olds voted in this election than 40-year-olds did,More 18-year-olds voted in this election than he did
+Comparative Sentences,TS 6,ungrammatical,More photographers won their third Pulitzer this year than the writers did,More photographers won their third Pulitzer this year than the professor did
+Comparative Sentences,TS 7,ungrammatical,More girls graduated from high school last year than boys did,More girls graduated from high school last year than John did
+Comparative Sentences,TS 8,ungrammatical,This semester more foreign applicants got into Stanford than Americans did,This semester more foreign applicants got into Stanford than Marie did
+Comparative Sentences,TS 9,ungrammatical,More boys got an A on the exam yesterday than the girls did,More boys got an A on the exam yesterday than she did
+Comparative Sentences,TS 10,ungrammatical,Last month more couples had their second child than single parents did,Last month more couples had their second child than Sandra's sister did
+Intrusive Resumption,TS 1,grammatical,This is the boy that the cop who was leading the operation beat up,This is the boy that the cop who was leading the operation beat him up
+Intrusive Resumption,TS 2,grammatical,This is the girl that the child who was playing with the doll loved,This is the girl that the child who was playing with the doll loved her
+Intrusive Resumption,TS 3,grammatical,This is the boy that the teachers who were teaching mathematics praised,This is the boy that the teachers who were teaching mathematics praised him
+Intrusive Resumption,TS 4,grammatical,These are the flowers that the gardener who was working on John's flowerbed planted,These are the flowers that the gardener who was working on John's flowerbed planted them
+Intrusive Resumption,TS 5,grammatical,These are the cakes that the pastry chefs who were participating in the competition baked,These are the cakes that the pastry chefs who were participating in the competition baked them
+Intrusive Resumption,TS 6,ungrammatical,This is the girl that the boy who was working with the gardener courted,This is the girl that the boy who was working with the gardener courted her
+Intrusive Resumption,TS 7,ungrammatical,This is the actress that the judge who was working at Cannes admired,This is the actress that the judge who was working at Cannes admired her
+Intrusive Resumption,TS 8,ungrammatical,This is the mug that the artisans who were working with ceramics crafted,This is the mug that the artisans who were working with ceramics crafted it
+Intrusive Resumption,TS 9,ungrammatical,This is the dictionary entry that the students who were doing the exam looked up,This is the dictionary entry that the students who were doing the exam looked it up
+Intrusive Resumption,TS 10,ungrammatical,This is the competition that the athletes who were feeling tired gave up,This is the competition that the athletes who were feeling tired gave it up
+NPIs,TS 1,grammatical,No authors that the critics recommended have received any acknowledgment for a best-selling novel,The authors that no critics recommended have received any acknowledgment for a best-selling novel
+NPIs,TS 2,grammatical,No ambassadors that the diplomats consulted have ever seen brutality in the foreign war,The ambassadors that no diplomats consulted have ever seen brutality in the foreign war
+NPIs,TS 3,grammatical,No customers that the salesmen assisted have expressed any optimism for a full refund,The customers that no salesmen assisted have expressed any optimism for a full refund
+NPIs,TS 4,grammatical,No detergents that the housewives used have ever caused damage to the delicate clothing,The detergents that no housewives used have ever caused damage to the delicate clothing
+NPIs,TS 5,grammatical,No students that the teachers punished could expect any friendliness from the strict principal,The students that no teachers punished could expect any friendliness from the strict principal
+NPIs,TS 6,ungrammatical,No soldiers that the diplomats supported have shown any bravery in the controversial war,The soldiers that no diplomats supported have shown any bravery in the controversial war
+NPIs,TS 7,ungrammatical,No professors that the students respected have ever wanted negativity in a class debate,The professors that no students respected have ever wanted negativity in a class debate
+NPIs,TS 8,ungrammatical,No comments that the politicians ignored have caused any bitterness toward the liberal newspapers,The comments that no politicians ignored have caused any bitterness toward the liberal newspapers
+NPIs,TS 9,ungrammatical,No lawyers that the businessmen respected have ever received criticism for a bad trial,The lawyers that no businessmen respected have ever received criticism for a bad trial
+NPIs,TS 10,ungrammatical,No babysitters that the children obeyed have shown any gratitude to the disappointed parents,The babysitters that no children obeyed have shown any gratitude to the disappointed parents
+Order of Adjectives,TS 1,grammatical,I wore a beautiful long Italian silk dress,
+Order of Adjectives,TS 2,grammatical,I bought a nice small German electric bike,
+Order of Adjectives,TS 3,grammatical,I washed an ugly wide American wool sweater,
+Order of Adjectives,TS 4,grammatical,I painted a fine short Swedish wooden table,
+Order of Adjectives,TS 5,grammatical,I saw a graceful tall Venetian vitreous vase,
+Order of Adjectives,TS 6,ungrammatical,,I wore a silk Italian long beautiful dress
+Order of Adjectives,TS 7,ungrammatical,,I bought an electric German small nice bike
+Order of Adjectives,TS 8,ungrammatical,,I washed a wool American wide ugly sweater
+Order of Adjectives,TS 9,ungrammatical,,I painted a wooden Swedish short fine table
+Order of Adjectives,TS 10,ungrammatical,,I saw a vitreous Venetian tall graceful vase
+Order of Adverbs,TS 1,grammatical,Charlotte allegedly once was an acrobat,Charlotte once allegedly was an acrobat
+Order of Adverbs,TS 2,grammatical,Sean probably already did his homework,Sean already probably did his homework
+Order of Adverbs,TS 3,grammatical,Melissa then always cleaned the dishes,Melissa always then cleaned the dishes
+Order of Adverbs,TS 4,grammatical,Dre perhaps still takes dance lessons,Dre still perhaps takes dance lessons
+Order of Adverbs,TS 5,grammatical,Emily probably no longer drinks beer,Emily no longer probably drinks beer
+Order of Adverbs,TS 6,ungrammatical,Marc allegedly once was a firefighter,Marc once allegedly was a firefighter
+Order of Adverbs,TS 7,ungrammatical,Sonja probably already set the table,Sonja already probably set the table
+Order of Adverbs,TS 8,ungrammatical,Jacob then always did his homework,Jacob always then did his homework
+Order of Adverbs,TS 9,ungrammatical,Gary perhaps still drives to work,Gary still perhaps drives to work
+Order of Adverbs,TS 10,ungrammatical,Jeff probably no longer eats sushi,Jeff no longer probably eats sushi
+Plural Attraction,TS 1,grammatical,The key to the cabinets probably was destroyed by the fire,The key to the cabinets probably were destroyed by the fire
+Plural Attraction,TS 2,grammatical,The picture on the fliers definitely was of a village church in the south of France,The picture on the fliers definitely were of a village church in the south of France
+Plural Attraction,TS 3,grammatical,The label on the containers probably was a warning about the hazardous chemicals inside,The label on the containers probably were a warning about the hazardous chemicals inside
+Plural Attraction,TS 4,grammatical,The crime in the suburbs doubtlessly was a reflection of the violence in today's society,The crime in the suburbs doubtlessly were a reflection of the violence in today's society
+Plural Attraction,TS 5,grammatical,The entrance to the exhibits evidently was hard to locate on the diagram,The entrance to the exhibits evidently were hard to locate on the diagram
+Plural Attraction,TS 6,ungrammatical,The slogan on the posters unsurprisingly was designed to get attention,The slogan on the posters unsurprisingly were designed to get attention
+Plural Attraction,TS 7,ungrammatical,The mistake in the programs certainly was disastrous for the small software company,The mistake in the programs certainly were disastrous for the small software company
+Plural Attraction,TS 8,ungrammatical,The problem in the stores ultimately was solved by firing the custodian,The problem in the stores ultimately were solved by firing the custodian
+Plural Attraction,TS 9,ungrammatical,The defect in the appliances likely was unknown to consumers and government regulators,The defect in the appliances likely were unknown to consumers and government regulators
+Plural Attraction,TS 10,ungrammatical,The door to the laboratories accidentally was left unlocked by the cleaning service,The door to the laboratories accidentally were left unlocked by the cleaning service
+Plural Attraction control,TS 1,NA,The keys to the cabinet probably were destroyed by the fire,The keys to the cabinet probably was destroyed by the fire
+Plural Attraction control,TS 2,NA,The pictures on the flier definitely were of a village church in the south of France,The pictures on the flier definitely was of a village church in the south of France
+Plural Attraction control,TS 3,NA,The labels on the container probably were a warning about the hazardous chemicals inside,The labels on the container probably was a warning about the hazardous chemicals inside
+Plural Attraction control,TS 4,NA,The crimes in the suburb doubtlessly were a reflection of the violence in today's society,The crimes in the suburb doubtlessly was a reflection of the violence in today's society
+Plural Attraction control,TS 5,NA,The entrances to the exhibit evidently were hard to locate on the diagram,The entrances to the exhibit evidently was hard to locate on the diagram
+Plural Attraction control,TS 6,NA,The slogans on the poster unsurprisingly were designed to get attention,The slogans on the poster unsurprisingly was designed to get attention
+Plural Attraction control,TS 7,NA,The mistakes in the program certainly were disastrous for the small software company,The mistakes in the program certainly was disastrous for the small software company
+Plural Attraction control,TS 8,NA,The problems in the store ultimately were solved by firing the custodian,The problems in the store ultimately was solved by firing the custodian
+Plural Attraction control,TS 9,NA,The defects in the appliance likely were unknown to consumers and government regulators,The defects in the appliance likely was unknown to consumers and government regulators
+Plural Attraction control,TS 10,NA,The doors to the laboratory accidentally were left unlocked by the cleaning service,The doors to the laboratory accidentally was left unlocked by the cleaning service

@@ -1,0 +1,2342 @@
+token,surprisal,token_id,model,condition,phenomenon,test_item,original_condition
+The,3.6610966,0,text-davinci-003,grammatical,Anaphora,TS 1,grammatical
+Ġnew,4.820446,1,text-davinci-003,grammatical,Anaphora,TS 1,grammatical
+Ġexecutive,7.653672,2,text-davinci-003,grammatical,Anaphora,TS 1,grammatical
+Ġwho,8.259535,3,text-davinci-003,grammatical,Anaphora,TS 1,grammatical
+Ġoversaw,7.0588517,4,text-davinci-003,grammatical,Anaphora,TS 1,grammatical
+Ġthe,0.47974235,5,text-davinci-003,grammatical,Anaphora,TS 1,grammatical
+Ġmiddle,10.944299,6,text-davinci-003,grammatical,Anaphora,TS 1,grammatical
+Ġmanagers,6.033805,7,text-davinci-003,grammatical,Anaphora,TS 1,grammatical
+Ġapparently,9.572827,8,text-davinci-003,grammatical,Anaphora,TS 1,grammatical
+Ġdoubted,11.155877,9,text-davinci-003,grammatical,Anaphora,TS 1,grammatical
+Ġhimself,6.6667523,10,text-davinci-003,grammatical,Anaphora,TS 1,grammatical
+Ġon,5.1841784,11,text-davinci-003,grammatical,Anaphora,TS 1,grammatical
+Ġmost,5.543906,12,text-davinci-003,grammatical,Anaphora,TS 1,grammatical
+Ġmajor,3.6709583,13,text-davinci-003,grammatical,Anaphora,TS 1,grammatical
+Ġdecisions,0.069014065,14,text-davinci-003,grammatical,Anaphora,TS 1,grammatical
+The,3.6610966,0,text-davinci-003,ungrammatical,Anaphora,TS 1,grammatical
+Ġnew,4.820446,1,text-davinci-003,ungrammatical,Anaphora,TS 1,grammatical
+Ġexecutive,7.653672,2,text-davinci-003,ungrammatical,Anaphora,TS 1,grammatical
+Ġwho,8.259535,3,text-davinci-003,ungrammatical,Anaphora,TS 1,grammatical
+Ġoversaw,7.0588517,4,text-davinci-003,ungrammatical,Anaphora,TS 1,grammatical
+Ġthe,0.47974235,5,text-davinci-003,ungrammatical,Anaphora,TS 1,grammatical
+Ġmiddle,10.944299,6,text-davinci-003,ungrammatical,Anaphora,TS 1,grammatical
+Ġmanagers,6.033805,7,text-davinci-003,ungrammatical,Anaphora,TS 1,grammatical
+Ġapparently,9.572827,8,text-davinci-003,ungrammatical,Anaphora,TS 1,grammatical
+Ġdoubted,11.155877,9,text-davinci-003,ungrammatical,Anaphora,TS 1,grammatical
+Ġthemselves,9.138531,10,text-davinci-003,ungrammatical,Anaphora,TS 1,grammatical
+Ġon,4.976117,11,text-davinci-003,ungrammatical,Anaphora,TS 1,grammatical
+Ġmost,5.9540734,12,text-davinci-003,ungrammatical,Anaphora,TS 1,grammatical
+Ġmajor,4.0091953,13,text-davinci-003,ungrammatical,Anaphora,TS 1,grammatical
+Ġdecisions,0.10781627,14,text-davinci-003,ungrammatical,Anaphora,TS 1,grammatical
+The,3.6610966,0,text-davinci-003,grammatical,Anaphora,TS 2,grammatical
+Ġpopular,7.6100636,1,text-davinci-003,grammatical,Anaphora,TS 2,grammatical
+Ġsheriff,11.689875,2,text-davinci-003,grammatical,Anaphora,TS 2,grammatical
+Ġwho,4.3233757,3,text-davinci-003,grammatical,Anaphora,TS 2,grammatical
+Ġcampaigned,6.2025275,4,text-davinci-003,grammatical,Anaphora,TS 2,grammatical
+Ġfor,1.400645,5,text-davinci-003,grammatical,Anaphora,TS 2,grammatical
+Ġthe,1.9383008,6,text-davinci-003,grammatical,Anaphora,TS 2,grammatical
+Ġincumbent,8.653168,7,text-davinci-003,grammatical,Anaphora,TS 2,grammatical
+Ġpoliticians,10.01234,8,text-davinci-003,grammatical,Anaphora,TS 2,grammatical
+Ġnever,8.3506365,9,text-davinci-003,grammatical,Anaphora,TS 2,grammatical
+Ġprepared,9.2012205,10,text-davinci-003,grammatical,Anaphora,TS 2,grammatical
+Ġhimself,1.4502919,11,text-davinci-003,grammatical,Anaphora,TS 2,grammatical
+Ġfor,0.13304411,12,text-davinci-003,grammatical,Anaphora,TS 2,grammatical
+Ġthe,0.40571576,13,text-davinci-003,grammatical,Anaphora,TS 2,grammatical
+Ġnew,5.0561767,14,text-davinci-003,grammatical,Anaphora,TS 2,grammatical
+Ġpress,11.3855915,15,text-davinci-003,grammatical,Anaphora,TS 2,grammatical
+Ġbriefing,7.5783634,16,text-davinci-003,grammatical,Anaphora,TS 2,grammatical
+The,3.6687505,0,text-davinci-003,ungrammatical,Anaphora,TS 2,grammatical
+Ġpopular,7.6103992,1,text-davinci-003,ungrammatical,Anaphora,TS 2,grammatical
+Ġsheriff,11.687168,2,text-davinci-003,ungrammatical,Anaphora,TS 2,grammatical
+Ġwho,4.3206825,3,text-davinci-003,ungrammatical,Anaphora,TS 2,grammatical
+Ġcampaigned,6.1970205,4,text-davinci-003,ungrammatical,Anaphora,TS 2,grammatical
+Ġfor,1.4019837,5,text-davinci-003,ungrammatical,Anaphora,TS 2,grammatical
+Ġthe,1.9333851,6,text-davinci-003,ungrammatical,Anaphora,TS 2,grammatical
+Ġincumbent,8.670571,7,text-davinci-003,ungrammatical,Anaphora,TS 2,grammatical
+Ġpoliticians,10.012749,8,text-davinci-003,ungrammatical,Anaphora,TS 2,grammatical
+Ġnever,8.356434,9,text-davinci-003,ungrammatical,Anaphora,TS 2,grammatical
+Ġprepared,9.201172,10,text-davinci-003,ungrammatical,Anaphora,TS 2,grammatical
+Ġthemselves,7.3292303,11,text-davinci-003,ungrammatical,Anaphora,TS 2,grammatical
+Ġfor,0.14008999,12,text-davinci-003,ungrammatical,Anaphora,TS 2,grammatical
+Ġthe,0.39314854,13,text-davinci-003,ungrammatical,Anaphora,TS 2,grammatical
+Ġnew,4.878768,14,text-davinci-003,ungrammatical,Anaphora,TS 2,grammatical
+Ġpress,11.119049,15,text-davinci-003,ungrammatical,Anaphora,TS 2,grammatical
+Ġbriefing,7.796751,16,text-davinci-003,ungrammatical,Anaphora,TS 2,grammatical
+The,3.6610966,0,text-davinci-003,grammatical,Anaphora,TS 3,grammatical
+Ġconstruction,8.276067,1,text-davinci-003,grammatical,Anaphora,TS 3,grammatical
+Ġworker,6.243738,2,text-davinci-003,grammatical,Anaphora,TS 3,grammatical
+Ġwho,1.3363601,3,text-davinci-003,grammatical,Anaphora,TS 3,grammatical
+Ġargued,10.945022,4,text-davinci-003,grammatical,Anaphora,TS 3,grammatical
+Ġwith,0.87698996,5,text-davinci-003,grammatical,Anaphora,TS 3,grammatical
+Ġthe,2.1598217,6,text-davinci-003,grammatical,Anaphora,TS 3,grammatical
+Ġshift,10.2335005,7,text-davinci-003,grammatical,Anaphora,TS 3,grammatical
+Ġleaders,8.926649,8,text-davinci-003,grammatical,Anaphora,TS 3,grammatical
+Ġundeniably,15.50484,9,text-davinci-003,grammatical,Anaphora,TS 3,grammatical
+Ġhurt,5.9869328,10,text-davinci-003,grammatical,Anaphora,TS 3,grammatical
+Ġhimself,4.076748,11,text-davinci-003,grammatical,Anaphora,TS 3,grammatical
+Ġon,5.3819213,12,text-davinci-003,grammatical,Anaphora,TS 3,grammatical
+Ġthe,0.17942357,13,text-davinci-003,grammatical,Anaphora,TS 3,grammatical
+Ġconstruction,6.443301,14,text-davinci-003,grammatical,Anaphora,TS 3,grammatical
+Ġsite,0.25448403,15,text-davinci-003,grammatical,Anaphora,TS 3,grammatical
+The,3.6610966,0,text-davinci-003,ungrammatical,Anaphora,TS 3,grammatical
+Ġconstruction,8.276067,1,text-davinci-003,ungrammatical,Anaphora,TS 3,grammatical
+Ġworker,6.243738,2,text-davinci-003,ungrammatical,Anaphora,TS 3,grammatical
+Ġwho,1.3363601,3,text-davinci-003,ungrammatical,Anaphora,TS 3,grammatical
+Ġargued,10.945022,4,text-davinci-003,ungrammatical,Anaphora,TS 3,grammatical
+Ġwith,0.87698996,5,text-davinci-003,ungrammatical,Anaphora,TS 3,grammatical
+Ġthe,2.1598217,6,text-davinci-003,ungrammatical,Anaphora,TS 3,grammatical
+Ġshift,10.2335005,7,text-davinci-003,ungrammatical,Anaphora,TS 3,grammatical
+Ġleaders,8.926649,8,text-davinci-003,ungrammatical,Anaphora,TS 3,grammatical
+Ġundeniably,15.50484,9,text-davinci-003,ungrammatical,Anaphora,TS 3,grammatical
+Ġhurt,5.9869328,10,text-davinci-003,ungrammatical,Anaphora,TS 3,grammatical
+Ġthemselves,9.216514,11,text-davinci-003,ungrammatical,Anaphora,TS 3,grammatical
+Ġon,5.4986215,12,text-davinci-003,ungrammatical,Anaphora,TS 3,grammatical
+Ġthe,0.19230647,13,text-davinci-003,ungrammatical,Anaphora,TS 3,grammatical
+Ġconstruction,6.3997293,14,text-davinci-003,ungrammatical,Anaphora,TS 3,grammatical
+Ġsite,0.3871589,15,text-davinci-003,ungrammatical,Anaphora,TS 3,grammatical
+The,3.66888,0,text-davinci-003,grammatical,Anaphora,TS 4,grammatical
+Ġyoung,8.272958,1,text-davinci-003,grammatical,Anaphora,TS 4,grammatical
+Ġc,8.214037,2,text-davinci-003,grammatical,Anaphora,TS 4,grammatical
+addy,4.8400183,3,text-davinci-003,grammatical,Anaphora,TS 4,grammatical
+Ġwho,3.2048347,4,text-davinci-003,grammatical,Anaphora,TS 4,grammatical
+Ġescorted,6.32076,5,text-davinci-003,grammatical,Anaphora,TS 4,grammatical
+Ġthe,2.1719234,6,text-davinci-003,grammatical,Anaphora,TS 4,grammatical
+Ġexperienced,9.211532,7,text-davinci-003,grammatical,Anaphora,TS 4,grammatical
+Ġgolf,2.0687811,8,text-davinci-003,grammatical,Anaphora,TS 4,grammatical
+ers,0.17492962,9,text-davinci-003,grammatical,Anaphora,TS 4,grammatical
+Ġsupposedly,13.652749,10,text-davinci-003,grammatical,Anaphora,TS 4,grammatical
+Ġdirt,12.811031,11,text-davinci-003,grammatical,Anaphora,TS 4,grammatical
+ied,0.23209892,12,text-davinci-003,grammatical,Anaphora,TS 4,grammatical
+Ġhimself,4.731873,13,text-davinci-003,grammatical,Anaphora,TS 4,grammatical
+Ġby,2.3989472,14,text-davinci-003,grammatical,Anaphora,TS 4,grammatical
+Ġfalling,6.0769157,15,text-davinci-003,grammatical,Anaphora,TS 4,grammatical
+Ġin,1.3409721,16,text-davinci-003,grammatical,Anaphora,TS 4,grammatical
+Ġthe,0.4459778,17,text-davinci-003,grammatical,Anaphora,TS 4,grammatical
+Ġsand,1.6403072,18,text-davinci-003,grammatical,Anaphora,TS 4,grammatical
+The,3.6610966,0,text-davinci-003,ungrammatical,Anaphora,TS 4,grammatical
+Ġyoung,8.273041,1,text-davinci-003,ungrammatical,Anaphora,TS 4,grammatical
+Ġc,8.214052,2,text-davinci-003,ungrammatical,Anaphora,TS 4,grammatical
+addy,4.838915,3,text-davinci-003,ungrammatical,Anaphora,TS 4,grammatical
+Ġwho,3.2006717,4,text-davinci-003,ungrammatical,Anaphora,TS 4,grammatical
+Ġescorted,6.3168654,5,text-davinci-003,ungrammatical,Anaphora,TS 4,grammatical
+Ġthe,2.1768763,6,text-davinci-003,ungrammatical,Anaphora,TS 4,grammatical
+Ġexperienced,9.214624,7,text-davinci-003,ungrammatical,Anaphora,TS 4,grammatical
+Ġgolf,2.076298,8,text-davinci-003,ungrammatical,Anaphora,TS 4,grammatical
+ers,0.17689674,9,text-davinci-003,ungrammatical,Anaphora,TS 4,grammatical
+Ġsupposedly,13.659126,10,text-davinci-003,ungrammatical,Anaphora,TS 4,grammatical
+Ġdirt,12.808825,11,text-davinci-003,ungrammatical,Anaphora,TS 4,grammatical
+ied,0.23245764,12,text-davinci-003,ungrammatical,Anaphora,TS 4,grammatical
+Ġthemselves,8.387909,13,text-davinci-003,ungrammatical,Anaphora,TS 4,grammatical
+Ġby,2.6452298,14,text-davinci-003,ungrammatical,Anaphora,TS 4,grammatical
+Ġfalling,7.1104226,15,text-davinci-003,ungrammatical,Anaphora,TS 4,grammatical
+Ġin,1.4207056,16,text-davinci-003,ungrammatical,Anaphora,TS 4,grammatical
+Ġthe,0.38439977,17,text-davinci-003,ungrammatical,Anaphora,TS 4,grammatical
+Ġsand,1.8207748,18,text-davinci-003,ungrammatical,Anaphora,TS 4,grammatical
+The,3.6610966,0,text-davinci-003,grammatical,Anaphora,TS 5,grammatical
+Ġpolice,7.40738,1,text-davinci-003,grammatical,Anaphora,TS 5,grammatical
+Ġofficer,3.337694,2,text-davinci-003,grammatical,Anaphora,TS 5,grammatical
+Ġwho,1.2123593,3,text-davinci-003,grammatical,Anaphora,TS 5,grammatical
+Ġaided,10.267709,4,text-davinci-003,grammatical,Anaphora,TS 5,grammatical
+Ġthe,1.7539457,5,text-davinci-003,grammatical,Anaphora,TS 5,grammatical
+Ġbrilliant,11.155902,6,text-davinci-003,grammatical,Anaphora,TS 5,grammatical
+Ġdetectives,5.603901,7,text-davinci-003,grammatical,Anaphora,TS 5,grammatical
+Ġreportedly,14.655825,8,text-davinci-003,grammatical,Anaphora,TS 5,grammatical
+Ġdisguised,10.508892,9,text-davinci-003,grammatical,Anaphora,TS 5,grammatical
+Ġhimself,0.13640994,10,text-davinci-003,grammatical,Anaphora,TS 5,grammatical
+Ġto,5.422642,11,text-davinci-003,grammatical,Anaphora,TS 5,grammatical
+Ġget,2.964693,12,text-davinci-003,grammatical,Anaphora,TS 5,grammatical
+Ġmore,3.686457,13,text-davinci-003,grammatical,Anaphora,TS 5,grammatical
+Ġinformation,0.26243785,14,text-davinci-003,grammatical,Anaphora,TS 5,grammatical
+The,3.6695924,0,text-davinci-003,ungrammatical,Anaphora,TS 5,grammatical
+Ġpolice,7.4078064,1,text-davinci-003,ungrammatical,Anaphora,TS 5,grammatical
+Ġofficer,3.3352294,2,text-davinci-003,ungrammatical,Anaphora,TS 5,grammatical
+Ġwho,1.2120512,3,text-davinci-003,ungrammatical,Anaphora,TS 5,grammatical
+Ġaided,10.264067,4,text-davinci-003,ungrammatical,Anaphora,TS 5,grammatical
+Ġthe,1.7542198,5,text-davinci-003,ungrammatical,Anaphora,TS 5,grammatical
+Ġbrilliant,11.155897,6,text-davinci-003,ungrammatical,Anaphora,TS 5,grammatical
+Ġdetectives,5.603915,7,text-davinci-003,ungrammatical,Anaphora,TS 5,grammatical
+Ġreportedly,14.660358,8,text-davinci-003,ungrammatical,Anaphora,TS 5,grammatical
+Ġdisguised,10.491295,9,text-davinci-003,ungrammatical,Anaphora,TS 5,grammatical
+Ġthemselves,5.090667,10,text-davinci-003,ungrammatical,Anaphora,TS 5,grammatical
+Ġto,3.9206634,11,text-davinci-003,ungrammatical,Anaphora,TS 5,grammatical
+Ġget,2.9873643,12,text-davinci-003,ungrammatical,Anaphora,TS 5,grammatical
+Ġmore,4.1192822,13,text-davinci-003,ungrammatical,Anaphora,TS 5,grammatical
+Ġinformation,0.3241248,14,text-davinci-003,ungrammatical,Anaphora,TS 5,grammatical
+The,3.6610966,0,text-davinci-003,grammatical,Anaphora,TS 6,ungrammatical
+Ġfootball,9.05953,1,text-davinci-003,grammatical,Anaphora,TS 6,ungrammatical
+Ġreferee,7.94221,2,text-davinci-003,grammatical,Anaphora,TS 6,ungrammatical
+Ġwho,2.477034,3,text-davinci-003,grammatical,Anaphora,TS 6,ungrammatical
+Ġargued,10.212504,4,text-davinci-003,grammatical,Anaphora,TS 6,ungrammatical
+Ġwith,0.3366412,5,text-davinci-003,grammatical,Anaphora,TS 6,ungrammatical
+Ġthe,2.5002365,6,text-davinci-003,grammatical,Anaphora,TS 6,ungrammatical
+Ġlarge,10.504308,7,text-davinci-003,grammatical,Anaphora,TS 6,ungrammatical
+Ġquarterbacks,12.790434,8,text-davinci-003,grammatical,Anaphora,TS 6,ungrammatical
+Ġsurprisingly,11.991179,9,text-davinci-003,grammatical,Anaphora,TS 6,ungrammatical
+Ġexc,10.236187,10,text-davinci-003,grammatical,Anaphora,TS 6,ungrammatical
+used,0.008581717,11,text-davinci-003,grammatical,Anaphora,TS 6,ungrammatical
+Ġhimself,0.20117159,12,text-davinci-003,grammatical,Anaphora,TS 6,ungrammatical
+Ġfrom,0.45536456,13,text-davinci-003,grammatical,Anaphora,TS 6,ungrammatical
+Ġthe,0.040474545,14,text-davinci-003,grammatical,Anaphora,TS 6,ungrammatical
+Ġimportant,9.327408,15,text-davinci-003,grammatical,Anaphora,TS 6,ungrammatical
+Ġgame,0.31051648,16,text-davinci-003,grammatical,Anaphora,TS 6,ungrammatical
+The,3.6690054,0,text-davinci-003,ungrammatical,Anaphora,TS 6,ungrammatical
+Ġfootball,9.05855,1,text-davinci-003,ungrammatical,Anaphora,TS 6,ungrammatical
+Ġreferee,7.9404197,2,text-davinci-003,ungrammatical,Anaphora,TS 6,ungrammatical
+Ġwho,2.4776242,3,text-davinci-003,ungrammatical,Anaphora,TS 6,ungrammatical
+Ġargued,10.210841,4,text-davinci-003,ungrammatical,Anaphora,TS 6,ungrammatical
+Ġwith,0.34008053,5,text-davinci-003,ungrammatical,Anaphora,TS 6,ungrammatical
+Ġthe,2.4994736,6,text-davinci-003,ungrammatical,Anaphora,TS 6,ungrammatical
+Ġlarge,10.503768,7,text-davinci-003,ungrammatical,Anaphora,TS 6,ungrammatical
+Ġquarterbacks,12.784772,8,text-davinci-003,ungrammatical,Anaphora,TS 6,ungrammatical
+Ġsurprisingly,11.991748,9,text-davinci-003,ungrammatical,Anaphora,TS 6,ungrammatical
+Ġexc,10.229172,10,text-davinci-003,ungrammatical,Anaphora,TS 6,ungrammatical
+used,0.008753073,11,text-davinci-003,ungrammatical,Anaphora,TS 6,ungrammatical
+Ġthemselves,6.542555,12,text-davinci-003,ungrammatical,Anaphora,TS 6,ungrammatical
+Ġfrom,0.519965,13,text-davinci-003,ungrammatical,Anaphora,TS 6,ungrammatical
+Ġthe,0.037989154,14,text-davinci-003,ungrammatical,Anaphora,TS 6,ungrammatical
+Ġimportant,9.783979,15,text-davinci-003,ungrammatical,Anaphora,TS 6,ungrammatical
+Ġgame,0.30503106,16,text-davinci-003,ungrammatical,Anaphora,TS 6,ungrammatical
+The,3.6610966,0,text-davinci-003,grammatical,Anaphora,TS 7,ungrammatical
+Ġsom,11.979017,1,text-davinci-003,grammatical,Anaphora,TS 7,ungrammatical
+ber,1.4894054,2,text-davinci-003,grammatical,Anaphora,TS 7,ungrammatical
+Ġminister,10.645824,3,text-davinci-003,grammatical,Anaphora,TS 7,ungrammatical
+Ġwho,4.7273064,4,text-davinci-003,grammatical,Anaphora,TS 7,ungrammatical
+Ġconvers,10.368889,5,text-davinci-003,grammatical,Anaphora,TS 7,ungrammatical
+ed,0.19482581,6,text-davinci-003,grammatical,Anaphora,TS 7,ungrammatical
+Ġwith,0.31985924,7,text-davinci-003,grammatical,Anaphora,TS 7,ungrammatical
+Ġthe,1.5939537,8,text-davinci-003,grammatical,Anaphora,TS 7,ungrammatical
+Ġreligious,8.506299,9,text-davinci-003,grammatical,Anaphora,TS 7,ungrammatical
+Ġscholars,6.690158,10,text-davinci-003,grammatical,Anaphora,TS 7,ungrammatical
+Ġusually,8.549052,11,text-davinci-003,grammatical,Anaphora,TS 7,ungrammatical
+Ġpresented,6.3356953,12,text-davinci-003,grammatical,Anaphora,TS 7,ungrammatical
+Ġhimself,2.6489882,13,text-davinci-003,grammatical,Anaphora,TS 7,ungrammatical
+Ġas,1.277941,14,text-davinci-003,grammatical,Anaphora,TS 7,ungrammatical
+Ġvery,4.690613,15,text-davinci-003,grammatical,Anaphora,TS 7,ungrammatical
+Ġopen,8.457604,16,text-davinci-003,grammatical,Anaphora,TS 7,ungrammatical
+-,0.67250043,17,text-davinci-003,grammatical,Anaphora,TS 7,ungrammatical
+minded,0.0008346432,18,text-davinci-003,grammatical,Anaphora,TS 7,ungrammatical
+The,3.6610966,0,text-davinci-003,ungrammatical,Anaphora,TS 7,ungrammatical
+Ġsom,11.979017,1,text-davinci-003,ungrammatical,Anaphora,TS 7,ungrammatical
+ber,1.4894054,2,text-davinci-003,ungrammatical,Anaphora,TS 7,ungrammatical
+Ġminister,10.645824,3,text-davinci-003,ungrammatical,Anaphora,TS 7,ungrammatical
+Ġwho,4.7273064,4,text-davinci-003,ungrammatical,Anaphora,TS 7,ungrammatical
+Ġconvers,10.368889,5,text-davinci-003,ungrammatical,Anaphora,TS 7,ungrammatical
+ed,0.19482581,6,text-davinci-003,ungrammatical,Anaphora,TS 7,ungrammatical
+Ġwith,0.31985924,7,text-davinci-003,ungrammatical,Anaphora,TS 7,ungrammatical
+Ġthe,1.5939537,8,text-davinci-003,ungrammatical,Anaphora,TS 7,ungrammatical
+Ġreligious,8.506299,9,text-davinci-003,ungrammatical,Anaphora,TS 7,ungrammatical
+Ġscholars,6.690158,10,text-davinci-003,ungrammatical,Anaphora,TS 7,ungrammatical
+Ġusually,8.549052,11,text-davinci-003,ungrammatical,Anaphora,TS 7,ungrammatical
+Ġpresented,6.3356953,12,text-davinci-003,ungrammatical,Anaphora,TS 7,ungrammatical
+Ġthemselves,8.440298,13,text-davinci-003,ungrammatical,Anaphora,TS 7,ungrammatical
+Ġas,1.5512657,14,text-davinci-003,ungrammatical,Anaphora,TS 7,ungrammatical
+Ġvery,3.797031,15,text-davinci-003,ungrammatical,Anaphora,TS 7,ungrammatical
+Ġopen,7.6870894,16,text-davinci-003,ungrammatical,Anaphora,TS 7,ungrammatical
+-,0.91077125,17,text-davinci-003,ungrammatical,Anaphora,TS 7,ungrammatical
+minded,0.0012671363,18,text-davinci-003,ungrammatical,Anaphora,TS 7,ungrammatical
+The,3.6610966,0,text-davinci-003,grammatical,Anaphora,TS 8,ungrammatical
+Ġserious,11.117612,1,text-davinci-003,grammatical,Anaphora,TS 8,ungrammatical
+Ġgeneral,10.435958,2,text-davinci-003,grammatical,Anaphora,TS 8,ungrammatical
+Ġwho,4.478422,3,text-davinci-003,grammatical,Anaphora,TS 8,ungrammatical
+Ġadvised,8.192591,4,text-davinci-003,grammatical,Anaphora,TS 8,ungrammatical
+Ġthe,1.3409711,5,text-davinci-003,grammatical,Anaphora,TS 8,ungrammatical
+Ġnew,4.810589,6,text-davinci-003,grammatical,Anaphora,TS 8,ungrammatical
+Ġcorpor,12.372617,7,text-davinci-003,grammatical,Anaphora,TS 8,ungrammatical
+als,3.7144735,8,text-davinci-003,grammatical,Anaphora,TS 8,ungrammatical
+Ġseemingly,14.13996,9,text-davinci-003,grammatical,Anaphora,TS 8,ungrammatical
+Ġcommitted,7.904078,10,text-davinci-003,grammatical,Anaphora,TS 8,ungrammatical
+Ġhimself,3.9490511,11,text-davinci-003,grammatical,Anaphora,TS 8,ungrammatical
+Ġto,0.23834394,12,text-davinci-003,grammatical,Anaphora,TS 8,ungrammatical
+Ġthe,1.7144511,13,text-davinci-003,grammatical,Anaphora,TS 8,ungrammatical
+Ġtraining,6.695226,14,text-davinci-003,grammatical,Anaphora,TS 8,ungrammatical
+Ġregimen,2.9088473,15,text-davinci-003,grammatical,Anaphora,TS 8,ungrammatical
+The,3.66888,0,text-davinci-003,ungrammatical,Anaphora,TS 8,ungrammatical
+Ġserious,11.117574,1,text-davinci-003,ungrammatical,Anaphora,TS 8,ungrammatical
+Ġgeneral,10.432208,2,text-davinci-003,ungrammatical,Anaphora,TS 8,ungrammatical
+Ġwho,4.4820757,3,text-davinci-003,ungrammatical,Anaphora,TS 8,ungrammatical
+Ġadvised,8.184801,4,text-davinci-003,ungrammatical,Anaphora,TS 8,ungrammatical
+Ġthe,1.3431625,5,text-davinci-003,ungrammatical,Anaphora,TS 8,ungrammatical
+Ġnew,4.8105187,6,text-davinci-003,ungrammatical,Anaphora,TS 8,ungrammatical
+Ġcorpor,12.374713,7,text-davinci-003,ungrammatical,Anaphora,TS 8,ungrammatical
+als,3.70507,8,text-davinci-003,ungrammatical,Anaphora,TS 8,ungrammatical
+Ġseemingly,14.070907,9,text-davinci-003,ungrammatical,Anaphora,TS 8,ungrammatical
+Ġcommitted,7.8976398,10,text-davinci-003,ungrammatical,Anaphora,TS 8,ungrammatical
+Ġthemselves,6.563488,11,text-davinci-003,ungrammatical,Anaphora,TS 8,ungrammatical
+Ġto,0.28488433,12,text-davinci-003,ungrammatical,Anaphora,TS 8,ungrammatical
+Ġthe,1.1501726,13,text-davinci-003,ungrammatical,Anaphora,TS 8,ungrammatical
+Ġtraining,6.583092,14,text-davinci-003,ungrammatical,Anaphora,TS 8,ungrammatical
+Ġregimen,2.354482,15,text-davinci-003,ungrammatical,Anaphora,TS 8,ungrammatical
+The,3.6610951,0,text-davinci-003,grammatical,Anaphora,TS 9,ungrammatical
+Ġparanoid,13.516639,1,text-davinci-003,grammatical,Anaphora,TS 9,ungrammatical
+Ġfore,10.058107,2,text-davinci-003,grammatical,Anaphora,TS 9,ungrammatical
+man,2.2750053,3,text-davinci-003,grammatical,Anaphora,TS 9,ungrammatical
+Ġwho,4.924117,4,text-davinci-003,grammatical,Anaphora,TS 9,ungrammatical
+Ġsupervised,5.9227266,5,text-davinci-003,grammatical,Anaphora,TS 9,ungrammatical
+Ġthe,0.6446806,6,text-davinci-003,grammatical,Anaphora,TS 9,ungrammatical
+Ġcoal,6.735544,7,text-davinci-003,grammatical,Anaphora,TS 9,ungrammatical
+Ġminers,0.50694764,8,text-davinci-003,grammatical,Anaphora,TS 9,ungrammatical
+Ġpresumably,13.0124855,9,text-davinci-003,grammatical,Anaphora,TS 9,ungrammatical
+Ġsaved,11.35228,10,text-davinci-003,grammatical,Anaphora,TS 9,ungrammatical
+Ġhimself,3.5236773,11,text-davinci-003,grammatical,Anaphora,TS 9,ungrammatical
+Ġafter,6.4144583,12,text-davinci-003,grammatical,Anaphora,TS 9,ungrammatical
+Ġthe,0.3374926,13,text-davinci-003,grammatical,Anaphora,TS 9,ungrammatical
+Ġawful,9.712236,14,text-davinci-003,grammatical,Anaphora,TS 9,ungrammatical
+Ġcave,2.5428832,15,text-davinci-003,grammatical,Anaphora,TS 9,ungrammatical
+-,0.103623755,16,text-davinci-003,grammatical,Anaphora,TS 9,ungrammatical
+in,0.0010443628,17,text-davinci-003,grammatical,Anaphora,TS 9,ungrammatical
+The,3.6610966,0,text-davinci-003,ungrammatical,Anaphora,TS 9,ungrammatical
+Ġparanoid,13.516639,1,text-davinci-003,ungrammatical,Anaphora,TS 9,ungrammatical
+Ġfore,10.058108,2,text-davinci-003,ungrammatical,Anaphora,TS 9,ungrammatical
+man,2.2750053,3,text-davinci-003,ungrammatical,Anaphora,TS 9,ungrammatical
+Ġwho,4.9241157,4,text-davinci-003,ungrammatical,Anaphora,TS 9,ungrammatical
+Ġsupervised,5.9227266,5,text-davinci-003,ungrammatical,Anaphora,TS 9,ungrammatical
+Ġthe,0.64468044,6,text-davinci-003,ungrammatical,Anaphora,TS 9,ungrammatical
+Ġcoal,6.735544,7,text-davinci-003,ungrammatical,Anaphora,TS 9,ungrammatical
+Ġminers,0.5069484,8,text-davinci-003,ungrammatical,Anaphora,TS 9,ungrammatical
+Ġpresumably,13.0124855,9,text-davinci-003,ungrammatical,Anaphora,TS 9,ungrammatical
+Ġsaved,11.352282,10,text-davinci-003,ungrammatical,Anaphora,TS 9,ungrammatical
+Ġthemselves,8.577717,11,text-davinci-003,ungrammatical,Anaphora,TS 9,ungrammatical
+Ġafter,6.796595,12,text-davinci-003,ungrammatical,Anaphora,TS 9,ungrammatical
+Ġthe,0.37810808,13,text-davinci-003,ungrammatical,Anaphora,TS 9,ungrammatical
+Ġawful,9.9376,14,text-davinci-003,ungrammatical,Anaphora,TS 9,ungrammatical
+Ġcave,2.5432687,15,text-davinci-003,ungrammatical,Anaphora,TS 9,ungrammatical
+-,0.14201374,16,text-davinci-003,ungrammatical,Anaphora,TS 9,ungrammatical
+in,0.0017929897,17,text-davinci-003,ungrammatical,Anaphora,TS 9,ungrammatical
+The,3.6610966,0,text-davinci-003,grammatical,Anaphora,TS 10,ungrammatical
+Ġgrim,11.061359,1,text-davinci-003,grammatical,Anaphora,TS 10,ungrammatical
+y,3.3911006,2,text-davinci-003,grammatical,Anaphora,TS 10,ungrammatical
+Ġblack,6.3471804,3,text-davinci-003,grammatical,Anaphora,TS 10,ungrammatical
+smith,3.9097018,4,text-davinci-003,grammatical,Anaphora,TS 10,ungrammatical
+Ġwho,4.485446,5,text-davinci-003,grammatical,Anaphora,TS 10,ungrammatical
+Ġworked,3.7963629,6,text-davinci-003,grammatical,Anaphora,TS 10,ungrammatical
+Ġfor,3.399557,7,text-davinci-003,grammatical,Anaphora,TS 10,ungrammatical
+Ġthe,1.1939845,8,text-davinci-003,grammatical,Anaphora,TS 10,ungrammatical
+Ġroyal,3.9578905,9,text-davinci-003,grammatical,Anaphora,TS 10,ungrammatical
+Ġknights,5.051167,10,text-davinci-003,grammatical,Anaphora,TS 10,ungrammatical
+Ġevidently,14.006991,11,text-davinci-003,grammatical,Anaphora,TS 10,ungrammatical
+Ġhurt,11.6325035,12,text-davinci-003,grammatical,Anaphora,TS 10,ungrammatical
+Ġhimself,1.8203218,13,text-davinci-003,grammatical,Anaphora,TS 10,ungrammatical
+Ġwith,3.282487,14,text-davinci-003,grammatical,Anaphora,TS 10,ungrammatical
+Ġthe,2.2167253,15,text-davinci-003,grammatical,Anaphora,TS 10,ungrammatical
+Ġsharp,3.8568234,16,text-davinci-003,grammatical,Anaphora,TS 10,ungrammatical
+Ġtools,1.4497638,17,text-davinci-003,grammatical,Anaphora,TS 10,ungrammatical
+The,3.6610966,0,text-davinci-003,ungrammatical,Anaphora,TS 10,ungrammatical
+Ġgrim,11.061359,1,text-davinci-003,ungrammatical,Anaphora,TS 10,ungrammatical
+y,3.3911006,2,text-davinci-003,ungrammatical,Anaphora,TS 10,ungrammatical
+Ġblack,6.3471804,3,text-davinci-003,ungrammatical,Anaphora,TS 10,ungrammatical
+smith,3.9097018,4,text-davinci-003,ungrammatical,Anaphora,TS 10,ungrammatical
+Ġwho,4.485446,5,text-davinci-003,ungrammatical,Anaphora,TS 10,ungrammatical
+Ġworked,3.796363,6,text-davinci-003,ungrammatical,Anaphora,TS 10,ungrammatical
+Ġfor,3.3995576,7,text-davinci-003,ungrammatical,Anaphora,TS 10,ungrammatical
+Ġthe,1.1939844,8,text-davinci-003,ungrammatical,Anaphora,TS 10,ungrammatical
+Ġroyal,3.9578907,9,text-davinci-003,ungrammatical,Anaphora,TS 10,ungrammatical
+Ġknights,5.0511627,10,text-davinci-003,ungrammatical,Anaphora,TS 10,ungrammatical
+Ġevidently,14.006991,11,text-davinci-003,ungrammatical,Anaphora,TS 10,ungrammatical
+Ġhurt,11.6325035,12,text-davinci-003,ungrammatical,Anaphora,TS 10,ungrammatical
+Ġthemselves,8.731619,13,text-davinci-003,ungrammatical,Anaphora,TS 10,ungrammatical
+Ġwith,3.423687,14,text-davinci-003,ungrammatical,Anaphora,TS 10,ungrammatical
+Ġthe,1.9218047,15,text-davinci-003,ungrammatical,Anaphora,TS 10,ungrammatical
+Ġsharp,3.643684,16,text-davinci-003,ungrammatical,Anaphora,TS 10,ungrammatical
+Ġtools,1.273242,17,text-davinci-003,ungrammatical,Anaphora,TS 10,ungrammatical
+The,3.6610951,0,text-davinci-003,grammatical,Center Embedding,TS 1,grammatical
+Ġancient,8.227874,1,text-davinci-003,grammatical,Center Embedding,TS 1,grammatical
+Ġmanuscript,8.401396,2,text-davinci-003,grammatical,Center Embedding,TS 1,grammatical
+Ġthat,3.3613245,3,text-davinci-003,grammatical,Center Embedding,TS 1,grammatical
+Ġthe,4.0966024,4,text-davinci-003,grammatical,Center Embedding,TS 1,grammatical
+Ġgrad,11.829882,5,text-davinci-003,grammatical,Center Embedding,TS 1,grammatical
+Ġstudent,0.12775935,6,text-davinci-003,grammatical,Center Embedding,TS 1,grammatical
+Ġwho,8.272848,7,text-davinci-003,grammatical,Center Embedding,TS 1,grammatical
+Ġthe,6.4031525,8,text-davinci-003,grammatical,Center Embedding,TS 1,grammatical
+Ġnew,7.6616106,9,text-davinci-003,grammatical,Center Embedding,TS 1,grammatical
+Ġcard,10.610742,10,text-davinci-003,grammatical,Center Embedding,TS 1,grammatical
+Ġcatalog,1.6063691,11,text-davinci-003,grammatical,Center Embedding,TS 1,grammatical
+Ġhad,4.041103,12,text-davinci-003,grammatical,Center Embedding,TS 1,grammatical
+Ġconfused,8.516386,13,text-davinci-003,grammatical,Center Embedding,TS 1,grammatical
+Ġa,4.7236,14,text-davinci-003,grammatical,Center Embedding,TS 1,grammatical
+Ġgreat,3.4177835,15,text-davinci-003,grammatical,Center Embedding,TS 1,grammatical
+Ġdeal,0.06600083,16,text-davinci-003,grammatical,Center Embedding,TS 1,grammatical
+Ġwas,4.677008,17,text-davinci-003,grammatical,Center Embedding,TS 1,grammatical
+Ġstudying,11.293084,18,text-davinci-003,grammatical,Center Embedding,TS 1,grammatical
+Ġin,3.677291,19,text-davinci-003,grammatical,Center Embedding,TS 1,grammatical
+Ġthe,0.17121688,20,text-davinci-003,grammatical,Center Embedding,TS 1,grammatical
+Ġlibrary,0.17885262,21,text-davinci-003,grammatical,Center Embedding,TS 1,grammatical
+Ġwas,0.13756336,22,text-davinci-003,grammatical,Center Embedding,TS 1,grammatical
+Ġmissing,9.588793,23,text-davinci-003,grammatical,Center Embedding,TS 1,grammatical
+Ġa,1.5591581,24,text-davinci-003,grammatical,Center Embedding,TS 1,grammatical
+Ġpage,2.5131955,25,text-davinci-003,grammatical,Center Embedding,TS 1,grammatical
+The,3.6695924,0,text-davinci-003,ungrammatical,Center Embedding,TS 1,grammatical
+Ġancient,8.227595,1,text-davinci-003,ungrammatical,Center Embedding,TS 1,grammatical
+Ġmanuscript,8.399762,2,text-davinci-003,ungrammatical,Center Embedding,TS 1,grammatical
+Ġthat,3.363679,3,text-davinci-003,ungrammatical,Center Embedding,TS 1,grammatical
+Ġthe,4.097601,4,text-davinci-003,ungrammatical,Center Embedding,TS 1,grammatical
+Ġgrad,11.82693,5,text-davinci-003,ungrammatical,Center Embedding,TS 1,grammatical
+Ġstudent,0.12842017,6,text-davinci-003,ungrammatical,Center Embedding,TS 1,grammatical
+Ġwho,8.273243,7,text-davinci-003,ungrammatical,Center Embedding,TS 1,grammatical
+Ġthe,6.3963213,8,text-davinci-003,ungrammatical,Center Embedding,TS 1,grammatical
+Ġnew,7.6670294,9,text-davinci-003,ungrammatical,Center Embedding,TS 1,grammatical
+Ġcard,10.61953,10,text-davinci-003,ungrammatical,Center Embedding,TS 1,grammatical
+Ġcatalog,1.6099656,11,text-davinci-003,ungrammatical,Center Embedding,TS 1,grammatical
+Ġhad,4.039011,12,text-davinci-003,ungrammatical,Center Embedding,TS 1,grammatical
+Ġconfused,8.5068,13,text-davinci-003,ungrammatical,Center Embedding,TS 1,grammatical
+Ġa,4.732255,14,text-davinci-003,ungrammatical,Center Embedding,TS 1,grammatical
+Ġgreat,3.4288619,15,text-davinci-003,ungrammatical,Center Embedding,TS 1,grammatical
+Ġdeal,0.06540428,16,text-davinci-003,ungrammatical,Center Embedding,TS 1,grammatical
+Ġwas,4.6499233,17,text-davinci-003,ungrammatical,Center Embedding,TS 1,grammatical
+Ġmissing,8.086959,18,text-davinci-003,ungrammatical,Center Embedding,TS 1,grammatical
+Ġa,2.5999088,19,text-davinci-003,ungrammatical,Center Embedding,TS 1,grammatical
+Ġpage,2.5870361,20,text-davinci-003,ungrammatical,Center Embedding,TS 1,grammatical
+The,3.6610951,0,text-davinci-003,grammatical,Center Embedding,TS 2,grammatical
+Ġlull,13.006235,1,text-davinci-003,grammatical,Center Embedding,TS 2,grammatical
+aby,1.5881554,2,text-davinci-003,grammatical,Center Embedding,TS 2,grammatical
+Ġthat,3.7129521,3,text-davinci-003,grammatical,Center Embedding,TS 2,grammatical
+Ġthe,3.5454028,4,text-davinci-003,grammatical,Center Embedding,TS 2,grammatical
+Ġfamous,8.751515,5,text-davinci-003,grammatical,Center Embedding,TS 2,grammatical
+Ġcountry,7.731819,6,text-davinci-003,grammatical,Center Embedding,TS 2,grammatical
+Ġsinger,0.3263128,7,text-davinci-003,grammatical,Center Embedding,TS 2,grammatical
+Ġwho,8.202064,8,text-davinci-003,grammatical,Center Embedding,TS 2,grammatical
+Ġthe,7.689624,9,text-davinci-003,grammatical,Center Embedding,TS 2,grammatical
+Ġrecord,6.8542166,10,text-davinci-003,grammatical,Center Embedding,TS 2,grammatical
+Ġlabel,1.8161448,11,text-davinci-003,grammatical,Center Embedding,TS 2,grammatical
+Ġhad,4.0330324,12,text-davinci-003,grammatical,Center Embedding,TS 2,grammatical
+Ġsigned,1.1840245,13,text-davinci-003,grammatical,Center Embedding,TS 2,grammatical
+Ġto,2.1345744,14,text-davinci-003,grammatical,Center Embedding,TS 2,grammatical
+Ġa,2.6367278,15,text-davinci-003,grammatical,Center Embedding,TS 2,grammatical
+Ġbig,4.3002157,16,text-davinci-003,grammatical,Center Embedding,TS 2,grammatical
+Ġcontract,0.89354086,17,text-davinci-003,grammatical,Center Embedding,TS 2,grammatical
+Ġwas,1.270291,18,text-davinci-003,grammatical,Center Embedding,TS 2,grammatical
+Ġsinging,1.6667004,19,text-davinci-003,grammatical,Center Embedding,TS 2,grammatical
+Ġyesterday,14.501899,20,text-davinci-003,grammatical,Center Embedding,TS 2,grammatical
+Ġwas,0.20660196,21,text-davinci-003,grammatical,Center Embedding,TS 2,grammatical
+Ġwritten,6.310564,22,text-davinci-003,grammatical,Center Embedding,TS 2,grammatical
+Ġseventy,13.22202,23,text-davinci-003,grammatical,Center Embedding,TS 2,grammatical
+Ġyears,0.15619457,24,text-davinci-003,grammatical,Center Embedding,TS 2,grammatical
+Ġago,0.0052283057,25,text-davinci-003,grammatical,Center Embedding,TS 2,grammatical
+The,3.6610951,0,text-davinci-003,ungrammatical,Center Embedding,TS 2,grammatical
+Ġlull,13.006235,1,text-davinci-003,ungrammatical,Center Embedding,TS 2,grammatical
+aby,1.5881554,2,text-davinci-003,ungrammatical,Center Embedding,TS 2,grammatical
+Ġthat,3.7129521,3,text-davinci-003,ungrammatical,Center Embedding,TS 2,grammatical
+Ġthe,3.5454028,4,text-davinci-003,ungrammatical,Center Embedding,TS 2,grammatical
+Ġfamous,8.751515,5,text-davinci-003,ungrammatical,Center Embedding,TS 2,grammatical
+Ġcountry,7.731819,6,text-davinci-003,ungrammatical,Center Embedding,TS 2,grammatical
+Ġsinger,0.3263128,7,text-davinci-003,ungrammatical,Center Embedding,TS 2,grammatical
+Ġwho,8.202064,8,text-davinci-003,ungrammatical,Center Embedding,TS 2,grammatical
+Ġthe,7.689624,9,text-davinci-003,ungrammatical,Center Embedding,TS 2,grammatical
+Ġrecord,6.8542166,10,text-davinci-003,ungrammatical,Center Embedding,TS 2,grammatical
+Ġlabel,1.8161448,11,text-davinci-003,ungrammatical,Center Embedding,TS 2,grammatical
+Ġhad,4.0330324,12,text-davinci-003,ungrammatical,Center Embedding,TS 2,grammatical
+Ġsigned,1.1840245,13,text-davinci-003,ungrammatical,Center Embedding,TS 2,grammatical
+Ġto,2.1345744,14,text-davinci-003,ungrammatical,Center Embedding,TS 2,grammatical
+Ġa,2.6367283,15,text-davinci-003,ungrammatical,Center Embedding,TS 2,grammatical
+Ġbig,4.3002157,16,text-davinci-003,ungrammatical,Center Embedding,TS 2,grammatical
+Ġcontract,0.89354086,17,text-davinci-003,ungrammatical,Center Embedding,TS 2,grammatical
+Ġwas,1.2702906,18,text-davinci-003,ungrammatical,Center Embedding,TS 2,grammatical
+Ġwritten,5.1369667,19,text-davinci-003,ungrammatical,Center Embedding,TS 2,grammatical
+Ġseventy,14.336189,20,text-davinci-003,ungrammatical,Center Embedding,TS 2,grammatical
+Ġyears,0.27763012,21,text-davinci-003,ungrammatical,Center Embedding,TS 2,grammatical
+Ġago,0.044264864,22,text-davinci-003,ungrammatical,Center Embedding,TS 2,grammatical
+The,3.66888,0,text-davinci-003,grammatical,Center Embedding,TS 3,grammatical
+Ġgame,7.280278,1,text-davinci-003,grammatical,Center Embedding,TS 3,grammatical
+Ġthat,4.4563975,2,text-davinci-003,grammatical,Center Embedding,TS 3,grammatical
+Ġthe,4.942689,3,text-davinci-003,grammatical,Center Embedding,TS 3,grammatical
+Ġchild,6.229654,4,text-davinci-003,grammatical,Center Embedding,TS 3,grammatical
+Ġwho,6.5966377,5,text-davinci-003,grammatical,Center Embedding,TS 3,grammatical
+Ġthe,6.424887,6,text-davinci-003,grammatical,Center Embedding,TS 3,grammatical
+Ġlawn,10.500519,7,text-davinci-003,grammatical,Center Embedding,TS 3,grammatical
+m,2.557963,8,text-davinci-003,grammatical,Center Embedding,TS 3,grammatical
+ower,0.045462854,9,text-davinci-003,grammatical,Center Embedding,TS 3,grammatical
+Ġhad,4.530846,10,text-davinci-003,grammatical,Center Embedding,TS 3,grammatical
+Ġstartled,7.8580065,11,text-davinci-003,grammatical,Center Embedding,TS 3,grammatical
+Ġin,3.4220107,12,text-davinci-003,grammatical,Center Embedding,TS 3,grammatical
+Ġthe,0.8380405,13,text-davinci-003,grammatical,Center Embedding,TS 3,grammatical
+Ġyard,7.311884,14,text-davinci-003,grammatical,Center Embedding,TS 3,grammatical
+Ġwas,0.6399995,15,text-davinci-003,grammatical,Center Embedding,TS 3,grammatical
+Ġplaying,4.0593743,16,text-davinci-003,grammatical,Center Embedding,TS 3,grammatical
+Ġin,3.952239,17,text-davinci-003,grammatical,Center Embedding,TS 3,grammatical
+Ġthe,0.27308035,18,text-davinci-003,grammatical,Center Embedding,TS 3,grammatical
+Ġmorning,7.636342,19,text-davinci-003,grammatical,Center Embedding,TS 3,grammatical
+Ġlasted,13.88578,20,text-davinci-003,grammatical,Center Embedding,TS 3,grammatical
+Ġfor,0.85001844,21,text-davinci-003,grammatical,Center Embedding,TS 3,grammatical
+Ġhours,2.6674554,22,text-davinci-003,grammatical,Center Embedding,TS 3,grammatical
+The,3.6610966,0,text-davinci-003,ungrammatical,Center Embedding,TS 3,grammatical
+Ġgame,7.280573,1,text-davinci-003,ungrammatical,Center Embedding,TS 3,grammatical
+Ġthat,4.456196,2,text-davinci-003,ungrammatical,Center Embedding,TS 3,grammatical
+Ġthe,4.9407673,3,text-davinci-003,ungrammatical,Center Embedding,TS 3,grammatical
+Ġchild,6.2337923,4,text-davinci-003,ungrammatical,Center Embedding,TS 3,grammatical
+Ġwho,6.602144,5,text-davinci-003,ungrammatical,Center Embedding,TS 3,grammatical
+Ġthe,6.418847,6,text-davinci-003,ungrammatical,Center Embedding,TS 3,grammatical
+Ġlawn,10.511761,7,text-davinci-003,ungrammatical,Center Embedding,TS 3,grammatical
+m,2.5409126,8,text-davinci-003,ungrammatical,Center Embedding,TS 3,grammatical
+ower,0.045780595,9,text-davinci-003,ungrammatical,Center Embedding,TS 3,grammatical
+Ġhad,4.543201,10,text-davinci-003,ungrammatical,Center Embedding,TS 3,grammatical
+Ġstartled,7.870592,11,text-davinci-003,ungrammatical,Center Embedding,TS 3,grammatical
+Ġin,3.4134011,12,text-davinci-003,ungrammatical,Center Embedding,TS 3,grammatical
+Ġthe,0.84176624,13,text-davinci-003,ungrammatical,Center Embedding,TS 3,grammatical
+Ġyard,7.290621,14,text-davinci-003,ungrammatical,Center Embedding,TS 3,grammatical
+Ġlasted,13.20781,15,text-davinci-003,ungrammatical,Center Embedding,TS 3,grammatical
+Ġfor,0.8063579,16,text-davinci-003,ungrammatical,Center Embedding,TS 3,grammatical
+Ġhours,2.297463,17,text-davinci-003,ungrammatical,Center Embedding,TS 3,grammatical
+The,3.6610966,0,text-davinci-003,grammatical,Center Embedding,TS 4,grammatical
+Ġcrime,9.967343,1,text-davinci-003,grammatical,Center Embedding,TS 4,grammatical
+Ġthat,4.5799065,2,text-davinci-003,grammatical,Center Embedding,TS 4,grammatical
+Ġthe,3.7710354,3,text-davinci-003,grammatical,Center Embedding,TS 4,grammatical
+Ġgang,6.067506,4,text-davinci-003,grammatical,Center Embedding,TS 4,grammatical
+ster,3.1876009,5,text-davinci-003,grammatical,Center Embedding,TS 4,grammatical
+Ġwho,6.6019206,6,text-davinci-003,grammatical,Center Embedding,TS 4,grammatical
+Ġthe,5.2850103,7,text-davinci-003,grammatical,Center Embedding,TS 4,grammatical
+Ġstory,3.760655,8,text-davinci-003,grammatical,Center Embedding,TS 4,grammatical
+Ġhad,8.449478,9,text-davinci-003,grammatical,Center Embedding,TS 4,grammatical
+Ġprof,9.513489,10,text-davinci-003,grammatical,Center Embedding,TS 4,grammatical
+iled,0.023301963,11,text-davinci-003,grammatical,Center Embedding,TS 4,grammatical
+Ġhad,0.8804739,12,text-davinci-003,grammatical,Center Embedding,TS 4,grammatical
+Ġplanned,8.252022,13,text-davinci-003,grammatical,Center Embedding,TS 4,grammatical
+Ġfor,4.482448,14,text-davinci-003,grammatical,Center Embedding,TS 4,grammatical
+Ġweeks,4.7987328,15,text-davinci-003,grammatical,Center Embedding,TS 4,grammatical
+Ġwas,0.60055,16,text-davinci-003,grammatical,Center Embedding,TS 4,grammatical
+Ġquickly,14.926889,17,text-davinci-003,grammatical,Center Embedding,TS 4,grammatical
+Ġsolved,7.863542,18,text-davinci-003,grammatical,Center Embedding,TS 4,grammatical
+The,3.6610966,0,text-davinci-003,ungrammatical,Center Embedding,TS 4,grammatical
+Ġcrime,9.967343,1,text-davinci-003,ungrammatical,Center Embedding,TS 4,grammatical
+Ġthat,4.5799065,2,text-davinci-003,ungrammatical,Center Embedding,TS 4,grammatical
+Ġthe,3.7710354,3,text-davinci-003,ungrammatical,Center Embedding,TS 4,grammatical
+Ġgang,6.067506,4,text-davinci-003,ungrammatical,Center Embedding,TS 4,grammatical
+ster,3.1876006,5,text-davinci-003,ungrammatical,Center Embedding,TS 4,grammatical
+Ġwho,6.601921,6,text-davinci-003,ungrammatical,Center Embedding,TS 4,grammatical
+Ġthe,5.2850113,7,text-davinci-003,ungrammatical,Center Embedding,TS 4,grammatical
+Ġstory,3.7606566,8,text-davinci-003,ungrammatical,Center Embedding,TS 4,grammatical
+Ġhad,8.44948,9,text-davinci-003,ungrammatical,Center Embedding,TS 4,grammatical
+Ġprof,9.513488,10,text-davinci-003,ungrammatical,Center Embedding,TS 4,grammatical
+iled,0.023301963,11,text-davinci-003,ungrammatical,Center Embedding,TS 4,grammatical
+Ġwas,2.1028707,12,text-davinci-003,ungrammatical,Center Embedding,TS 4,grammatical
+Ġquickly,11.868722,13,text-davinci-003,ungrammatical,Center Embedding,TS 4,grammatical
+Ġsolved,4.7324452,14,text-davinci-003,ungrammatical,Center Embedding,TS 4,grammatical
+The,3.6610966,0,text-davinci-003,grammatical,Center Embedding,TS 5,grammatical
+Ġpicture,8.250499,1,text-davinci-003,grammatical,Center Embedding,TS 5,grammatical
+Ġthat,3.6970613,2,text-davinci-003,grammatical,Center Embedding,TS 5,grammatical
+Ġthe,3.8895087,3,text-davinci-003,grammatical,Center Embedding,TS 5,grammatical
+Ġartist,4.403652,4,text-davinci-003,grammatical,Center Embedding,TS 5,grammatical
+Ġwho,7.4679585,5,text-davinci-003,grammatical,Center Embedding,TS 5,grammatical
+Ġthe,6.5951853,6,text-davinci-003,grammatical,Center Embedding,TS 5,grammatical
+Ġschool,7.1011395,7,text-davinci-003,grammatical,Center Embedding,TS 5,grammatical
+Ġhad,3.1977057,8,text-davinci-003,grammatical,Center Embedding,TS 5,grammatical
+Ġexpelled,13.797473,9,text-davinci-003,grammatical,Center Embedding,TS 5,grammatical
+Ġfor,3.218628,10,text-davinci-003,grammatical,Center Embedding,TS 5,grammatical
+Ġcheating,5.8496094,11,text-davinci-003,grammatical,Center Embedding,TS 5,grammatical
+Ġwas,3.4171898,12,text-davinci-003,grammatical,Center Embedding,TS 5,grammatical
+Ġhurried,12.447885,13,text-davinci-003,grammatical,Center Embedding,TS 5,grammatical
+ly,0.013828722,14,text-davinci-003,grammatical,Center Embedding,TS 5,grammatical
+Ġcopying,6.8918495,15,text-davinci-003,grammatical,Center Embedding,TS 5,grammatical
+Ġwas,0.87862426,16,text-davinci-003,grammatical,Center Embedding,TS 5,grammatical
+Ġprinted,11.896882,17,text-davinci-003,grammatical,Center Embedding,TS 5,grammatical
+Ġin,0.79784596,18,text-davinci-003,grammatical,Center Embedding,TS 5,grammatical
+Ġa,1.305212,19,text-davinci-003,grammatical,Center Embedding,TS 5,grammatical
+Ġmagazine,1.4864795,20,text-davinci-003,grammatical,Center Embedding,TS 5,grammatical
+The,3.6610951,0,text-davinci-003,ungrammatical,Center Embedding,TS 5,grammatical
+Ġpicture,8.2505,1,text-davinci-003,ungrammatical,Center Embedding,TS 5,grammatical
+Ġthat,3.6970615,2,text-davinci-003,ungrammatical,Center Embedding,TS 5,grammatical
+Ġthe,3.8895097,3,text-davinci-003,ungrammatical,Center Embedding,TS 5,grammatical
+Ġartist,4.4036508,4,text-davinci-003,ungrammatical,Center Embedding,TS 5,grammatical
+Ġwho,7.4679585,5,text-davinci-003,ungrammatical,Center Embedding,TS 5,grammatical
+Ġthe,6.5951853,6,text-davinci-003,ungrammatical,Center Embedding,TS 5,grammatical
+Ġschool,7.1011395,7,text-davinci-003,ungrammatical,Center Embedding,TS 5,grammatical
+Ġhad,3.1977057,8,text-davinci-003,ungrammatical,Center Embedding,TS 5,grammatical
+Ġexpelled,13.797473,9,text-davinci-003,ungrammatical,Center Embedding,TS 5,grammatical
+Ġfor,3.218628,10,text-davinci-003,ungrammatical,Center Embedding,TS 5,grammatical
+Ġcheating,5.8496094,11,text-davinci-003,ungrammatical,Center Embedding,TS 5,grammatical
+Ġwas,3.4171898,12,text-davinci-003,ungrammatical,Center Embedding,TS 5,grammatical
+Ġhurried,12.447885,13,text-davinci-003,ungrammatical,Center Embedding,TS 5,grammatical
+ly,0.013828722,14,text-davinci-003,ungrammatical,Center Embedding,TS 5,grammatical
+Ġcopying,6.8918495,15,text-davinci-003,ungrammatical,Center Embedding,TS 5,grammatical
+Ġwas,0.87862426,16,text-davinci-003,ungrammatical,Center Embedding,TS 5,grammatical
+Ġprinted,11.896882,17,text-davinci-003,ungrammatical,Center Embedding,TS 5,grammatical
+Ġin,0.79784596,18,text-davinci-003,ungrammatical,Center Embedding,TS 5,grammatical
+Ġa,1.305212,19,text-davinci-003,ungrammatical,Center Embedding,TS 5,grammatical
+Ġmagazine,1.4864795,20,text-davinci-003,ungrammatical,Center Embedding,TS 5,grammatical
+The,3.668752,0,text-davinci-003,grammatical,Center Embedding,TS 6,ungrammatical
+Ġtrophy,11.372303,1,text-davinci-003,grammatical,Center Embedding,TS 6,ungrammatical
+Ġthat,4.398873,2,text-davinci-003,grammatical,Center Embedding,TS 6,ungrammatical
+Ġthe,2.3972695,3,text-davinci-003,grammatical,Center Embedding,TS 6,ungrammatical
+Ġathlete,8.972159,4,text-davinci-003,grammatical,Center Embedding,TS 6,ungrammatical
+Ġwho,3.6164565,5,text-davinci-003,grammatical,Center Embedding,TS 6,ungrammatical
+Ġthe,8.369741,6,text-davinci-003,grammatical,Center Embedding,TS 6,ungrammatical
+Ġrestaurant,11.189526,7,text-davinci-003,grammatical,Center Embedding,TS 6,ungrammatical
+Ġhad,5.0730786,8,text-davinci-003,grammatical,Center Embedding,TS 6,ungrammatical
+Ġhired,5.334172,9,text-davinci-003,grammatical,Center Embedding,TS 6,ungrammatical
+Ġas,3.5080838,10,text-davinci-003,grammatical,Center Embedding,TS 6,ungrammatical
+Ġa,0.43326896,11,text-davinci-003,grammatical,Center Embedding,TS 6,ungrammatical
+Ġspokesman,2.1907616,12,text-davinci-003,grammatical,Center Embedding,TS 6,ungrammatical
+Ġcherished,10.182587,13,text-davinci-003,grammatical,Center Embedding,TS 6,ungrammatical
+Ġwas,1.4951102,14,text-davinci-003,grammatical,Center Embedding,TS 6,ungrammatical
+Ġstolen,2.271139,15,text-davinci-003,grammatical,Center Embedding,TS 6,ungrammatical
+Ġlater,13.118587,16,text-davinci-003,grammatical,Center Embedding,TS 6,ungrammatical
+The,3.6610966,0,text-davinci-003,ungrammatical,Center Embedding,TS 6,ungrammatical
+Ġtrophy,11.371927,1,text-davinci-003,ungrammatical,Center Embedding,TS 6,ungrammatical
+Ġthat,4.3979588,2,text-davinci-003,ungrammatical,Center Embedding,TS 6,ungrammatical
+Ġthe,2.3942885,3,text-davinci-003,ungrammatical,Center Embedding,TS 6,ungrammatical
+Ġathlete,8.967537,4,text-davinci-003,ungrammatical,Center Embedding,TS 6,ungrammatical
+Ġwho,3.624298,5,text-davinci-003,ungrammatical,Center Embedding,TS 6,ungrammatical
+Ġthe,8.368761,6,text-davinci-003,ungrammatical,Center Embedding,TS 6,ungrammatical
+Ġrestaurant,11.179359,7,text-davinci-003,ungrammatical,Center Embedding,TS 6,ungrammatical
+Ġhad,5.0142856,8,text-davinci-003,ungrammatical,Center Embedding,TS 6,ungrammatical
+Ġhired,5.4230394,9,text-davinci-003,ungrammatical,Center Embedding,TS 6,ungrammatical
+Ġas,3.528474,10,text-davinci-003,ungrammatical,Center Embedding,TS 6,ungrammatical
+Ġa,0.43233782,11,text-davinci-003,ungrammatical,Center Embedding,TS 6,ungrammatical
+Ġspokesman,2.1944313,12,text-davinci-003,ungrammatical,Center Embedding,TS 6,ungrammatical
+Ġwas,1.1134967,13,text-davinci-003,ungrammatical,Center Embedding,TS 6,ungrammatical
+Ġstolen,9.687338,14,text-davinci-003,ungrammatical,Center Embedding,TS 6,ungrammatical
+Ġlater,12.692898,15,text-davinci-003,ungrammatical,Center Embedding,TS 6,ungrammatical
+The,3.6610966,0,text-davinci-003,grammatical,Center Embedding,TS 7,ungrammatical
+Ġapartment,6.8214087,1,text-davinci-003,grammatical,Center Embedding,TS 7,ungrammatical
+Ġthat,7.236828,2,text-davinci-003,grammatical,Center Embedding,TS 7,ungrammatical
+Ġthe,4.507437,3,text-davinci-003,grammatical,Center Embedding,TS 7,ungrammatical
+Ġmaid,8.33923,4,text-davinci-003,grammatical,Center Embedding,TS 7,ungrammatical
+Ġwho,6.6193643,5,text-davinci-003,grammatical,Center Embedding,TS 7,ungrammatical
+Ġthe,5.7302876,6,text-davinci-003,grammatical,Center Embedding,TS 7,ungrammatical
+Ġservice,7.444915,7,text-davinci-003,grammatical,Center Embedding,TS 7,ungrammatical
+Ġhad,4.672901,8,text-davinci-003,grammatical,Center Embedding,TS 7,ungrammatical
+Ġsent,4.6330633,9,text-davinci-003,grammatical,Center Embedding,TS 7,ungrammatical
+Ġover,4.4487,10,text-davinci-003,grammatical,Center Embedding,TS 7,ungrammatical
+Ġcleaned,5.144499,11,text-davinci-003,grammatical,Center Embedding,TS 7,ungrammatical
+Ġwas,0.6266438,12,text-davinci-003,grammatical,Center Embedding,TS 7,ungrammatical
+Ġwell,5.6600676,13,text-davinci-003,grammatical,Center Embedding,TS 7,ungrammatical
+Ġdecorated,5.2979574,14,text-davinci-003,grammatical,Center Embedding,TS 7,ungrammatical
+The,3.6690054,0,text-davinci-003,ungrammatical,Center Embedding,TS 7,ungrammatical
+Ġapartment,6.82098,1,text-davinci-003,ungrammatical,Center Embedding,TS 7,ungrammatical
+Ġthat,7.236033,2,text-davinci-003,ungrammatical,Center Embedding,TS 7,ungrammatical
+Ġthe,4.5112414,3,text-davinci-003,ungrammatical,Center Embedding,TS 7,ungrammatical
+Ġmaid,8.333919,4,text-davinci-003,ungrammatical,Center Embedding,TS 7,ungrammatical
+Ġwho,6.621105,5,text-davinci-003,ungrammatical,Center Embedding,TS 7,ungrammatical
+Ġthe,5.7248297,6,text-davinci-003,ungrammatical,Center Embedding,TS 7,ungrammatical
+Ġservice,7.4418106,7,text-davinci-003,ungrammatical,Center Embedding,TS 7,ungrammatical
+Ġhad,4.661079,8,text-davinci-003,ungrammatical,Center Embedding,TS 7,ungrammatical
+Ġsent,4.631005,9,text-davinci-003,ungrammatical,Center Embedding,TS 7,ungrammatical
+Ġover,4.4526296,10,text-davinci-003,ungrammatical,Center Embedding,TS 7,ungrammatical
+Ġwas,0.42452362,11,text-davinci-003,ungrammatical,Center Embedding,TS 7,ungrammatical
+Ġwell,4.9301624,12,text-davinci-003,ungrammatical,Center Embedding,TS 7,ungrammatical
+Ġdecorated,3.249848,13,text-davinci-003,ungrammatical,Center Embedding,TS 7,ungrammatical
+The,3.6695924,0,text-davinci-003,grammatical,Center Embedding,TS 8,ungrammatical
+Ġshirt,10.942497,1,text-davinci-003,grammatical,Center Embedding,TS 8,ungrammatical
+Ġthat,3.600985,2,text-davinci-003,grammatical,Center Embedding,TS 8,ungrammatical
+Ġthe,5.2059507,3,text-davinci-003,grammatical,Center Embedding,TS 8,ungrammatical
+Ġseam,9.830519,4,text-davinci-003,grammatical,Center Embedding,TS 8,ungrammatical
+stress,0.09125967,5,text-davinci-003,grammatical,Center Embedding,TS 8,ungrammatical
+Ġwho,6.4939866,6,text-davinci-003,grammatical,Center Embedding,TS 8,ungrammatical
+Ġthe,7.2835174,7,text-davinci-003,grammatical,Center Embedding,TS 8,ungrammatical
+Ġimmigration,10.35462,8,text-davinci-003,grammatical,Center Embedding,TS 8,ungrammatical
+Ġofficer,0.7110766,9,text-davinci-003,grammatical,Center Embedding,TS 8,ungrammatical
+Ġhad,3.2322295,10,text-davinci-003,grammatical,Center Embedding,TS 8,ungrammatical
+Ġinvestigated,9.824926,11,text-davinci-003,grammatical,Center Embedding,TS 8,ungrammatical
+Ġlast,7.521013,12,text-davinci-003,grammatical,Center Embedding,TS 8,ungrammatical
+Ġweek,0.3664525,13,text-davinci-003,grammatical,Center Embedding,TS 8,ungrammatical
+Ġwore,5.516086,14,text-davinci-003,grammatical,Center Embedding,TS 8,ungrammatical
+Ġneeded,8.893576,15,text-davinci-003,grammatical,Center Embedding,TS 8,ungrammatical
+Ġto,0.11570596,16,text-davinci-003,grammatical,Center Embedding,TS 8,ungrammatical
+Ġbe,0.009170145,17,text-davinci-003,grammatical,Center Embedding,TS 8,ungrammatical
+Ġdry,4.2517567,18,text-davinci-003,grammatical,Center Embedding,TS 8,ungrammatical
+Ġcleaned,0.6603146,19,text-davinci-003,grammatical,Center Embedding,TS 8,ungrammatical
+The,3.6610966,0,text-davinci-003,ungrammatical,Center Embedding,TS 8,ungrammatical
+Ġshirt,10.942944,1,text-davinci-003,ungrammatical,Center Embedding,TS 8,ungrammatical
+Ġthat,3.6011252,2,text-davinci-003,ungrammatical,Center Embedding,TS 8,ungrammatical
+Ġthe,5.201158,3,text-davinci-003,ungrammatical,Center Embedding,TS 8,ungrammatical
+Ġseam,9.828825,4,text-davinci-003,ungrammatical,Center Embedding,TS 8,ungrammatical
+stress,0.09058994,5,text-davinci-003,ungrammatical,Center Embedding,TS 8,ungrammatical
+Ġwho,6.4937024,6,text-davinci-003,ungrammatical,Center Embedding,TS 8,ungrammatical
+Ġthe,7.396002,7,text-davinci-003,ungrammatical,Center Embedding,TS 8,ungrammatical
+Ġimmigration,10.334017,8,text-davinci-003,ungrammatical,Center Embedding,TS 8,ungrammatical
+Ġofficer,0.7177567,9,text-davinci-003,ungrammatical,Center Embedding,TS 8,ungrammatical
+Ġhad,3.234378,10,text-davinci-003,ungrammatical,Center Embedding,TS 8,ungrammatical
+Ġinvestigated,9.821257,11,text-davinci-003,ungrammatical,Center Embedding,TS 8,ungrammatical
+Ġlast,7.5251904,12,text-davinci-003,ungrammatical,Center Embedding,TS 8,ungrammatical
+Ġweek,0.36677417,13,text-davinci-003,ungrammatical,Center Embedding,TS 8,ungrammatical
+Ġneeded,8.104527,14,text-davinci-003,ungrammatical,Center Embedding,TS 8,ungrammatical
+Ġto,0.36614498,15,text-davinci-003,ungrammatical,Center Embedding,TS 8,ungrammatical
+Ġbe,0.19597085,16,text-davinci-003,ungrammatical,Center Embedding,TS 8,ungrammatical
+Ġdry,6.550044,17,text-davinci-003,ungrammatical,Center Embedding,TS 8,ungrammatical
+Ġcleaned,0.6023876,18,text-davinci-003,ungrammatical,Center Embedding,TS 8,ungrammatical
+The,3.668878,0,text-davinci-003,grammatical,Center Embedding,TS 9,ungrammatical
+Ġlecture,10.33111,1,text-davinci-003,grammatical,Center Embedding,TS 9,ungrammatical
+Ġthat,5.455121,2,text-davinci-003,grammatical,Center Embedding,TS 9,ungrammatical
+Ġthe,4.869873,3,text-davinci-003,grammatical,Center Embedding,TS 9,ungrammatical
+Ġprofessor,2.599604,4,text-davinci-003,grammatical,Center Embedding,TS 9,ungrammatical
+Ġwho,7.8114333,5,text-davinci-003,grammatical,Center Embedding,TS 9,ungrammatical
+Ġthe,6.385269,6,text-davinci-003,grammatical,Center Embedding,TS 9,ungrammatical
+Ġnewspaper,8.098301,7,text-davinci-003,grammatical,Center Embedding,TS 9,ungrammatical
+Ġstory,6.5435967,8,text-davinci-003,grammatical,Center Embedding,TS 9,ungrammatical
+Ġhad,5.7582116,9,text-davinci-003,grammatical,Center Embedding,TS 9,ungrammatical
+Ġjust,4.011035,10,text-davinci-003,grammatical,Center Embedding,TS 9,ungrammatical
+Ġprof,5.3770065,11,text-davinci-003,grammatical,Center Embedding,TS 9,ungrammatical
+iled,0.0005100222,12,text-davinci-003,grammatical,Center Embedding,TS 9,ungrammatical
+Ġin,6.1881757,13,text-davinci-003,grammatical,Center Embedding,TS 9,ungrammatical
+Ġdetail,4.731457,14,text-davinci-003,grammatical,Center Embedding,TS 9,ungrammatical
+Ġdelivered,4.826193,15,text-davinci-003,grammatical,Center Embedding,TS 9,ungrammatical
+Ġwas,0.9365052,16,text-davinci-003,grammatical,Center Embedding,TS 9,ungrammatical
+Ġnot,6.096655,17,text-davinci-003,grammatical,Center Embedding,TS 9,ungrammatical
+Ġwell,1.2795761,18,text-davinci-003,grammatical,Center Embedding,TS 9,ungrammatical
+Ġattended,1.2839745,19,text-davinci-003,grammatical,Center Embedding,TS 9,ungrammatical
+The,3.6695924,0,text-davinci-003,ungrammatical,Center Embedding,TS 9,ungrammatical
+Ġlecture,10.331273,1,text-davinci-003,ungrammatical,Center Embedding,TS 9,ungrammatical
+Ġthat,5.4561706,2,text-davinci-003,ungrammatical,Center Embedding,TS 9,ungrammatical
+Ġthe,4.868481,3,text-davinci-003,ungrammatical,Center Embedding,TS 9,ungrammatical
+Ġprofessor,2.605042,4,text-davinci-003,ungrammatical,Center Embedding,TS 9,ungrammatical
+Ġwho,7.809495,5,text-davinci-003,ungrammatical,Center Embedding,TS 9,ungrammatical
+Ġthe,6.386236,6,text-davinci-003,ungrammatical,Center Embedding,TS 9,ungrammatical
+Ġnewspaper,8.111854,7,text-davinci-003,ungrammatical,Center Embedding,TS 9,ungrammatical
+Ġstory,6.519528,8,text-davinci-003,ungrammatical,Center Embedding,TS 9,ungrammatical
+Ġhad,5.7725053,9,text-davinci-003,ungrammatical,Center Embedding,TS 9,ungrammatical
+Ġjust,4.004212,10,text-davinci-003,ungrammatical,Center Embedding,TS 9,ungrammatical
+Ġprof,5.3692303,11,text-davinci-003,ungrammatical,Center Embedding,TS 9,ungrammatical
+iled,0.000508711,12,text-davinci-003,ungrammatical,Center Embedding,TS 9,ungrammatical
+Ġin,6.1858926,13,text-davinci-003,ungrammatical,Center Embedding,TS 9,ungrammatical
+Ġdetail,4.735776,14,text-davinci-003,ungrammatical,Center Embedding,TS 9,ungrammatical
+Ġwas,1.1105556,15,text-davinci-003,ungrammatical,Center Embedding,TS 9,ungrammatical
+Ġnot,5.025384,16,text-davinci-003,ungrammatical,Center Embedding,TS 9,ungrammatical
+Ġwell,2.8466916,17,text-davinci-003,ungrammatical,Center Embedding,TS 9,ungrammatical
+Ġattended,0.56901723,18,text-davinci-003,ungrammatical,Center Embedding,TS 9,ungrammatical
+The,3.6610966,0,text-davinci-003,grammatical,Center Embedding,TS 10,ungrammatical
+Ġnovel,8.550089,1,text-davinci-003,grammatical,Center Embedding,TS 10,ungrammatical
+Ġthat,5.729376,2,text-davinci-003,grammatical,Center Embedding,TS 10,ungrammatical
+Ġthe,5.21381,3,text-davinci-003,grammatical,Center Embedding,TS 10,ungrammatical
+Ġhorror,8.019146,4,text-davinci-003,grammatical,Center Embedding,TS 10,ungrammatical
+Ġauthor,5.2225437,5,text-davinci-003,grammatical,Center Embedding,TS 10,ungrammatical
+Ġwho,6.1497107,6,text-davinci-003,grammatical,Center Embedding,TS 10,ungrammatical
+Ġthe,6.5236154,7,text-davinci-003,grammatical,Center Embedding,TS 10,ungrammatical
+Ġpublishing,9.397472,8,text-davinci-003,grammatical,Center Embedding,TS 10,ungrammatical
+Ġcompany,1.2761205,9,text-davinci-003,grammatical,Center Embedding,TS 10,ungrammatical
+Ġhad,3.069375,10,text-davinci-003,grammatical,Center Embedding,TS 10,ungrammatical
+Ġrecently,3.580726,11,text-davinci-003,grammatical,Center Embedding,TS 10,ungrammatical
+Ġfired,7.78365,12,text-davinci-003,grammatical,Center Embedding,TS 10,ungrammatical
+Ġwrote,0.8189407,13,text-davinci-003,grammatical,Center Embedding,TS 10,ungrammatical
+Ġlast,8.067615,14,text-davinci-003,grammatical,Center Embedding,TS 10,ungrammatical
+Ġyear,2.2315228,15,text-davinci-003,grammatical,Center Embedding,TS 10,ungrammatical
+Ġwas,1.093132,16,text-davinci-003,grammatical,Center Embedding,TS 10,ungrammatical
+Ġbanned,7.8405304,17,text-davinci-003,grammatical,Center Embedding,TS 10,ungrammatical
+Ġby,1.4647019,18,text-davinci-003,grammatical,Center Embedding,TS 10,ungrammatical
+Ġthe,0.23150307,19,text-davinci-003,grammatical,Center Embedding,TS 10,ungrammatical
+Ġlocal,2.5985,20,text-davinci-003,grammatical,Center Embedding,TS 10,ungrammatical
+Ġlibrary,0.5594394,21,text-davinci-003,grammatical,Center Embedding,TS 10,ungrammatical
+The,3.6695924,0,text-davinci-003,ungrammatical,Center Embedding,TS 10,ungrammatical
+Ġnovel,8.550196,1,text-davinci-003,ungrammatical,Center Embedding,TS 10,ungrammatical
+Ġthat,5.7277484,2,text-davinci-003,ungrammatical,Center Embedding,TS 10,ungrammatical
+Ġthe,5.214021,3,text-davinci-003,ungrammatical,Center Embedding,TS 10,ungrammatical
+Ġhorror,8.021608,4,text-davinci-003,ungrammatical,Center Embedding,TS 10,ungrammatical
+Ġauthor,5.2112575,5,text-davinci-003,ungrammatical,Center Embedding,TS 10,ungrammatical
+Ġwho,6.1483283,6,text-davinci-003,ungrammatical,Center Embedding,TS 10,ungrammatical
+Ġthe,6.5306816,7,text-davinci-003,ungrammatical,Center Embedding,TS 10,ungrammatical
+Ġpublishing,9.405834,8,text-davinci-003,ungrammatical,Center Embedding,TS 10,ungrammatical
+Ġcompany,1.2760236,9,text-davinci-003,ungrammatical,Center Embedding,TS 10,ungrammatical
+Ġhad,3.0705998,10,text-davinci-003,ungrammatical,Center Embedding,TS 10,ungrammatical
+Ġrecently,3.59411,11,text-davinci-003,ungrammatical,Center Embedding,TS 10,ungrammatical
+Ġfired,7.775064,12,text-davinci-003,ungrammatical,Center Embedding,TS 10,ungrammatical
+Ġwas,1.4131305,13,text-davinci-003,ungrammatical,Center Embedding,TS 10,ungrammatical
+Ġbanned,9.591714,14,text-davinci-003,ungrammatical,Center Embedding,TS 10,ungrammatical
+Ġby,3.0716836,15,text-davinci-003,ungrammatical,Center Embedding,TS 10,ungrammatical
+Ġthe,0.13786782,16,text-davinci-003,ungrammatical,Center Embedding,TS 10,ungrammatical
+Ġlocal,2.4686515,17,text-davinci-003,ungrammatical,Center Embedding,TS 10,ungrammatical
+Ġlibrary,0.4560363,18,text-davinci-003,ungrammatical,Center Embedding,TS 10,ungrammatical
+More,7.3923564,0,text-davinci-003,grammatical,Comparative Sentences,TS 1,grammatical
+Ġgym,12.604828,1,text-davinci-003,grammatical,Comparative Sentences,TS 1,grammatical
+Ġinstructors,6.8603315,2,text-davinci-003,grammatical,Comparative Sentences,TS 1,grammatical
+Ġwon,8.878799,3,text-davinci-003,grammatical,Comparative Sentences,TS 1,grammatical
+Ġa,6.335101,4,text-davinci-003,grammatical,Comparative Sentences,TS 1,grammatical
+Ġmarathon,7.902832,5,text-davinci-003,grammatical,Comparative Sentences,TS 1,grammatical
+Ġyesterday,5.9475145,6,text-davinci-003,grammatical,Comparative Sentences,TS 1,grammatical
+Ġthan,2.373146,7,text-davinci-003,grammatical,Comparative Sentences,TS 1,grammatical
+Ġlawyers,5.0780606,8,text-davinci-003,grammatical,Comparative Sentences,TS 1,grammatical
+Ġdid,3.8044546,9,text-davinci-003,grammatical,Comparative Sentences,TS 1,grammatical
+More,7.392357,0,text-davinci-003,ungrammatical,Comparative Sentences,TS 1,grammatical
+Ġgym,12.604828,1,text-davinci-003,ungrammatical,Comparative Sentences,TS 1,grammatical
+Ġinstructors,6.8603315,2,text-davinci-003,ungrammatical,Comparative Sentences,TS 1,grammatical
+Ġwon,8.878798,3,text-davinci-003,ungrammatical,Comparative Sentences,TS 1,grammatical
+Ġa,6.3351,4,text-davinci-003,ungrammatical,Comparative Sentences,TS 1,grammatical
+Ġmarathon,7.902832,5,text-davinci-003,ungrammatical,Comparative Sentences,TS 1,grammatical
+Ġyesterday,5.947514,6,text-davinci-003,ungrammatical,Comparative Sentences,TS 1,grammatical
+Ġthan,2.3731458,7,text-davinci-003,ungrammatical,Comparative Sentences,TS 1,grammatical
+ĠNik,14.949575,8,text-davinci-003,ungrammatical,Comparative Sentences,TS 1,grammatical
+h,1.2478836,9,text-davinci-003,ungrammatical,Comparative Sentences,TS 1,grammatical
+il,0.010391371,10,text-davinci-003,ungrammatical,Comparative Sentences,TS 1,grammatical
+Ġdid,1.6296353,11,text-davinci-003,ungrammatical,Comparative Sentences,TS 1,grammatical
+More,7.392357,0,text-davinci-003,grammatical,Comparative Sentences,TS 2,grammatical
+ĠAmericans,6.06147,1,text-davinci-003,grammatical,Comparative Sentences,TS 2,grammatical
+Ġbegan,7.2873116,2,text-davinci-003,grammatical,Comparative Sentences,TS 2,grammatical
+Ġlaw,11.501087,3,text-davinci-003,grammatical,Comparative Sentences,TS 2,grammatical
+Ġschool,0.18735078,4,text-davinci-003,grammatical,Comparative Sentences,TS 2,grammatical
+Ġthis,1.266051,5,text-davinci-003,grammatical,Comparative Sentences,TS 2,grammatical
+Ġweek,3.8138585,6,text-davinci-003,grammatical,Comparative Sentences,TS 2,grammatical
+Ġthan,0.91725004,7,text-davinci-003,grammatical,Comparative Sentences,TS 2,grammatical
+ĠCanadians,13.904515,8,text-davinci-003,grammatical,Comparative Sentences,TS 2,grammatical
+Ġdid,3.2262578,9,text-davinci-003,grammatical,Comparative Sentences,TS 2,grammatical
+More,7.3923564,0,text-davinci-003,ungrammatical,Comparative Sentences,TS 2,grammatical
+ĠAmericans,6.06147,1,text-davinci-003,ungrammatical,Comparative Sentences,TS 2,grammatical
+Ġbegan,7.287312,2,text-davinci-003,ungrammatical,Comparative Sentences,TS 2,grammatical
+Ġlaw,11.501086,3,text-davinci-003,ungrammatical,Comparative Sentences,TS 2,grammatical
+Ġschool,0.18735057,4,text-davinci-003,ungrammatical,Comparative Sentences,TS 2,grammatical
+Ġthis,1.2660506,5,text-davinci-003,ungrammatical,Comparative Sentences,TS 2,grammatical
+Ġweek,3.8138568,6,text-davinci-003,ungrammatical,Comparative Sentences,TS 2,grammatical
+Ġthan,0.91724986,7,text-davinci-003,ungrammatical,Comparative Sentences,TS 2,grammatical
+ĠJason,16.0786,8,text-davinci-003,ungrammatical,Comparative Sentences,TS 2,grammatical
+Ġdid,4.753585,9,text-davinci-003,ungrammatical,Comparative Sentences,TS 2,grammatical
+This,4.958332,0,text-davinci-003,grammatical,Comparative Sentences,TS 3,grammatical
+Ġmonth,5.076639,1,text-davinci-003,grammatical,Comparative Sentences,TS 3,grammatical
+Ġmore,8.405619,2,text-davinci-003,grammatical,Comparative Sentences,TS 3,grammatical
+Ġone,11.488892,3,text-davinci-003,grammatical,Comparative Sentences,TS 3,grammatical
+-,2.7155998,4,text-davinci-003,grammatical,Comparative Sentences,TS 3,grammatical
+year,2.9307387,5,text-davinci-003,grammatical,Comparative Sentences,TS 3,grammatical
+-,1.7747986,6,text-davinci-003,grammatical,Comparative Sentences,TS 3,grammatical
+olds,0.5343671,7,text-davinci-003,grammatical,Comparative Sentences,TS 3,grammatical
+Ġtook,6.3365507,8,text-davinci-003,grammatical,Comparative Sentences,TS 3,grammatical
+Ġtheir,0.43715915,9,text-davinci-003,grammatical,Comparative Sentences,TS 3,grammatical
+Ġfirst,0.032673083,10,text-davinci-003,grammatical,Comparative Sentences,TS 3,grammatical
+Ġsteps,0.12654689,11,text-davinci-003,grammatical,Comparative Sentences,TS 3,grammatical
+Ġthan,0.8342319,12,text-davinci-003,grammatical,Comparative Sentences,TS 3,grammatical
+Ġ10,7.3098197,13,text-davinci-003,grammatical,Comparative Sentences,TS 3,grammatical
+-,0.11049775,14,text-davinci-003,grammatical,Comparative Sentences,TS 3,grammatical
+month,3.9367425,15,text-davinci-003,grammatical,Comparative Sentences,TS 3,grammatical
+-,0.037492096,16,text-davinci-003,grammatical,Comparative Sentences,TS 3,grammatical
+olds,0.018172303,17,text-davinci-003,grammatical,Comparative Sentences,TS 3,grammatical
+Ġdid,3.3920393,18,text-davinci-003,grammatical,Comparative Sentences,TS 3,grammatical
+This,4.958332,0,text-davinci-003,ungrammatical,Comparative Sentences,TS 3,grammatical
+Ġmonth,5.076639,1,text-davinci-003,ungrammatical,Comparative Sentences,TS 3,grammatical
+Ġmore,8.405619,2,text-davinci-003,ungrammatical,Comparative Sentences,TS 3,grammatical
+Ġone,11.488892,3,text-davinci-003,ungrammatical,Comparative Sentences,TS 3,grammatical
+-,2.7155998,4,text-davinci-003,ungrammatical,Comparative Sentences,TS 3,grammatical
+year,2.93074,5,text-davinci-003,ungrammatical,Comparative Sentences,TS 3,grammatical
+-,1.774798,6,text-davinci-003,ungrammatical,Comparative Sentences,TS 3,grammatical
+olds,0.5343671,7,text-davinci-003,ungrammatical,Comparative Sentences,TS 3,grammatical
+Ġtook,6.336551,8,text-davinci-003,ungrammatical,Comparative Sentences,TS 3,grammatical
+Ġtheir,0.437159,9,text-davinci-003,ungrammatical,Comparative Sentences,TS 3,grammatical
+Ġfirst,0.03267297,10,text-davinci-003,ungrammatical,Comparative Sentences,TS 3,grammatical
+Ġsteps,0.12654689,11,text-davinci-003,ungrammatical,Comparative Sentences,TS 3,grammatical
+Ġthan,0.8342319,12,text-davinci-003,ungrammatical,Comparative Sentences,TS 3,grammatical
+ĠMarie,13.778818,13,text-davinci-003,ungrammatical,Comparative Sentences,TS 3,grammatical
+'s,4.6731105,14,text-davinci-003,ungrammatical,Comparative Sentences,TS 3,grammatical
+Ġdaughter,6.2410793,15,text-davinci-003,ungrammatical,Comparative Sentences,TS 3,grammatical
+Ġdid,2.3622193,16,text-davinci-003,ungrammatical,Comparative Sentences,TS 3,grammatical
+Today,6.6112137,0,text-davinci-003,grammatical,Comparative Sentences,TS 4,grammatical
+Ġmore,6.7999644,1,text-davinci-003,grammatical,Comparative Sentences,TS 4,grammatical
+ĠBrazil,13.581151,2,text-davinci-003,grammatical,Comparative Sentences,TS 4,grammatical
+ians,0.013833424,3,text-davinci-003,grammatical,Comparative Sentences,TS 4,grammatical
+Ġimm,8.553431,4,text-davinci-003,grammatical,Comparative Sentences,TS 4,grammatical
+igrated,1.9247688,5,text-davinci-003,grammatical,Comparative Sentences,TS 4,grammatical
+Ġto,0.14870645,6,text-davinci-003,grammatical,Comparative Sentences,TS 4,grammatical
+ĠJapan,4.394182,7,text-davinci-003,grammatical,Comparative Sentences,TS 4,grammatical
+Ġthan,0.7190737,8,text-davinci-003,grammatical,Comparative Sentences,TS 4,grammatical
+ĠChile,10.246623,9,text-davinci-003,grammatical,Comparative Sentences,TS 4,grammatical
+ans,0.12360713,10,text-davinci-003,grammatical,Comparative Sentences,TS 4,grammatical
+Ġdid,3.5909483,11,text-davinci-003,grammatical,Comparative Sentences,TS 4,grammatical
+Today,6.6112137,0,text-davinci-003,ungrammatical,Comparative Sentences,TS 4,grammatical
+Ġmore,6.7999644,1,text-davinci-003,ungrammatical,Comparative Sentences,TS 4,grammatical
+ĠBrazil,13.581151,2,text-davinci-003,ungrammatical,Comparative Sentences,TS 4,grammatical
+ians,0.013833424,3,text-davinci-003,ungrammatical,Comparative Sentences,TS 4,grammatical
+Ġimm,8.553431,4,text-davinci-003,ungrammatical,Comparative Sentences,TS 4,grammatical
+igrated,1.9247688,5,text-davinci-003,ungrammatical,Comparative Sentences,TS 4,grammatical
+Ġto,0.14870645,6,text-davinci-003,ungrammatical,Comparative Sentences,TS 4,grammatical
+ĠJapan,4.394182,7,text-davinci-003,ungrammatical,Comparative Sentences,TS 4,grammatical
+Ġthan,0.7190737,8,text-davinci-003,ungrammatical,Comparative Sentences,TS 4,grammatical
+ĠWolfgang,18.47511,9,text-davinci-003,ungrammatical,Comparative Sentences,TS 4,grammatical
+Ġdid,4.133869,10,text-davinci-003,ungrammatical,Comparative Sentences,TS 4,grammatical
+More,7.3923564,0,text-davinci-003,grammatical,Comparative Sentences,TS 5,grammatical
+Ġ18,11.172988,1,text-davinci-003,grammatical,Comparative Sentences,TS 5,grammatical
+-,1.434097,2,text-davinci-003,grammatical,Comparative Sentences,TS 5,grammatical
+year,1.0185802,3,text-davinci-003,grammatical,Comparative Sentences,TS 5,grammatical
+-,0.0335506,4,text-davinci-003,grammatical,Comparative Sentences,TS 5,grammatical
+olds,0.073784,5,text-davinci-003,grammatical,Comparative Sentences,TS 5,grammatical
+Ġvoted,4.1182384,6,text-davinci-003,grammatical,Comparative Sentences,TS 5,grammatical
+Ġin,0.119609505,7,text-davinci-003,grammatical,Comparative Sentences,TS 5,grammatical
+Ġthis,2.5881984,8,text-davinci-003,grammatical,Comparative Sentences,TS 5,grammatical
+Ġelection,1.3923931,9,text-davinci-003,grammatical,Comparative Sentences,TS 5,grammatical
+Ġthan,0.08505628,10,text-davinci-003,grammatical,Comparative Sentences,TS 5,grammatical
+Ġ40,11.78303,11,text-davinci-003,grammatical,Comparative Sentences,TS 5,grammatical
+-,0.16576463,12,text-davinci-003,grammatical,Comparative Sentences,TS 5,grammatical
+year,0.061151665,13,text-davinci-003,grammatical,Comparative Sentences,TS 5,grammatical
+-,0.011811518,14,text-davinci-003,grammatical,Comparative Sentences,TS 5,grammatical
+olds,0.0026653118,15,text-davinci-003,grammatical,Comparative Sentences,TS 5,grammatical
+Ġdid,5.7728167,16,text-davinci-003,grammatical,Comparative Sentences,TS 5,grammatical
+More,7.3923564,0,text-davinci-003,ungrammatical,Comparative Sentences,TS 5,grammatical
+Ġ18,11.172988,1,text-davinci-003,ungrammatical,Comparative Sentences,TS 5,grammatical
+-,1.434097,2,text-davinci-003,ungrammatical,Comparative Sentences,TS 5,grammatical
+year,1.0185802,3,text-davinci-003,ungrammatical,Comparative Sentences,TS 5,grammatical
+-,0.0335506,4,text-davinci-003,ungrammatical,Comparative Sentences,TS 5,grammatical
+olds,0.073784,5,text-davinci-003,ungrammatical,Comparative Sentences,TS 5,grammatical
+Ġvoted,4.1182384,6,text-davinci-003,ungrammatical,Comparative Sentences,TS 5,grammatical
+Ġin,0.119609505,7,text-davinci-003,ungrammatical,Comparative Sentences,TS 5,grammatical
+Ġthis,2.5881984,8,text-davinci-003,ungrammatical,Comparative Sentences,TS 5,grammatical
+Ġelection,1.3923931,9,text-davinci-003,ungrammatical,Comparative Sentences,TS 5,grammatical
+Ġthan,0.08505628,10,text-davinci-003,ungrammatical,Comparative Sentences,TS 5,grammatical
+Ġhe,14.625553,11,text-davinci-003,ungrammatical,Comparative Sentences,TS 5,grammatical
+Ġdid,1.9660729,12,text-davinci-003,ungrammatical,Comparative Sentences,TS 5,grammatical
+More,7.392356,0,text-davinci-003,grammatical,Comparative Sentences,TS 6,ungrammatical
+Ġphotographers,11.796367,1,text-davinci-003,grammatical,Comparative Sentences,TS 6,ungrammatical
+Ġwon,9.71027,2,text-davinci-003,grammatical,Comparative Sentences,TS 6,ungrammatical
+Ġtheir,5.212018,3,text-davinci-003,grammatical,Comparative Sentences,TS 6,ungrammatical
+Ġthird,6.825444,4,text-davinci-003,grammatical,Comparative Sentences,TS 6,ungrammatical
+ĠPulitzer,0.8532809,5,text-davinci-003,grammatical,Comparative Sentences,TS 6,ungrammatical
+Ġthis,4.006689,6,text-davinci-003,grammatical,Comparative Sentences,TS 6,ungrammatical
+Ġyear,0.2200601,7,text-davinci-003,grammatical,Comparative Sentences,TS 6,ungrammatical
+Ġthan,0.47521505,8,text-davinci-003,grammatical,Comparative Sentences,TS 6,ungrammatical
+Ġthe,3.9726436,9,text-davinci-003,grammatical,Comparative Sentences,TS 6,ungrammatical
+Ġwriters,8.392918,10,text-davinci-003,grammatical,Comparative Sentences,TS 6,ungrammatical
+Ġdid,2.7966733,11,text-davinci-003,grammatical,Comparative Sentences,TS 6,ungrammatical
+More,7.399755,0,text-davinci-003,ungrammatical,Comparative Sentences,TS 6,ungrammatical
+Ġphotographers,11.792594,1,text-davinci-003,ungrammatical,Comparative Sentences,TS 6,ungrammatical
+Ġwon,9.708601,2,text-davinci-003,ungrammatical,Comparative Sentences,TS 6,ungrammatical
+Ġtheir,5.0976205,3,text-davinci-003,ungrammatical,Comparative Sentences,TS 6,ungrammatical
+Ġthird,6.8287544,4,text-davinci-003,ungrammatical,Comparative Sentences,TS 6,ungrammatical
+ĠPulitzer,0.8580332,5,text-davinci-003,ungrammatical,Comparative Sentences,TS 6,ungrammatical
+Ġthis,4.008632,6,text-davinci-003,ungrammatical,Comparative Sentences,TS 6,ungrammatical
+Ġyear,0.22453676,7,text-davinci-003,ungrammatical,Comparative Sentences,TS 6,ungrammatical
+Ġthan,0.4779023,8,text-davinci-003,ungrammatical,Comparative Sentences,TS 6,ungrammatical
+Ġthe,3.9723315,9,text-davinci-003,ungrammatical,Comparative Sentences,TS 6,ungrammatical
+Ġprofessor,14.564017,10,text-davinci-003,ungrammatical,Comparative Sentences,TS 6,ungrammatical
+Ġdid,3.8803906,11,text-davinci-003,ungrammatical,Comparative Sentences,TS 6,ungrammatical
+More,7.3923564,0,text-davinci-003,grammatical,Comparative Sentences,TS 7,ungrammatical
+Ġgirls,8.8303995,1,text-davinci-003,grammatical,Comparative Sentences,TS 7,ungrammatical
+Ġgraduated,9.98741,2,text-davinci-003,grammatical,Comparative Sentences,TS 7,ungrammatical
+Ġfrom,0.4538332,3,text-davinci-003,grammatical,Comparative Sentences,TS 7,ungrammatical
+Ġhigh,0.85021406,4,text-davinci-003,grammatical,Comparative Sentences,TS 7,ungrammatical
+Ġschool,0.017208891,5,text-davinci-003,grammatical,Comparative Sentences,TS 7,ungrammatical
+Ġlast,3.0114815,6,text-davinci-003,grammatical,Comparative Sentences,TS 7,ungrammatical
+Ġyear,0.060439594,7,text-davinci-003,grammatical,Comparative Sentences,TS 7,ungrammatical
+Ġthan,0.13652402,8,text-davinci-003,grammatical,Comparative Sentences,TS 7,ungrammatical
+Ġboys,1.2481213,9,text-davinci-003,grammatical,Comparative Sentences,TS 7,ungrammatical
+Ġdid,3.3191676,10,text-davinci-003,grammatical,Comparative Sentences,TS 7,ungrammatical
+More,7.392356,0,text-davinci-003,ungrammatical,Comparative Sentences,TS 7,ungrammatical
+Ġgirls,8.830399,1,text-davinci-003,ungrammatical,Comparative Sentences,TS 7,ungrammatical
+Ġgraduated,9.987411,2,text-davinci-003,ungrammatical,Comparative Sentences,TS 7,ungrammatical
+Ġfrom,0.45383257,3,text-davinci-003,ungrammatical,Comparative Sentences,TS 7,ungrammatical
+Ġhigh,0.85021406,4,text-davinci-003,ungrammatical,Comparative Sentences,TS 7,ungrammatical
+Ġschool,0.017208891,5,text-davinci-003,ungrammatical,Comparative Sentences,TS 7,ungrammatical
+Ġlast,3.0114803,6,text-davinci-003,ungrammatical,Comparative Sentences,TS 7,ungrammatical
+Ġyear,0.06043981,7,text-davinci-003,ungrammatical,Comparative Sentences,TS 7,ungrammatical
+Ġthan,0.13652392,8,text-davinci-003,ungrammatical,Comparative Sentences,TS 7,ungrammatical
+ĠJohn,15.600965,9,text-davinci-003,ungrammatical,Comparative Sentences,TS 7,ungrammatical
+Ġdid,1.7761886,10,text-davinci-003,ungrammatical,Comparative Sentences,TS 7,ungrammatical
+This,4.958332,0,text-davinci-003,grammatical,Comparative Sentences,TS 8,ungrammatical
+Ġsemester,7.9601903,1,text-davinci-003,grammatical,Comparative Sentences,TS 8,ungrammatical
+Ġmore,9.248945,2,text-davinci-003,grammatical,Comparative Sentences,TS 8,ungrammatical
+Ġforeign,8.137841,3,text-davinci-003,grammatical,Comparative Sentences,TS 8,ungrammatical
+Ġapplicants,8.07915,4,text-davinci-003,grammatical,Comparative Sentences,TS 8,ungrammatical
+Ġgot,6.2801704,5,text-davinci-003,grammatical,Comparative Sentences,TS 8,ungrammatical
+Ġinto,2.852471,6,text-davinci-003,grammatical,Comparative Sentences,TS 8,ungrammatical
+ĠStanford,5.0985093,7,text-davinci-003,grammatical,Comparative Sentences,TS 8,ungrammatical
+Ġthan,0.36266443,8,text-davinci-003,grammatical,Comparative Sentences,TS 8,ungrammatical
+ĠAmericans,5.709887,9,text-davinci-003,grammatical,Comparative Sentences,TS 8,ungrammatical
+Ġdid,4.4270115,10,text-davinci-003,grammatical,Comparative Sentences,TS 8,ungrammatical
+This,4.958333,0,text-davinci-003,ungrammatical,Comparative Sentences,TS 8,ungrammatical
+Ġsemester,7.960191,1,text-davinci-003,ungrammatical,Comparative Sentences,TS 8,ungrammatical
+Ġmore,9.248946,2,text-davinci-003,ungrammatical,Comparative Sentences,TS 8,ungrammatical
+Ġforeign,8.137841,3,text-davinci-003,ungrammatical,Comparative Sentences,TS 8,ungrammatical
+Ġapplicants,8.07915,4,text-davinci-003,ungrammatical,Comparative Sentences,TS 8,ungrammatical
+Ġgot,6.2801704,5,text-davinci-003,ungrammatical,Comparative Sentences,TS 8,ungrammatical
+Ġinto,2.8524709,6,text-davinci-003,ungrammatical,Comparative Sentences,TS 8,ungrammatical
+ĠStanford,5.0985093,7,text-davinci-003,ungrammatical,Comparative Sentences,TS 8,ungrammatical
+Ġthan,0.36266574,8,text-davinci-003,ungrammatical,Comparative Sentences,TS 8,ungrammatical
+ĠMarie,17.48401,9,text-davinci-003,ungrammatical,Comparative Sentences,TS 8,ungrammatical
+Ġdid,3.790079,10,text-davinci-003,ungrammatical,Comparative Sentences,TS 8,ungrammatical
+More,7.3923564,0,text-davinci-003,grammatical,Comparative Sentences,TS 9,ungrammatical
+Ġboys,10.562811,1,text-davinci-003,grammatical,Comparative Sentences,TS 9,ungrammatical
+Ġgot,7.938587,2,text-davinci-003,grammatical,Comparative Sentences,TS 9,ungrammatical
+Ġan,4.6561255,3,text-davinci-003,grammatical,Comparative Sentences,TS 9,ungrammatical
+ĠA,1.7500274,4,text-davinci-003,grammatical,Comparative Sentences,TS 9,ungrammatical
+Ġon,5.7569785,5,text-davinci-003,grammatical,Comparative Sentences,TS 9,ungrammatical
+Ġthe,0.6631307,6,text-davinci-003,grammatical,Comparative Sentences,TS 9,ungrammatical
+Ġexam,3.1802807,7,text-davinci-003,grammatical,Comparative Sentences,TS 9,ungrammatical
+Ġyesterday,8.018902,8,text-davinci-003,grammatical,Comparative Sentences,TS 9,ungrammatical
+Ġthan,0.35302672,9,text-davinci-003,grammatical,Comparative Sentences,TS 9,ungrammatical
+Ġthe,4.05358,10,text-davinci-003,grammatical,Comparative Sentences,TS 9,ungrammatical
+Ġgirls,0.27703375,11,text-davinci-003,grammatical,Comparative Sentences,TS 9,ungrammatical
+Ġdid,1.5897139,12,text-davinci-003,grammatical,Comparative Sentences,TS 9,ungrammatical
+More,7.3923564,0,text-davinci-003,ungrammatical,Comparative Sentences,TS 9,ungrammatical
+Ġboys,10.562811,1,text-davinci-003,ungrammatical,Comparative Sentences,TS 9,ungrammatical
+Ġgot,7.938587,2,text-davinci-003,ungrammatical,Comparative Sentences,TS 9,ungrammatical
+Ġan,4.6561255,3,text-davinci-003,ungrammatical,Comparative Sentences,TS 9,ungrammatical
+ĠA,1.7500274,4,text-davinci-003,ungrammatical,Comparative Sentences,TS 9,ungrammatical
+Ġon,5.7569785,5,text-davinci-003,ungrammatical,Comparative Sentences,TS 9,ungrammatical
+Ġthe,0.6631307,6,text-davinci-003,ungrammatical,Comparative Sentences,TS 9,ungrammatical
+Ġexam,3.18028,7,text-davinci-003,ungrammatical,Comparative Sentences,TS 9,ungrammatical
+Ġyesterday,8.018902,8,text-davinci-003,ungrammatical,Comparative Sentences,TS 9,ungrammatical
+Ġthan,0.35302672,9,text-davinci-003,ungrammatical,Comparative Sentences,TS 9,ungrammatical
+Ġshe,11.242785,10,text-davinci-003,ungrammatical,Comparative Sentences,TS 9,ungrammatical
+Ġdid,0.3386821,11,text-davinci-003,ungrammatical,Comparative Sentences,TS 9,ungrammatical
+Last,7.3729243,0,text-davinci-003,grammatical,Comparative Sentences,TS 10,ungrammatical
+Ġmonth,2.9516883,1,text-davinci-003,grammatical,Comparative Sentences,TS 10,ungrammatical
+Ġmore,8.346039,2,text-davinci-003,grammatical,Comparative Sentences,TS 10,ungrammatical
+Ġcouples,10.778183,3,text-davinci-003,grammatical,Comparative Sentences,TS 10,ungrammatical
+Ġhad,4.5444727,4,text-davinci-003,grammatical,Comparative Sentences,TS 10,ungrammatical
+Ġtheir,1.3959123,5,text-davinci-003,grammatical,Comparative Sentences,TS 10,ungrammatical
+Ġsecond,5.6926827,6,text-davinci-003,grammatical,Comparative Sentences,TS 10,ungrammatical
+Ġchild,2.3518345,7,text-davinci-003,grammatical,Comparative Sentences,TS 10,ungrammatical
+Ġthan,1.4175218,8,text-davinci-003,grammatical,Comparative Sentences,TS 10,ungrammatical
+Ġsingle,5.6461167,9,text-davinci-003,grammatical,Comparative Sentences,TS 10,ungrammatical
+Ġparents,3.489215,10,text-davinci-003,grammatical,Comparative Sentences,TS 10,ungrammatical
+Ġdid,3.161343,11,text-davinci-003,grammatical,Comparative Sentences,TS 10,ungrammatical
+Last,7.3729243,0,text-davinci-003,ungrammatical,Comparative Sentences,TS 10,ungrammatical
+Ġmonth,2.9516883,1,text-davinci-003,ungrammatical,Comparative Sentences,TS 10,ungrammatical
+Ġmore,8.346039,2,text-davinci-003,ungrammatical,Comparative Sentences,TS 10,ungrammatical
+Ġcouples,10.778183,3,text-davinci-003,ungrammatical,Comparative Sentences,TS 10,ungrammatical
+Ġhad,4.5444727,4,text-davinci-003,ungrammatical,Comparative Sentences,TS 10,ungrammatical
+Ġtheir,1.3959123,5,text-davinci-003,ungrammatical,Comparative Sentences,TS 10,ungrammatical
+Ġsecond,5.6926827,6,text-davinci-003,ungrammatical,Comparative Sentences,TS 10,ungrammatical
+Ġchild,2.3518345,7,text-davinci-003,ungrammatical,Comparative Sentences,TS 10,ungrammatical
+Ġthan,1.4175218,8,text-davinci-003,ungrammatical,Comparative Sentences,TS 10,ungrammatical
+ĠSandra,17.169493,9,text-davinci-003,ungrammatical,Comparative Sentences,TS 10,ungrammatical
+'s,4.877973,10,text-davinci-003,ungrammatical,Comparative Sentences,TS 10,ungrammatical
+Ġsister,4.4334497,11,text-davinci-003,ungrammatical,Comparative Sentences,TS 10,ungrammatical
+Ġdid,2.8893445,12,text-davinci-003,ungrammatical,Comparative Sentences,TS 10,ungrammatical
+This,4.958332,0,text-davinci-003,grammatical,Intrusive Resumption,TS 1,grammatical
+Ġis,1.4778613,1,text-davinci-003,grammatical,Intrusive Resumption,TS 1,grammatical
+Ġthe,1.6579456,2,text-davinci-003,grammatical,Intrusive Resumption,TS 1,grammatical
+Ġboy,10.909487,3,text-davinci-003,grammatical,Intrusive Resumption,TS 1,grammatical
+Ġthat,2.7591348,4,text-davinci-003,grammatical,Intrusive Resumption,TS 1,grammatical
+Ġthe,4.6004944,5,text-davinci-003,grammatical,Intrusive Resumption,TS 1,grammatical
+Ġcop,8.612764,6,text-davinci-003,grammatical,Intrusive Resumption,TS 1,grammatical
+Ġwho,6.852519,7,text-davinci-003,grammatical,Intrusive Resumption,TS 1,grammatical
+Ġwas,1.9148209,8,text-davinci-003,grammatical,Intrusive Resumption,TS 1,grammatical
+Ġleading,7.9986777,9,text-davinci-003,grammatical,Intrusive Resumption,TS 1,grammatical
+Ġthe,0.28453165,10,text-davinci-003,grammatical,Intrusive Resumption,TS 1,grammatical
+Ġoperation,4.585442,11,text-davinci-003,grammatical,Intrusive Resumption,TS 1,grammatical
+Ġbeat,7.0345993,12,text-davinci-003,grammatical,Intrusive Resumption,TS 1,grammatical
+Ġup,0.5314557,13,text-davinci-003,grammatical,Intrusive Resumption,TS 1,grammatical
+This,4.958332,0,text-davinci-003,ungrammatical,Intrusive Resumption,TS 1,grammatical
+Ġis,1.4778613,1,text-davinci-003,ungrammatical,Intrusive Resumption,TS 1,grammatical
+Ġthe,1.6579456,2,text-davinci-003,ungrammatical,Intrusive Resumption,TS 1,grammatical
+Ġboy,10.909487,3,text-davinci-003,ungrammatical,Intrusive Resumption,TS 1,grammatical
+Ġthat,2.7591348,4,text-davinci-003,ungrammatical,Intrusive Resumption,TS 1,grammatical
+Ġthe,4.6004944,5,text-davinci-003,ungrammatical,Intrusive Resumption,TS 1,grammatical
+Ġcop,8.612764,6,text-davinci-003,ungrammatical,Intrusive Resumption,TS 1,grammatical
+Ġwho,6.852519,7,text-davinci-003,ungrammatical,Intrusive Resumption,TS 1,grammatical
+Ġwas,1.9148198,8,text-davinci-003,ungrammatical,Intrusive Resumption,TS 1,grammatical
+Ġleading,7.9986773,9,text-davinci-003,ungrammatical,Intrusive Resumption,TS 1,grammatical
+Ġthe,0.28453198,10,text-davinci-003,ungrammatical,Intrusive Resumption,TS 1,grammatical
+Ġoperation,4.5854425,11,text-davinci-003,ungrammatical,Intrusive Resumption,TS 1,grammatical
+Ġbeat,7.0345984,12,text-davinci-003,ungrammatical,Intrusive Resumption,TS 1,grammatical
+Ġhim,5.3853126,13,text-davinci-003,ungrammatical,Intrusive Resumption,TS 1,grammatical
+Ġup,1.2248263,14,text-davinci-003,ungrammatical,Intrusive Resumption,TS 1,grammatical
+This,4.958332,0,text-davinci-003,grammatical,Intrusive Resumption,TS 2,grammatical
+Ġis,1.4778613,1,text-davinci-003,grammatical,Intrusive Resumption,TS 2,grammatical
+Ġthe,1.6579456,2,text-davinci-003,grammatical,Intrusive Resumption,TS 2,grammatical
+Ġgirl,9.98365,3,text-davinci-003,grammatical,Intrusive Resumption,TS 2,grammatical
+Ġthat,2.2785225,4,text-davinci-003,grammatical,Intrusive Resumption,TS 2,grammatical
+Ġthe,4.892896,5,text-davinci-003,grammatical,Intrusive Resumption,TS 2,grammatical
+Ġchild,7.403553,6,text-davinci-003,grammatical,Intrusive Resumption,TS 2,grammatical
+Ġwho,5.2207174,7,text-davinci-003,grammatical,Intrusive Resumption,TS 2,grammatical
+Ġwas,1.5841303,8,text-davinci-003,grammatical,Intrusive Resumption,TS 2,grammatical
+Ġplaying,3.0607886,9,text-davinci-003,grammatical,Intrusive Resumption,TS 2,grammatical
+Ġwith,1.0399497,10,text-davinci-003,grammatical,Intrusive Resumption,TS 2,grammatical
+Ġthe,0.8895351,11,text-davinci-003,grammatical,Intrusive Resumption,TS 2,grammatical
+Ġdoll,3.4875476,12,text-davinci-003,grammatical,Intrusive Resumption,TS 2,grammatical
+Ġloved,6.7888913,13,text-davinci-003,grammatical,Intrusive Resumption,TS 2,grammatical
+This,4.958332,0,text-davinci-003,ungrammatical,Intrusive Resumption,TS 2,grammatical
+Ġis,1.4778613,1,text-davinci-003,ungrammatical,Intrusive Resumption,TS 2,grammatical
+Ġthe,1.6579456,2,text-davinci-003,ungrammatical,Intrusive Resumption,TS 2,grammatical
+Ġgirl,9.98365,3,text-davinci-003,ungrammatical,Intrusive Resumption,TS 2,grammatical
+Ġthat,2.2785225,4,text-davinci-003,ungrammatical,Intrusive Resumption,TS 2,grammatical
+Ġthe,4.892896,5,text-davinci-003,ungrammatical,Intrusive Resumption,TS 2,grammatical
+Ġchild,7.403553,6,text-davinci-003,ungrammatical,Intrusive Resumption,TS 2,grammatical
+Ġwho,5.2207174,7,text-davinci-003,ungrammatical,Intrusive Resumption,TS 2,grammatical
+Ġwas,1.5841303,8,text-davinci-003,ungrammatical,Intrusive Resumption,TS 2,grammatical
+Ġplaying,3.0607886,9,text-davinci-003,ungrammatical,Intrusive Resumption,TS 2,grammatical
+Ġwith,1.0399497,10,text-davinci-003,ungrammatical,Intrusive Resumption,TS 2,grammatical
+Ġthe,0.88953525,11,text-davinci-003,ungrammatical,Intrusive Resumption,TS 2,grammatical
+Ġdoll,3.487547,12,text-davinci-003,ungrammatical,Intrusive Resumption,TS 2,grammatical
+Ġloved,6.7888904,13,text-davinci-003,ungrammatical,Intrusive Resumption,TS 2,grammatical
+Ġher,8.841932,14,text-davinci-003,ungrammatical,Intrusive Resumption,TS 2,grammatical
+This,4.958332,0,text-davinci-003,grammatical,Intrusive Resumption,TS 3,grammatical
+Ġis,1.4778613,1,text-davinci-003,grammatical,Intrusive Resumption,TS 3,grammatical
+Ġthe,1.6579456,2,text-davinci-003,grammatical,Intrusive Resumption,TS 3,grammatical
+Ġboy,10.909487,3,text-davinci-003,grammatical,Intrusive Resumption,TS 3,grammatical
+Ġthat,2.7591348,4,text-davinci-003,grammatical,Intrusive Resumption,TS 3,grammatical
+Ġthe,4.6004944,5,text-davinci-003,grammatical,Intrusive Resumption,TS 3,grammatical
+Ġteachers,5.6325436,6,text-davinci-003,grammatical,Intrusive Resumption,TS 3,grammatical
+Ġwho,8.222914,7,text-davinci-003,grammatical,Intrusive Resumption,TS 3,grammatical
+Ġwere,3.039042,8,text-davinci-003,grammatical,Intrusive Resumption,TS 3,grammatical
+Ġteaching,2.9657807,9,text-davinci-003,grammatical,Intrusive Resumption,TS 3,grammatical
+Ġmathematics,5.6735234,10,text-davinci-003,grammatical,Intrusive Resumption,TS 3,grammatical
+Ġpraised,4.6392646,11,text-davinci-003,grammatical,Intrusive Resumption,TS 3,grammatical
+This,4.958334,0,text-davinci-003,ungrammatical,Intrusive Resumption,TS 3,grammatical
+Ġis,1.477862,1,text-davinci-003,ungrammatical,Intrusive Resumption,TS 3,grammatical
+Ġthe,1.6579463,2,text-davinci-003,ungrammatical,Intrusive Resumption,TS 3,grammatical
+Ġboy,10.909487,3,text-davinci-003,ungrammatical,Intrusive Resumption,TS 3,grammatical
+Ġthat,2.7591338,4,text-davinci-003,ungrammatical,Intrusive Resumption,TS 3,grammatical
+Ġthe,4.6004944,5,text-davinci-003,ungrammatical,Intrusive Resumption,TS 3,grammatical
+Ġteachers,5.6325445,6,text-davinci-003,ungrammatical,Intrusive Resumption,TS 3,grammatical
+Ġwho,8.222914,7,text-davinci-003,ungrammatical,Intrusive Resumption,TS 3,grammatical
+Ġwere,3.039041,8,text-davinci-003,ungrammatical,Intrusive Resumption,TS 3,grammatical
+Ġteaching,2.9657807,9,text-davinci-003,ungrammatical,Intrusive Resumption,TS 3,grammatical
+Ġmathematics,5.673524,10,text-davinci-003,ungrammatical,Intrusive Resumption,TS 3,grammatical
+Ġpraised,4.6392646,11,text-davinci-003,ungrammatical,Intrusive Resumption,TS 3,grammatical
+Ġhim,2.9165797,12,text-davinci-003,ungrammatical,Intrusive Resumption,TS 3,grammatical
+These,7.170266,0,text-davinci-003,grammatical,Intrusive Resumption,TS 4,grammatical
+Ġare,1.5046567,1,text-davinci-003,grammatical,Intrusive Resumption,TS 4,grammatical
+Ġthe,1.0778155,2,text-davinci-003,grammatical,Intrusive Resumption,TS 4,grammatical
+Ġflowers,8.815044,3,text-davinci-003,grammatical,Intrusive Resumption,TS 4,grammatical
+Ġthat,1.3702952,4,text-davinci-003,grammatical,Intrusive Resumption,TS 4,grammatical
+Ġthe,4.223682,5,text-davinci-003,grammatical,Intrusive Resumption,TS 4,grammatical
+Ġgard,5.2158833,6,text-davinci-003,grammatical,Intrusive Resumption,TS 4,grammatical
+ener,0.03225465,7,text-davinci-003,grammatical,Intrusive Resumption,TS 4,grammatical
+Ġwho,6.2229023,8,text-davinci-003,grammatical,Intrusive Resumption,TS 4,grammatical
+Ġwas,3.1063566,9,text-davinci-003,grammatical,Intrusive Resumption,TS 4,grammatical
+Ġworking,2.757155,10,text-davinci-003,grammatical,Intrusive Resumption,TS 4,grammatical
+Ġon,1.5820721,11,text-davinci-003,grammatical,Intrusive Resumption,TS 4,grammatical
+ĠJohn,8.848382,12,text-davinci-003,grammatical,Intrusive Resumption,TS 4,grammatical
+'s,1.193193,13,text-davinci-003,grammatical,Intrusive Resumption,TS 4,grammatical
+Ġflower,4.8355427,14,text-davinci-003,grammatical,Intrusive Resumption,TS 4,grammatical
+bed,2.2184432,15,text-davinci-003,grammatical,Intrusive Resumption,TS 4,grammatical
+Ġplanted,2.1369207,16,text-davinci-003,grammatical,Intrusive Resumption,TS 4,grammatical
+These,7.170266,0,text-davinci-003,ungrammatical,Intrusive Resumption,TS 4,grammatical
+Ġare,1.5046567,1,text-davinci-003,ungrammatical,Intrusive Resumption,TS 4,grammatical
+Ġthe,1.0778155,2,text-davinci-003,ungrammatical,Intrusive Resumption,TS 4,grammatical
+Ġflowers,8.815044,3,text-davinci-003,ungrammatical,Intrusive Resumption,TS 4,grammatical
+Ġthat,1.3702952,4,text-davinci-003,ungrammatical,Intrusive Resumption,TS 4,grammatical
+Ġthe,4.223682,5,text-davinci-003,ungrammatical,Intrusive Resumption,TS 4,grammatical
+Ġgard,5.2158833,6,text-davinci-003,ungrammatical,Intrusive Resumption,TS 4,grammatical
+ener,0.03225465,7,text-davinci-003,ungrammatical,Intrusive Resumption,TS 4,grammatical
+Ġwho,6.2229023,8,text-davinci-003,ungrammatical,Intrusive Resumption,TS 4,grammatical
+Ġwas,3.1063566,9,text-davinci-003,ungrammatical,Intrusive Resumption,TS 4,grammatical
+Ġworking,2.757155,10,text-davinci-003,ungrammatical,Intrusive Resumption,TS 4,grammatical
+Ġon,1.5820721,11,text-davinci-003,ungrammatical,Intrusive Resumption,TS 4,grammatical
+ĠJohn,8.848382,12,text-davinci-003,ungrammatical,Intrusive Resumption,TS 4,grammatical
+'s,1.193193,13,text-davinci-003,ungrammatical,Intrusive Resumption,TS 4,grammatical
+Ġflower,4.835542,14,text-davinci-003,ungrammatical,Intrusive Resumption,TS 4,grammatical
+bed,2.2184439,15,text-davinci-003,ungrammatical,Intrusive Resumption,TS 4,grammatical
+Ġplanted,2.1369207,16,text-davinci-003,ungrammatical,Intrusive Resumption,TS 4,grammatical
+Ġthem,9.624267,17,text-davinci-003,ungrammatical,Intrusive Resumption,TS 4,grammatical
+These,7.170266,0,text-davinci-003,grammatical,Intrusive Resumption,TS 5,grammatical
+Ġare,1.5046567,1,text-davinci-003,grammatical,Intrusive Resumption,TS 5,grammatical
+Ġthe,1.0778155,2,text-davinci-003,grammatical,Intrusive Resumption,TS 5,grammatical
+Ġcakes,9.466278,3,text-davinci-003,grammatical,Intrusive Resumption,TS 5,grammatical
+Ġthat,1.4701018,4,text-davinci-003,grammatical,Intrusive Resumption,TS 5,grammatical
+Ġthe,4.856676,5,text-davinci-003,grammatical,Intrusive Resumption,TS 5,grammatical
+Ġpastry,6.454335,6,text-davinci-003,grammatical,Intrusive Resumption,TS 5,grammatical
+Ġchefs,0.9818877,7,text-davinci-003,grammatical,Intrusive Resumption,TS 5,grammatical
+Ġwho,5.557514,8,text-davinci-003,grammatical,Intrusive Resumption,TS 5,grammatical
+Ġwere,3.9953866,9,text-davinci-003,grammatical,Intrusive Resumption,TS 5,grammatical
+Ġparticipating,4.8203006,10,text-davinci-003,grammatical,Intrusive Resumption,TS 5,grammatical
+Ġin,0.13949084,11,text-davinci-003,grammatical,Intrusive Resumption,TS 5,grammatical
+Ġthe,0.20839311,12,text-davinci-003,grammatical,Intrusive Resumption,TS 5,grammatical
+Ġcompetition,2.0641208,13,text-davinci-003,grammatical,Intrusive Resumption,TS 5,grammatical
+Ġbaked,4.6670866,14,text-davinci-003,grammatical,Intrusive Resumption,TS 5,grammatical
+These,7.179513,0,text-davinci-003,ungrammatical,Intrusive Resumption,TS 5,grammatical
+Ġare,1.5051795,1,text-davinci-003,ungrammatical,Intrusive Resumption,TS 5,grammatical
+Ġthe,1.0778197,2,text-davinci-003,ungrammatical,Intrusive Resumption,TS 5,grammatical
+Ġcakes,9.455495,3,text-davinci-003,ungrammatical,Intrusive Resumption,TS 5,grammatical
+Ġthat,1.4698584,4,text-davinci-003,ungrammatical,Intrusive Resumption,TS 5,grammatical
+Ġthe,4.8582687,5,text-davinci-003,ungrammatical,Intrusive Resumption,TS 5,grammatical
+Ġpastry,6.453453,6,text-davinci-003,ungrammatical,Intrusive Resumption,TS 5,grammatical
+Ġchefs,0.98307073,7,text-davinci-003,ungrammatical,Intrusive Resumption,TS 5,grammatical
+Ġwho,5.6516047,8,text-davinci-003,ungrammatical,Intrusive Resumption,TS 5,grammatical
+Ġwere,3.978314,9,text-davinci-003,ungrammatical,Intrusive Resumption,TS 5,grammatical
+Ġparticipating,4.846203,10,text-davinci-003,ungrammatical,Intrusive Resumption,TS 5,grammatical
+Ġin,0.13800304,11,text-davinci-003,ungrammatical,Intrusive Resumption,TS 5,grammatical
+Ġthe,0.21230134,12,text-davinci-003,ungrammatical,Intrusive Resumption,TS 5,grammatical
+Ġcompetition,2.0763752,13,text-davinci-003,ungrammatical,Intrusive Resumption,TS 5,grammatical
+Ġbaked,4.652672,14,text-davinci-003,ungrammatical,Intrusive Resumption,TS 5,grammatical
+Ġthem,8.82319,15,text-davinci-003,ungrammatical,Intrusive Resumption,TS 5,grammatical
+This,4.958332,0,text-davinci-003,grammatical,Intrusive Resumption,TS 6,ungrammatical
+Ġis,1.4778613,1,text-davinci-003,grammatical,Intrusive Resumption,TS 6,ungrammatical
+Ġthe,1.6579456,2,text-davinci-003,grammatical,Intrusive Resumption,TS 6,ungrammatical
+Ġgirl,9.98365,3,text-davinci-003,grammatical,Intrusive Resumption,TS 6,ungrammatical
+Ġthat,2.2785225,4,text-davinci-003,grammatical,Intrusive Resumption,TS 6,ungrammatical
+Ġthe,4.892896,5,text-davinci-003,grammatical,Intrusive Resumption,TS 6,ungrammatical
+Ġboy,3.3624463,6,text-davinci-003,grammatical,Intrusive Resumption,TS 6,ungrammatical
+Ġwho,5.4010677,7,text-davinci-003,grammatical,Intrusive Resumption,TS 6,ungrammatical
+Ġwas,2.09721,8,text-davinci-003,grammatical,Intrusive Resumption,TS 6,ungrammatical
+Ġworking,5.9499416,9,text-davinci-003,grammatical,Intrusive Resumption,TS 6,ungrammatical
+Ġwith,2.5416617,10,text-davinci-003,grammatical,Intrusive Resumption,TS 6,ungrammatical
+Ġthe,2.1113148,11,text-davinci-003,grammatical,Intrusive Resumption,TS 6,ungrammatical
+Ġgard,6.744252,12,text-davinci-003,grammatical,Intrusive Resumption,TS 6,ungrammatical
+ener,0.060744192,13,text-davinci-003,grammatical,Intrusive Resumption,TS 6,ungrammatical
+Ġcour,9.81217,14,text-davinci-003,grammatical,Intrusive Resumption,TS 6,ungrammatical
+ted,0.0158395,15,text-davinci-003,grammatical,Intrusive Resumption,TS 6,ungrammatical
+This,4.958332,0,text-davinci-003,ungrammatical,Intrusive Resumption,TS 6,ungrammatical
+Ġis,1.4778613,1,text-davinci-003,ungrammatical,Intrusive Resumption,TS 6,ungrammatical
+Ġthe,1.6579456,2,text-davinci-003,ungrammatical,Intrusive Resumption,TS 6,ungrammatical
+Ġgirl,9.98365,3,text-davinci-003,ungrammatical,Intrusive Resumption,TS 6,ungrammatical
+Ġthat,2.2785225,4,text-davinci-003,ungrammatical,Intrusive Resumption,TS 6,ungrammatical
+Ġthe,4.892896,5,text-davinci-003,ungrammatical,Intrusive Resumption,TS 6,ungrammatical
+Ġboy,3.3624463,6,text-davinci-003,ungrammatical,Intrusive Resumption,TS 6,ungrammatical
+Ġwho,5.4010677,7,text-davinci-003,ungrammatical,Intrusive Resumption,TS 6,ungrammatical
+Ġwas,2.09721,8,text-davinci-003,ungrammatical,Intrusive Resumption,TS 6,ungrammatical
+Ġworking,5.9499416,9,text-davinci-003,ungrammatical,Intrusive Resumption,TS 6,ungrammatical
+Ġwith,2.541662,10,text-davinci-003,ungrammatical,Intrusive Resumption,TS 6,ungrammatical
+Ġthe,2.1113162,11,text-davinci-003,ungrammatical,Intrusive Resumption,TS 6,ungrammatical
+Ġgard,6.7442527,12,text-davinci-003,ungrammatical,Intrusive Resumption,TS 6,ungrammatical
+ener,0.060744192,13,text-davinci-003,ungrammatical,Intrusive Resumption,TS 6,ungrammatical
+Ġcour,9.81217,14,text-davinci-003,ungrammatical,Intrusive Resumption,TS 6,ungrammatical
+ted,0.0158395,15,text-davinci-003,ungrammatical,Intrusive Resumption,TS 6,ungrammatical
+Ġher,8.447469,16,text-davinci-003,ungrammatical,Intrusive Resumption,TS 6,ungrammatical
+This,4.958333,0,text-davinci-003,grammatical,Intrusive Resumption,TS 7,ungrammatical
+Ġis,1.4778612,1,text-davinci-003,grammatical,Intrusive Resumption,TS 7,ungrammatical
+Ġthe,1.6579454,2,text-davinci-003,grammatical,Intrusive Resumption,TS 7,ungrammatical
+Ġactress,12.545387,3,text-davinci-003,grammatical,Intrusive Resumption,TS 7,ungrammatical
+Ġthat,2.8399403,4,text-davinci-003,grammatical,Intrusive Resumption,TS 7,ungrammatical
+Ġthe,4.9248576,5,text-davinci-003,grammatical,Intrusive Resumption,TS 7,ungrammatical
+Ġjudge,8.067683,6,text-davinci-003,grammatical,Intrusive Resumption,TS 7,ungrammatical
+Ġwho,6.086582,7,text-davinci-003,grammatical,Intrusive Resumption,TS 7,ungrammatical
+Ġwas,2.926556,8,text-davinci-003,grammatical,Intrusive Resumption,TS 7,ungrammatical
+Ġworking,6.2667866,9,text-davinci-003,grammatical,Intrusive Resumption,TS 7,ungrammatical
+Ġat,3.2015622,10,text-davinci-003,grammatical,Intrusive Resumption,TS 7,ungrammatical
+ĠCannes,9.17214,11,text-davinci-003,grammatical,Intrusive Resumption,TS 7,ungrammatical
+Ġadmired,7.6459417,12,text-davinci-003,grammatical,Intrusive Resumption,TS 7,ungrammatical
+This,4.958333,0,text-davinci-003,ungrammatical,Intrusive Resumption,TS 7,ungrammatical
+Ġis,1.4778612,1,text-davinci-003,ungrammatical,Intrusive Resumption,TS 7,ungrammatical
+Ġthe,1.6579454,2,text-davinci-003,ungrammatical,Intrusive Resumption,TS 7,ungrammatical
+Ġactress,12.545387,3,text-davinci-003,ungrammatical,Intrusive Resumption,TS 7,ungrammatical
+Ġthat,2.8399413,4,text-davinci-003,ungrammatical,Intrusive Resumption,TS 7,ungrammatical
+Ġthe,4.9248576,5,text-davinci-003,ungrammatical,Intrusive Resumption,TS 7,ungrammatical
+Ġjudge,8.067683,6,text-davinci-003,ungrammatical,Intrusive Resumption,TS 7,ungrammatical
+Ġwho,6.086581,7,text-davinci-003,ungrammatical,Intrusive Resumption,TS 7,ungrammatical
+Ġwas,2.926556,8,text-davinci-003,ungrammatical,Intrusive Resumption,TS 7,ungrammatical
+Ġworking,6.2667866,9,text-davinci-003,ungrammatical,Intrusive Resumption,TS 7,ungrammatical
+Ġat,3.2015622,10,text-davinci-003,ungrammatical,Intrusive Resumption,TS 7,ungrammatical
+ĠCannes,9.17214,11,text-davinci-003,ungrammatical,Intrusive Resumption,TS 7,ungrammatical
+Ġadmired,7.6459417,12,text-davinci-003,ungrammatical,Intrusive Resumption,TS 7,ungrammatical
+Ġher,5.373626,13,text-davinci-003,ungrammatical,Intrusive Resumption,TS 7,ungrammatical
+This,4.958333,0,text-davinci-003,grammatical,Intrusive Resumption,TS 8,ungrammatical
+Ġis,1.4778612,1,text-davinci-003,grammatical,Intrusive Resumption,TS 8,ungrammatical
+Ġthe,1.6579454,2,text-davinci-003,grammatical,Intrusive Resumption,TS 8,ungrammatical
+Ġmug,11.165171,3,text-davinci-003,grammatical,Intrusive Resumption,TS 8,ungrammatical
+Ġthat,2.1662457,4,text-davinci-003,grammatical,Intrusive Resumption,TS 8,ungrammatical
+Ġthe,4.423995,5,text-davinci-003,grammatical,Intrusive Resumption,TS 8,ungrammatical
+Ġart,7.801059,6,text-davinci-003,grammatical,Intrusive Resumption,TS 8,ungrammatical
+isans,2.0850744,7,text-davinci-003,grammatical,Intrusive Resumption,TS 8,ungrammatical
+Ġwho,4.829464,8,text-davinci-003,grammatical,Intrusive Resumption,TS 8,ungrammatical
+Ġwere,4.966029,9,text-davinci-003,grammatical,Intrusive Resumption,TS 8,ungrammatical
+Ġworking,3.3120599,10,text-davinci-003,grammatical,Intrusive Resumption,TS 8,ungrammatical
+Ġwith,1.6731942,11,text-davinci-003,grammatical,Intrusive Resumption,TS 8,ungrammatical
+Ġcer,7.367149,12,text-davinci-003,grammatical,Intrusive Resumption,TS 8,ungrammatical
+am,0.0016115084,13,text-davinci-003,grammatical,Intrusive Resumption,TS 8,ungrammatical
+ics,0.0060621137,14,text-davinci-003,grammatical,Intrusive Resumption,TS 8,ungrammatical
+Ġcrafted,6.01303,15,text-davinci-003,grammatical,Intrusive Resumption,TS 8,ungrammatical
+This,4.958334,0,text-davinci-003,ungrammatical,Intrusive Resumption,TS 8,ungrammatical
+Ġis,1.477862,1,text-davinci-003,ungrammatical,Intrusive Resumption,TS 8,ungrammatical
+Ġthe,1.6579463,2,text-davinci-003,ungrammatical,Intrusive Resumption,TS 8,ungrammatical
+Ġmug,11.165169,3,text-davinci-003,ungrammatical,Intrusive Resumption,TS 8,ungrammatical
+Ġthat,2.166246,4,text-davinci-003,ungrammatical,Intrusive Resumption,TS 8,ungrammatical
+Ġthe,4.423995,5,text-davinci-003,ungrammatical,Intrusive Resumption,TS 8,ungrammatical
+Ġart,7.801058,6,text-davinci-003,ungrammatical,Intrusive Resumption,TS 8,ungrammatical
+isans,2.0850742,7,text-davinci-003,ungrammatical,Intrusive Resumption,TS 8,ungrammatical
+Ġwho,4.8294635,8,text-davinci-003,ungrammatical,Intrusive Resumption,TS 8,ungrammatical
+Ġwere,4.966029,9,text-davinci-003,ungrammatical,Intrusive Resumption,TS 8,ungrammatical
+Ġworking,3.3120596,10,text-davinci-003,ungrammatical,Intrusive Resumption,TS 8,ungrammatical
+Ġwith,1.6731939,11,text-davinci-003,ungrammatical,Intrusive Resumption,TS 8,ungrammatical
+Ġcer,7.367148,12,text-davinci-003,ungrammatical,Intrusive Resumption,TS 8,ungrammatical
+am,0.0016115084,13,text-davinci-003,ungrammatical,Intrusive Resumption,TS 8,ungrammatical
+ics,0.0060621137,14,text-davinci-003,ungrammatical,Intrusive Resumption,TS 8,ungrammatical
+Ġcrafted,6.0130305,15,text-davinci-003,ungrammatical,Intrusive Resumption,TS 8,ungrammatical
+Ġit,4.9617896,16,text-davinci-003,ungrammatical,Intrusive Resumption,TS 8,ungrammatical
+This,4.9635997,0,text-davinci-003,grammatical,Intrusive Resumption,TS 9,ungrammatical
+Ġis,1.4776087,1,text-davinci-003,grammatical,Intrusive Resumption,TS 9,ungrammatical
+Ġthe,1.658165,2,text-davinci-003,grammatical,Intrusive Resumption,TS 9,ungrammatical
+Ġdictionary,10.341978,3,text-davinci-003,grammatical,Intrusive Resumption,TS 9,ungrammatical
+Ġentry,3.638214,4,text-davinci-003,grammatical,Intrusive Resumption,TS 9,ungrammatical
+Ġthat,4.72936,5,text-davinci-003,grammatical,Intrusive Resumption,TS 9,ungrammatical
+Ġthe,3.7713847,6,text-davinci-003,grammatical,Intrusive Resumption,TS 9,ungrammatical
+Ġstudents,4.6195593,7,text-davinci-003,grammatical,Intrusive Resumption,TS 9,ungrammatical
+Ġwho,6.415387,8,text-davinci-003,grammatical,Intrusive Resumption,TS 9,ungrammatical
+Ġwere,3.727098,9,text-davinci-003,grammatical,Intrusive Resumption,TS 9,ungrammatical
+Ġdoing,3.908169,10,text-davinci-003,grammatical,Intrusive Resumption,TS 9,ungrammatical
+Ġthe,0.5044701,11,text-davinci-003,grammatical,Intrusive Resumption,TS 9,ungrammatical
+Ġexam,5.802699,12,text-davinci-003,grammatical,Intrusive Resumption,TS 9,ungrammatical
+Ġlooked,5.460628,13,text-davinci-003,grammatical,Intrusive Resumption,TS 9,ungrammatical
+Ġup,0.48431343,14,text-davinci-003,grammatical,Intrusive Resumption,TS 9,ungrammatical
+This,4.958332,0,text-davinci-003,ungrammatical,Intrusive Resumption,TS 9,ungrammatical
+Ġis,1.4778613,1,text-davinci-003,ungrammatical,Intrusive Resumption,TS 9,ungrammatical
+Ġthe,1.6579456,2,text-davinci-003,ungrammatical,Intrusive Resumption,TS 9,ungrammatical
+Ġdictionary,10.339384,3,text-davinci-003,ungrammatical,Intrusive Resumption,TS 9,ungrammatical
+Ġentry,3.6393323,4,text-davinci-003,ungrammatical,Intrusive Resumption,TS 9,ungrammatical
+Ġthat,4.72896,5,text-davinci-003,ungrammatical,Intrusive Resumption,TS 9,ungrammatical
+Ġthe,3.7703302,6,text-davinci-003,ungrammatical,Intrusive Resumption,TS 9,ungrammatical
+Ġstudents,4.630556,7,text-davinci-003,ungrammatical,Intrusive Resumption,TS 9,ungrammatical
+Ġwho,6.4120393,8,text-davinci-003,ungrammatical,Intrusive Resumption,TS 9,ungrammatical
+Ġwere,3.7256813,9,text-davinci-003,ungrammatical,Intrusive Resumption,TS 9,ungrammatical
+Ġdoing,3.9061344,10,text-davinci-003,ungrammatical,Intrusive Resumption,TS 9,ungrammatical
+Ġthe,0.5079636,11,text-davinci-003,ungrammatical,Intrusive Resumption,TS 9,ungrammatical
+Ġexam,5.843072,12,text-davinci-003,ungrammatical,Intrusive Resumption,TS 9,ungrammatical
+Ġlooked,5.4496937,13,text-davinci-003,ungrammatical,Intrusive Resumption,TS 9,ungrammatical
+Ġit,6.7158003,14,text-davinci-003,ungrammatical,Intrusive Resumption,TS 9,ungrammatical
+Ġup,0.015037663,15,text-davinci-003,ungrammatical,Intrusive Resumption,TS 9,ungrammatical
+This,4.958332,0,text-davinci-003,grammatical,Intrusive Resumption,TS 10,ungrammatical
+Ġis,1.4778613,1,text-davinci-003,grammatical,Intrusive Resumption,TS 10,ungrammatical
+Ġthe,1.6579456,2,text-davinci-003,grammatical,Intrusive Resumption,TS 10,ungrammatical
+Ġcompetition,10.058765,3,text-davinci-003,grammatical,Intrusive Resumption,TS 10,ungrammatical
+Ġthat,2.9318693,4,text-davinci-003,grammatical,Intrusive Resumption,TS 10,ungrammatical
+Ġthe,3.4583924,5,text-davinci-003,grammatical,Intrusive Resumption,TS 10,ungrammatical
+Ġathletes,7.4129105,6,text-davinci-003,grammatical,Intrusive Resumption,TS 10,ungrammatical
+Ġwho,4.5706987,7,text-davinci-003,grammatical,Intrusive Resumption,TS 10,ungrammatical
+Ġwere,3.9949498,8,text-davinci-003,grammatical,Intrusive Resumption,TS 10,ungrammatical
+Ġfeeling,9.018759,9,text-davinci-003,grammatical,Intrusive Resumption,TS 10,ungrammatical
+Ġtired,5.8546944,10,text-davinci-003,grammatical,Intrusive Resumption,TS 10,ungrammatical
+Ġgave,7.9009867,11,text-davinci-003,grammatical,Intrusive Resumption,TS 10,ungrammatical
+Ġup,0.17904529,12,text-davinci-003,grammatical,Intrusive Resumption,TS 10,ungrammatical
+This,4.958333,0,text-davinci-003,ungrammatical,Intrusive Resumption,TS 10,ungrammatical
+Ġis,1.4778612,1,text-davinci-003,ungrammatical,Intrusive Resumption,TS 10,ungrammatical
+Ġthe,1.6579454,2,text-davinci-003,ungrammatical,Intrusive Resumption,TS 10,ungrammatical
+Ġcompetition,10.058765,3,text-davinci-003,ungrammatical,Intrusive Resumption,TS 10,ungrammatical
+Ġthat,2.9318693,4,text-davinci-003,ungrammatical,Intrusive Resumption,TS 10,ungrammatical
+Ġthe,3.4583914,5,text-davinci-003,ungrammatical,Intrusive Resumption,TS 10,ungrammatical
+Ġathletes,7.4129114,6,text-davinci-003,ungrammatical,Intrusive Resumption,TS 10,ungrammatical
+Ġwho,4.5706997,7,text-davinci-003,ungrammatical,Intrusive Resumption,TS 10,ungrammatical
+Ġwere,3.9949503,8,text-davinci-003,ungrammatical,Intrusive Resumption,TS 10,ungrammatical
+Ġfeeling,9.018759,9,text-davinci-003,ungrammatical,Intrusive Resumption,TS 10,ungrammatical
+Ġtired,5.8546953,10,text-davinci-003,ungrammatical,Intrusive Resumption,TS 10,ungrammatical
+Ġgave,7.9009852,11,text-davinci-003,ungrammatical,Intrusive Resumption,TS 10,ungrammatical
+Ġit,3.9155881,12,text-davinci-003,ungrammatical,Intrusive Resumption,TS 10,ungrammatical
+Ġup,2.0502815,13,text-davinci-003,ungrammatical,Intrusive Resumption,TS 10,ungrammatical
+No,6.7846546,0,text-davinci-003,grammatical,NPIs,TS 1,grammatical
+Ġauthors,11.22725,1,text-davinci-003,grammatical,NPIs,TS 1,grammatical
+Ġthat,8.035477,2,text-davinci-003,grammatical,NPIs,TS 1,grammatical
+Ġthe,5.0806947,3,text-davinci-003,grammatical,NPIs,TS 1,grammatical
+Ġcritics,9.434786,4,text-davinci-003,grammatical,NPIs,TS 1,grammatical
+Ġrecommended,6.349037,5,text-davinci-003,grammatical,NPIs,TS 1,grammatical
+Ġhave,3.2436275,6,text-davinci-003,grammatical,NPIs,TS 1,grammatical
+Ġreceived,4.4434476,7,text-davinci-003,grammatical,NPIs,TS 1,grammatical
+Ġany,2.9558957,8,text-davinci-003,grammatical,NPIs,TS 1,grammatical
+Ġacknowledgment,9.430315,9,text-davinci-003,grammatical,NPIs,TS 1,grammatical
+Ġfor,3.3229,10,text-davinci-003,grammatical,NPIs,TS 1,grammatical
+Ġa,4.7232985,11,text-davinci-003,grammatical,NPIs,TS 1,grammatical
+Ġbest,7.6418104,12,text-davinci-003,grammatical,NPIs,TS 1,grammatical
+-,1.2324926,13,text-davinci-003,grammatical,NPIs,TS 1,grammatical
+selling,0.31348145,14,text-davinci-003,grammatical,NPIs,TS 1,grammatical
+Ġnovel,0.6133646,15,text-davinci-003,grammatical,NPIs,TS 1,grammatical
+The,3.6688788,0,text-davinci-003,ungrammatical,NPIs,TS 1,grammatical
+Ġauthors,7.6822724,1,text-davinci-003,ungrammatical,NPIs,TS 1,grammatical
+Ġthat,7.2849264,2,text-davinci-003,ungrammatical,NPIs,TS 1,grammatical
+Ġno,9.752938,3,text-davinci-003,ungrammatical,NPIs,TS 1,grammatical
+Ġcritics,10.923209,4,text-davinci-003,ungrammatical,NPIs,TS 1,grammatical
+Ġrecommended,9.37697,5,text-davinci-003,ungrammatical,NPIs,TS 1,grammatical
+Ġhave,6.4869504,6,text-davinci-003,ungrammatical,NPIs,TS 1,grammatical
+Ġreceived,4.78253,7,text-davinci-003,ungrammatical,NPIs,TS 1,grammatical
+Ġany,8.286772,8,text-davinci-003,ungrammatical,NPIs,TS 1,grammatical
+Ġacknowledgment,7.465887,9,text-davinci-003,ungrammatical,NPIs,TS 1,grammatical
+Ġfor,2.719946,10,text-davinci-003,ungrammatical,NPIs,TS 1,grammatical
+Ġa,5.6096597,11,text-davinci-003,ungrammatical,NPIs,TS 1,grammatical
+Ġbest,7.8314257,12,text-davinci-003,ungrammatical,NPIs,TS 1,grammatical
+-,1.5160766,13,text-davinci-003,ungrammatical,NPIs,TS 1,grammatical
+selling,0.30657145,14,text-davinci-003,ungrammatical,NPIs,TS 1,grammatical
+Ġnovel,0.958758,15,text-davinci-003,ungrammatical,NPIs,TS 1,grammatical
+No,6.7846546,0,text-davinci-003,grammatical,NPIs,TS 2,grammatical
+Ġambassadors,14.6478,1,text-davinci-003,grammatical,NPIs,TS 2,grammatical
+Ġthat,7.946249,2,text-davinci-003,grammatical,NPIs,TS 2,grammatical
+Ġthe,4.3070407,3,text-davinci-003,grammatical,NPIs,TS 2,grammatical
+Ġdiplomats,9.0148535,4,text-davinci-003,grammatical,NPIs,TS 2,grammatical
+Ġconsulted,9.46311,5,text-davinci-003,grammatical,NPIs,TS 2,grammatical
+Ġhave,4.758267,6,text-davinci-003,grammatical,NPIs,TS 2,grammatical
+Ġever,3.52848,7,text-davinci-003,grammatical,NPIs,TS 2,grammatical
+Ġseen,1.4606618,8,text-davinci-003,grammatical,NPIs,TS 2,grammatical
+Ġbrutality,13.158709,9,text-davinci-003,grammatical,NPIs,TS 2,grammatical
+Ġin,4.0867715,10,text-davinci-003,grammatical,NPIs,TS 2,grammatical
+Ġthe,0.80496556,11,text-davinci-003,grammatical,NPIs,TS 2,grammatical
+Ġforeign,6.4735518,12,text-davinci-003,grammatical,NPIs,TS 2,grammatical
+Ġwar,8.062656,13,text-davinci-003,grammatical,NPIs,TS 2,grammatical
+The,3.6610966,0,text-davinci-003,ungrammatical,NPIs,TS 2,grammatical
+Ġambassadors,12.670597,1,text-davinci-003,ungrammatical,NPIs,TS 2,grammatical
+Ġthat,6.4616694,2,text-davinci-003,ungrammatical,NPIs,TS 2,grammatical
+Ġno,8.762875,3,text-davinci-003,ungrammatical,NPIs,TS 2,grammatical
+Ġdiplomats,9.199489,4,text-davinci-003,ungrammatical,NPIs,TS 2,grammatical
+Ġconsulted,9.750322,5,text-davinci-003,ungrammatical,NPIs,TS 2,grammatical
+Ġhave,6.1950655,6,text-davinci-003,ungrammatical,NPIs,TS 2,grammatical
+Ġever,9.076588,7,text-davinci-003,ungrammatical,NPIs,TS 2,grammatical
+Ġseen,0.6167175,8,text-davinci-003,ungrammatical,NPIs,TS 2,grammatical
+Ġbrutality,18.062307,9,text-davinci-003,ungrammatical,NPIs,TS 2,grammatical
+Ġin,2.2218401,10,text-davinci-003,ungrammatical,NPIs,TS 2,grammatical
+Ġthe,1.3233547,11,text-davinci-003,ungrammatical,NPIs,TS 2,grammatical
+Ġforeign,6.123391,12,text-davinci-003,ungrammatical,NPIs,TS 2,grammatical
+Ġwar,7.4683867,13,text-davinci-003,ungrammatical,NPIs,TS 2,grammatical
+No,6.7978086,0,text-davinci-003,grammatical,NPIs,TS 3,grammatical
+Ġcustomers,10.650146,1,text-davinci-003,grammatical,NPIs,TS 3,grammatical
+Ġthat,6.8268356,2,text-davinci-003,grammatical,NPIs,TS 3,grammatical
+Ġthe,5.0240107,3,text-davinci-003,grammatical,NPIs,TS 3,grammatical
+Ġsales,6.870679,4,text-davinci-003,grammatical,NPIs,TS 3,grammatical
+men,4.3833733,5,text-davinci-003,grammatical,NPIs,TS 3,grammatical
+Ġassisted,8.894297,6,text-davinci-003,grammatical,NPIs,TS 3,grammatical
+Ġhave,4.838711,7,text-davinci-003,grammatical,NPIs,TS 3,grammatical
+Ġexpressed,4.8324146,8,text-davinci-003,grammatical,NPIs,TS 3,grammatical
+Ġany,0.83949786,9,text-davinci-003,grammatical,NPIs,TS 3,grammatical
+Ġoptimism,12.40192,10,text-davinci-003,grammatical,NPIs,TS 3,grammatical
+Ġfor,3.1197386,11,text-davinci-003,grammatical,NPIs,TS 3,grammatical
+Ġa,2.9403293,12,text-davinci-003,grammatical,NPIs,TS 3,grammatical
+Ġfull,6.5798945,13,text-davinci-003,grammatical,NPIs,TS 3,grammatical
+Ġrefund,6.900931,14,text-davinci-003,grammatical,NPIs,TS 3,grammatical
+The,3.6688788,0,text-davinci-003,ungrammatical,NPIs,TS 3,grammatical
+Ġcustomers,11.157459,1,text-davinci-003,ungrammatical,NPIs,TS 3,grammatical
+Ġthat,3.8559737,2,text-davinci-003,ungrammatical,NPIs,TS 3,grammatical
+Ġno,8.89644,3,text-davinci-003,ungrammatical,NPIs,TS 3,grammatical
+Ġsales,6.2814374,4,text-davinci-003,ungrammatical,NPIs,TS 3,grammatical
+men,6.749218,5,text-davinci-003,ungrammatical,NPIs,TS 3,grammatical
+Ġassisted,14.876245,6,text-davinci-003,ungrammatical,NPIs,TS 3,grammatical
+Ġhave,4.7026944,7,text-davinci-003,ungrammatical,NPIs,TS 3,grammatical
+Ġexpressed,7.0999007,8,text-davinci-003,ungrammatical,NPIs,TS 3,grammatical
+Ġany,9.844958,9,text-davinci-003,ungrammatical,NPIs,TS 3,grammatical
+Ġoptimism,11.978651,10,text-davinci-003,ungrammatical,NPIs,TS 3,grammatical
+Ġfor,3.1236234,11,text-davinci-003,ungrammatical,NPIs,TS 3,grammatical
+Ġa,2.946797,12,text-davinci-003,ungrammatical,NPIs,TS 3,grammatical
+Ġfull,7.600265,13,text-davinci-003,ungrammatical,NPIs,TS 3,grammatical
+Ġrefund,3.6772609,14,text-davinci-003,ungrammatical,NPIs,TS 3,grammatical
+No,6.7846546,0,text-davinci-003,grammatical,NPIs,TS 4,grammatical
+Ġdeter,12.301529,1,text-davinci-003,grammatical,NPIs,TS 4,grammatical
+g,2.8432536,2,text-davinci-003,grammatical,NPIs,TS 4,grammatical
+ents,0.014783748,3,text-davinci-003,grammatical,NPIs,TS 4,grammatical
+Ġthat,5.1745653,4,text-davinci-003,grammatical,NPIs,TS 4,grammatical
+Ġthe,6.5640554,5,text-davinci-003,grammatical,NPIs,TS 4,grammatical
+Ġhouse,6.6379414,6,text-davinci-003,grammatical,NPIs,TS 4,grammatical
+wives,3.6273043,7,text-davinci-003,grammatical,NPIs,TS 4,grammatical
+Ġused,2.0393157,8,text-davinci-003,grammatical,NPIs,TS 4,grammatical
+Ġhave,5.8629284,9,text-davinci-003,grammatical,NPIs,TS 4,grammatical
+Ġever,2.5454912,10,text-davinci-003,grammatical,NPIs,TS 4,grammatical
+Ġcaused,3.8008156,11,text-davinci-003,grammatical,NPIs,TS 4,grammatical
+Ġdamage,5.489088,12,text-davinci-003,grammatical,NPIs,TS 4,grammatical
+Ġto,0.15197495,13,text-davinci-003,grammatical,NPIs,TS 4,grammatical
+Ġthe,0.84242314,14,text-davinci-003,grammatical,NPIs,TS 4,grammatical
+Ġdelicate,6.0901055,15,text-davinci-003,grammatical,NPIs,TS 4,grammatical
+Ġclothing,3.4684606,16,text-davinci-003,grammatical,NPIs,TS 4,grammatical
+The,3.6610951,0,text-davinci-003,ungrammatical,NPIs,TS 4,grammatical
+Ġdeter,13.207056,1,text-davinci-003,ungrammatical,NPIs,TS 4,grammatical
+g,2.517068,2,text-davinci-003,ungrammatical,NPIs,TS 4,grammatical
+ents,0.0014729608,3,text-davinci-003,ungrammatical,NPIs,TS 4,grammatical
+Ġthat,3.0615551,4,text-davinci-003,ungrammatical,NPIs,TS 4,grammatical
+Ġno,10.311752,5,text-davinci-003,ungrammatical,NPIs,TS 4,grammatical
+Ġhouse,5.6692457,6,text-davinci-003,ungrammatical,NPIs,TS 4,grammatical
+wives,4.0733795,7,text-davinci-003,ungrammatical,NPIs,TS 4,grammatical
+Ġused,4.265641,8,text-davinci-003,ungrammatical,NPIs,TS 4,grammatical
+Ġhave,6.194419,9,text-davinci-003,ungrammatical,NPIs,TS 4,grammatical
+Ġever,8.76511,10,text-davinci-003,ungrammatical,NPIs,TS 4,grammatical
+Ġcaused,5.728181,11,text-davinci-003,ungrammatical,NPIs,TS 4,grammatical
+Ġdamage,4.419583,12,text-davinci-003,ungrammatical,NPIs,TS 4,grammatical
+Ġto,0.16490403,13,text-davinci-003,ungrammatical,NPIs,TS 4,grammatical
+Ġthe,0.8287029,14,text-davinci-003,ungrammatical,NPIs,TS 4,grammatical
+Ġdelicate,5.6287923,15,text-davinci-003,ungrammatical,NPIs,TS 4,grammatical
+Ġclothing,3.0741065,16,text-davinci-003,ungrammatical,NPIs,TS 4,grammatical
+No,6.7846546,0,text-davinci-003,grammatical,NPIs,TS 5,grammatical
+Ġstudents,9.694971,1,text-davinci-003,grammatical,NPIs,TS 5,grammatical
+Ġthat,7.7700396,2,text-davinci-003,grammatical,NPIs,TS 5,grammatical
+Ġthe,4.632323,3,text-davinci-003,grammatical,NPIs,TS 5,grammatical
+Ġteachers,5.0547147,4,text-davinci-003,grammatical,NPIs,TS 5,grammatical
+Ġpunished,10.279418,5,text-davinci-003,grammatical,NPIs,TS 5,grammatical
+Ġcould,3.691612,6,text-davinci-003,grammatical,NPIs,TS 5,grammatical
+Ġexpect,6.2765975,7,text-davinci-003,grammatical,NPIs,TS 5,grammatical
+Ġany,2.6157892,8,text-davinci-003,grammatical,NPIs,TS 5,grammatical
+Ġfriend,11.1437435,9,text-davinci-003,grammatical,NPIs,TS 5,grammatical
+liness,0.040892784,10,text-davinci-003,grammatical,NPIs,TS 5,grammatical
+Ġfrom,0.5963785,11,text-davinci-003,grammatical,NPIs,TS 5,grammatical
+Ġthe,1.5316652,12,text-davinci-003,grammatical,NPIs,TS 5,grammatical
+Ġstrict,6.8474607,13,text-davinci-003,grammatical,NPIs,TS 5,grammatical
+Ġprincipal,3.6690793,14,text-davinci-003,grammatical,NPIs,TS 5,grammatical
+The,3.6610966,0,text-davinci-003,ungrammatical,NPIs,TS 5,grammatical
+Ġstudents,8.208237,1,text-davinci-003,ungrammatical,NPIs,TS 5,grammatical
+Ġthat,5.312169,2,text-davinci-003,ungrammatical,NPIs,TS 5,grammatical
+Ġno,9.839244,3,text-davinci-003,ungrammatical,NPIs,TS 5,grammatical
+Ġteachers,6.3789434,4,text-davinci-003,ungrammatical,NPIs,TS 5,grammatical
+Ġpunished,13.807629,5,text-davinci-003,ungrammatical,NPIs,TS 5,grammatical
+Ġcould,7.646619,6,text-davinci-003,ungrammatical,NPIs,TS 5,grammatical
+Ġexpect,9.566368,7,text-davinci-003,ungrammatical,NPIs,TS 5,grammatical
+Ġany,6.953211,8,text-davinci-003,ungrammatical,NPIs,TS 5,grammatical
+Ġfriend,13.124673,9,text-davinci-003,ungrammatical,NPIs,TS 5,grammatical
+liness,1.3704917,10,text-davinci-003,ungrammatical,NPIs,TS 5,grammatical
+Ġfrom,0.7481868,11,text-davinci-003,ungrammatical,NPIs,TS 5,grammatical
+Ġthe,0.9579587,12,text-davinci-003,ungrammatical,NPIs,TS 5,grammatical
+Ġstrict,13.81262,13,text-davinci-003,ungrammatical,NPIs,TS 5,grammatical
+Ġprincipal,4.454542,14,text-davinci-003,ungrammatical,NPIs,TS 5,grammatical
+No,6.7846546,0,text-davinci-003,grammatical,NPIs,TS 6,ungrammatical
+Ġsoldiers,12.649825,1,text-davinci-003,grammatical,NPIs,TS 6,ungrammatical
+Ġthat,7.4972334,2,text-davinci-003,grammatical,NPIs,TS 6,ungrammatical
+Ġthe,4.4664717,3,text-davinci-003,grammatical,NPIs,TS 6,ungrammatical
+Ġdiplomats,12.381411,4,text-davinci-003,grammatical,NPIs,TS 6,ungrammatical
+Ġsupported,9.226073,5,text-davinci-003,grammatical,NPIs,TS 6,ungrammatical
+Ġhave,4.029627,6,text-davinci-003,grammatical,NPIs,TS 6,ungrammatical
+Ġshown,5.8629174,7,text-davinci-003,grammatical,NPIs,TS 6,ungrammatical
+Ġany,2.9281578,8,text-davinci-003,grammatical,NPIs,TS 6,ungrammatical
+Ġbravery,4.6991825,9,text-davinci-003,grammatical,NPIs,TS 6,ungrammatical
+Ġin,1.9336679,10,text-davinci-003,grammatical,NPIs,TS 6,ungrammatical
+Ġthe,1.349326,11,text-davinci-003,grammatical,NPIs,TS 6,ungrammatical
+Ġcontroversial,11.48044,12,text-davinci-003,grammatical,NPIs,TS 6,ungrammatical
+Ġwar,1.3185793,13,text-davinci-003,grammatical,NPIs,TS 6,ungrammatical
+The,3.6610966,0,text-davinci-003,ungrammatical,NPIs,TS 6,ungrammatical
+Ġsoldiers,11.342862,1,text-davinci-003,ungrammatical,NPIs,TS 6,ungrammatical
+Ġthat,4.8836102,2,text-davinci-003,ungrammatical,NPIs,TS 6,ungrammatical
+Ġno,8.553718,3,text-davinci-003,ungrammatical,NPIs,TS 6,ungrammatical
+Ġdiplomats,15.047611,4,text-davinci-003,ungrammatical,NPIs,TS 6,ungrammatical
+Ġsupported,10.728709,5,text-davinci-003,ungrammatical,NPIs,TS 6,ungrammatical
+Ġhave,5.591329,6,text-davinci-003,ungrammatical,NPIs,TS 6,ungrammatical
+Ġshown,6.987607,7,text-davinci-003,ungrammatical,NPIs,TS 6,ungrammatical
+Ġany,10.196676,8,text-davinci-003,ungrammatical,NPIs,TS 6,ungrammatical
+Ġbravery,4.925174,9,text-davinci-003,ungrammatical,NPIs,TS 6,ungrammatical
+Ġin,1.689125,10,text-davinci-003,ungrammatical,NPIs,TS 6,ungrammatical
+Ġthe,1.1576805,11,text-davinci-003,ungrammatical,NPIs,TS 6,ungrammatical
+Ġcontroversial,12.097609,12,text-davinci-003,ungrammatical,NPIs,TS 6,ungrammatical
+Ġwar,1.5100701,13,text-davinci-003,ungrammatical,NPIs,TS 6,ungrammatical
+No,6.7846546,0,text-davinci-003,grammatical,NPIs,TS 7,ungrammatical
+Ġprofessors,13.815791,1,text-davinci-003,grammatical,NPIs,TS 7,ungrammatical
+Ġthat,6.3597016,2,text-davinci-003,grammatical,NPIs,TS 7,ungrammatical
+Ġthe,5.8955903,3,text-davinci-003,grammatical,NPIs,TS 7,ungrammatical
+Ġstudents,3.513578,4,text-davinci-003,grammatical,NPIs,TS 7,ungrammatical
+Ġrespected,7.4383183,5,text-davinci-003,grammatical,NPIs,TS 7,ungrammatical
+Ġhave,5.7424326,6,text-davinci-003,grammatical,NPIs,TS 7,ungrammatical
+Ġever,1.9877061,7,text-davinci-003,grammatical,NPIs,TS 7,ungrammatical
+Ġwanted,5.9045234,8,text-davinci-003,grammatical,NPIs,TS 7,ungrammatical
+Ġnegativity,14.914756,9,text-davinci-003,grammatical,NPIs,TS 7,ungrammatical
+Ġin,1.1461706,10,text-davinci-003,grammatical,NPIs,TS 7,ungrammatical
+Ġa,3.2263017,11,text-davinci-003,grammatical,NPIs,TS 7,ungrammatical
+Ġclass,2.4310868,12,text-davinci-003,grammatical,NPIs,TS 7,ungrammatical
+Ġdebate,7.4633627,13,text-davinci-003,grammatical,NPIs,TS 7,ungrammatical
+The,3.6610966,0,text-davinci-003,ungrammatical,NPIs,TS 7,ungrammatical
+Ġprofessors,12.195673,1,text-davinci-003,ungrammatical,NPIs,TS 7,ungrammatical
+Ġthat,4.8897457,2,text-davinci-003,ungrammatical,NPIs,TS 7,ungrammatical
+Ġno,10.759736,3,text-davinci-003,ungrammatical,NPIs,TS 7,ungrammatical
+Ġstudents,4.7368045,4,text-davinci-003,ungrammatical,NPIs,TS 7,ungrammatical
+Ġrespected,9.19231,5,text-davinci-003,ungrammatical,NPIs,TS 7,ungrammatical
+Ġhave,6.885993,6,text-davinci-003,ungrammatical,NPIs,TS 7,ungrammatical
+Ġever,9.470519,7,text-davinci-003,ungrammatical,NPIs,TS 7,ungrammatical
+Ġwanted,5.276579,8,text-davinci-003,ungrammatical,NPIs,TS 7,ungrammatical
+Ġnegativity,17.382467,9,text-davinci-003,ungrammatical,NPIs,TS 7,ungrammatical
+Ġin,2.0303497,10,text-davinci-003,ungrammatical,NPIs,TS 7,ungrammatical
+Ġa,4.0492296,11,text-davinci-003,ungrammatical,NPIs,TS 7,ungrammatical
+Ġclass,2.011776,12,text-davinci-003,ungrammatical,NPIs,TS 7,ungrammatical
+Ġdebate,8.55635,13,text-davinci-003,ungrammatical,NPIs,TS 7,ungrammatical
+No,6.7846546,0,text-davinci-003,grammatical,NPIs,TS 8,ungrammatical
+Ġcomments,7.4800673,1,text-davinci-003,grammatical,NPIs,TS 8,ungrammatical
+Ġthat,9.114226,2,text-davinci-003,grammatical,NPIs,TS 8,ungrammatical
+Ġthe,3.8809762,3,text-davinci-003,grammatical,NPIs,TS 8,ungrammatical
+Ġpoliticians,9.0483055,4,text-davinci-003,grammatical,NPIs,TS 8,ungrammatical
+Ġignored,9.269001,5,text-davinci-003,grammatical,NPIs,TS 8,ungrammatical
+Ġhave,6.5334687,6,text-davinci-003,grammatical,NPIs,TS 8,ungrammatical
+Ġcaused,6.1405525,7,text-davinci-003,grammatical,NPIs,TS 8,ungrammatical
+Ġany,3.7939959,8,text-davinci-003,grammatical,NPIs,TS 8,ungrammatical
+Ġbitterness,9.054027,9,text-davinci-003,grammatical,NPIs,TS 8,ungrammatical
+Ġtoward,6.109618,10,text-davinci-003,grammatical,NPIs,TS 8,ungrammatical
+Ġthe,0.8035023,11,text-davinci-003,grammatical,NPIs,TS 8,ungrammatical
+Ġliberal,9.948982,12,text-davinci-003,grammatical,NPIs,TS 8,ungrammatical
+Ġnewspapers,8.922066,13,text-davinci-003,grammatical,NPIs,TS 8,ungrammatical
+The,3.6695924,0,text-davinci-003,ungrammatical,NPIs,TS 8,ungrammatical
+Ġcomments,9.378906,1,text-davinci-003,ungrammatical,NPIs,TS 8,ungrammatical
+Ġthat,4.4525256,2,text-davinci-003,ungrammatical,NPIs,TS 8,ungrammatical
+Ġno,8.469641,3,text-davinci-003,ungrammatical,NPIs,TS 8,ungrammatical
+Ġpoliticians,9.21819,4,text-davinci-003,ungrammatical,NPIs,TS 8,ungrammatical
+Ġignored,11.056652,5,text-davinci-003,ungrammatical,NPIs,TS 8,ungrammatical
+Ġhave,4.9791365,6,text-davinci-003,ungrammatical,NPIs,TS 8,ungrammatical
+Ġcaused,4.252466,7,text-davinci-003,ungrammatical,NPIs,TS 8,ungrammatical
+Ġany,9.782395,8,text-davinci-003,ungrammatical,NPIs,TS 8,ungrammatical
+Ġbitterness,9.756744,9,text-davinci-003,ungrammatical,NPIs,TS 8,ungrammatical
+Ġtoward,6.727414,10,text-davinci-003,ungrammatical,NPIs,TS 8,ungrammatical
+Ġthe,1.0362827,11,text-davinci-003,ungrammatical,NPIs,TS 8,ungrammatical
+Ġliberal,9.380752,12,text-davinci-003,ungrammatical,NPIs,TS 8,ungrammatical
+Ġnewspapers,10.782164,13,text-davinci-003,ungrammatical,NPIs,TS 8,ungrammatical
+No,6.798427,0,text-davinci-003,grammatical,NPIs,TS 9,ungrammatical
+Ġlawyers,11.750227,1,text-davinci-003,grammatical,NPIs,TS 9,ungrammatical
+Ġthat,7.8564124,2,text-davinci-003,grammatical,NPIs,TS 9,ungrammatical
+Ġthe,5.982486,3,text-davinci-003,grammatical,NPIs,TS 9,ungrammatical
+Ġbusinessmen,12.089437,4,text-davinci-003,grammatical,NPIs,TS 9,ungrammatical
+Ġrespected,8.230799,5,text-davinci-003,grammatical,NPIs,TS 9,ungrammatical
+Ġhave,6.5334926,6,text-davinci-003,grammatical,NPIs,TS 9,ungrammatical
+Ġever,3.18959,7,text-davinci-003,grammatical,NPIs,TS 9,ungrammatical
+Ġreceived,7.8065677,8,text-davinci-003,grammatical,NPIs,TS 9,ungrammatical
+Ġcriticism,6.7890763,9,text-davinci-003,grammatical,NPIs,TS 9,ungrammatical
+Ġfor,0.9732011,10,text-davinci-003,grammatical,NPIs,TS 9,ungrammatical
+Ġa,4.871678,11,text-davinci-003,grammatical,NPIs,TS 9,ungrammatical
+Ġbad,4.351992,12,text-davinci-003,grammatical,NPIs,TS 9,ungrammatical
+Ġtrial,6.6794114,13,text-davinci-003,grammatical,NPIs,TS 9,ungrammatical
+The,3.6610966,0,text-davinci-003,ungrammatical,NPIs,TS 9,ungrammatical
+Ġlawyers,10.57524,1,text-davinci-003,ungrammatical,NPIs,TS 9,ungrammatical
+Ġthat,5.5032434,2,text-davinci-003,ungrammatical,NPIs,TS 9,ungrammatical
+Ġno,8.515869,3,text-davinci-003,ungrammatical,NPIs,TS 9,ungrammatical
+Ġbusinessmen,11.479567,4,text-davinci-003,ungrammatical,NPIs,TS 9,ungrammatical
+Ġrespected,11.833225,5,text-davinci-003,ungrammatical,NPIs,TS 9,ungrammatical
+Ġhave,5.8339343,6,text-davinci-003,ungrammatical,NPIs,TS 9,ungrammatical
+Ġever,8.947483,7,text-davinci-003,ungrammatical,NPIs,TS 9,ungrammatical
+Ġreceived,6.3932657,8,text-davinci-003,ungrammatical,NPIs,TS 9,ungrammatical
+Ġcriticism,9.018791,9,text-davinci-003,ungrammatical,NPIs,TS 9,ungrammatical
+Ġfor,2.088438,10,text-davinci-003,ungrammatical,NPIs,TS 9,ungrammatical
+Ġa,5.087658,11,text-davinci-003,ungrammatical,NPIs,TS 9,ungrammatical
+Ġbad,5.630493,12,text-davinci-003,ungrammatical,NPIs,TS 9,ungrammatical
+Ġtrial,6.409915,13,text-davinci-003,ungrammatical,NPIs,TS 9,ungrammatical
+No,6.7846546,0,text-davinci-003,grammatical,NPIs,TS 10,ungrammatical
+Ġbabys,12.484257,1,text-davinci-003,grammatical,NPIs,TS 10,ungrammatical
+itters,2.5823183,2,text-davinci-003,grammatical,NPIs,TS 10,ungrammatical
+Ġthat,7.7743983,3,text-davinci-003,grammatical,NPIs,TS 10,ungrammatical
+Ġthe,6.7746315,4,text-davinci-003,grammatical,NPIs,TS 10,ungrammatical
+Ġchildren,3.9122229,5,text-davinci-003,grammatical,NPIs,TS 10,ungrammatical
+Ġob,13.489706,6,text-davinci-003,grammatical,NPIs,TS 10,ungrammatical
+eyed,0.3607219,7,text-davinci-003,grammatical,NPIs,TS 10,ungrammatical
+Ġhave,7.419013,8,text-davinci-003,grammatical,NPIs,TS 10,ungrammatical
+Ġshown,6.101892,9,text-davinci-003,grammatical,NPIs,TS 10,ungrammatical
+Ġany,4.2237663,10,text-davinci-003,grammatical,NPIs,TS 10,ungrammatical
+Ġgratitude,9.772636,11,text-davinci-003,grammatical,NPIs,TS 10,ungrammatical
+Ġto,2.1554546,12,text-davinci-003,grammatical,NPIs,TS 10,ungrammatical
+Ġthe,0.78199804,13,text-davinci-003,grammatical,NPIs,TS 10,ungrammatical
+Ġdisappointed,11.44266,14,text-davinci-003,grammatical,NPIs,TS 10,ungrammatical
+Ġparents,0.2706501,15,text-davinci-003,grammatical,NPIs,TS 10,ungrammatical
+The,3.6610951,0,text-davinci-003,ungrammatical,NPIs,TS 10,ungrammatical
+Ġbabys,13.157455,1,text-davinci-003,ungrammatical,NPIs,TS 10,ungrammatical
+itters,2.260789,2,text-davinci-003,ungrammatical,NPIs,TS 10,ungrammatical
+Ġthat,7.5239267,3,text-davinci-003,ungrammatical,NPIs,TS 10,ungrammatical
+Ġno,8.713685,4,text-davinci-003,ungrammatical,NPIs,TS 10,ungrammatical
+Ġchildren,7.0013146,5,text-davinci-003,ungrammatical,NPIs,TS 10,ungrammatical
+Ġob,14.258144,6,text-davinci-003,ungrammatical,NPIs,TS 10,ungrammatical
+eyed,0.03457004,7,text-davinci-003,ungrammatical,NPIs,TS 10,ungrammatical
+Ġhave,8.138864,8,text-davinci-003,ungrammatical,NPIs,TS 10,ungrammatical
+Ġshown,7.6908245,9,text-davinci-003,ungrammatical,NPIs,TS 10,ungrammatical
+Ġany,9.577717,10,text-davinci-003,ungrammatical,NPIs,TS 10,ungrammatical
+Ġgratitude,8.341556,11,text-davinci-003,ungrammatical,NPIs,TS 10,ungrammatical
+Ġto,1.8075377,12,text-davinci-003,ungrammatical,NPIs,TS 10,ungrammatical
+Ġthe,0.65317523,13,text-davinci-003,ungrammatical,NPIs,TS 10,ungrammatical
+Ġdisappointed,9.166682,14,text-davinci-003,ungrammatical,NPIs,TS 10,ungrammatical
+Ġparents,0.15554939,15,text-davinci-003,ungrammatical,NPIs,TS 10,ungrammatical
+I,4.168174,0,text-davinci-003,grammatical,Order of Adjectives,TS 1,grammatical
+Ġwore,9.6053505,1,text-davinci-003,grammatical,Order of Adjectives,TS 1,grammatical
+Ġa,1.997401,2,text-davinci-003,grammatical,Order of Adjectives,TS 1,grammatical
+Ġbeautiful,4.8740997,3,text-davinci-003,grammatical,Order of Adjectives,TS 1,grammatical
+Ġlong,4.870703,4,text-davinci-003,grammatical,Order of Adjectives,TS 1,grammatical
+ĠItalian,9.181384,5,text-davinci-003,grammatical,Order of Adjectives,TS 1,grammatical
+Ġsilk,2.4025588,6,text-davinci-003,grammatical,Order of Adjectives,TS 1,grammatical
+Ġdress,0.5837514,7,text-davinci-003,grammatical,Order of Adjectives,TS 1,grammatical
+I,4.159285,0,text-davinci-003,grammatical,Order of Adjectives,TS 2,grammatical
+Ġbought,5.0366364,1,text-davinci-003,grammatical,Order of Adjectives,TS 2,grammatical
+Ġa,1.1594487,2,text-davinci-003,grammatical,Order of Adjectives,TS 2,grammatical
+Ġnice,5.7765813,3,text-davinci-003,grammatical,Order of Adjectives,TS 2,grammatical
+Ġsmall,5.762438,4,text-davinci-003,grammatical,Order of Adjectives,TS 2,grammatical
+ĠGerman,7.9504256,5,text-davinci-003,grammatical,Order of Adjectives,TS 2,grammatical
+Ġelectric,6.1310244,6,text-davinci-003,grammatical,Order of Adjectives,TS 2,grammatical
+Ġbike,4.233171,7,text-davinci-003,grammatical,Order of Adjectives,TS 2,grammatical
+I,4.159286,0,text-davinci-003,grammatical,Order of Adjectives,TS 3,grammatical
+Ġwashed,11.424989,1,text-davinci-003,grammatical,Order of Adjectives,TS 3,grammatical
+Ġan,6.073007,2,text-davinci-003,grammatical,Order of Adjectives,TS 3,grammatical
+Ġugly,5.418956,3,text-davinci-003,grammatical,Order of Adjectives,TS 3,grammatical
+Ġwide,11.29108,4,text-davinci-003,grammatical,Order of Adjectives,TS 3,grammatical
+ĠAmerican,11.3310375,5,text-davinci-003,grammatical,Order of Adjectives,TS 3,grammatical
+Ġwool,6.408368,6,text-davinci-003,grammatical,Order of Adjectives,TS 3,grammatical
+Ġsweater,1.3267268,7,text-davinci-003,grammatical,Order of Adjectives,TS 3,grammatical
+I,4.159285,0,text-davinci-003,grammatical,Order of Adjectives,TS 4,grammatical
+Ġpainted,9.228239,1,text-davinci-003,grammatical,Order of Adjectives,TS 4,grammatical
+Ġa,2.3843799,2,text-davinci-003,grammatical,Order of Adjectives,TS 4,grammatical
+Ġfine,9.191088,3,text-davinci-003,grammatical,Order of Adjectives,TS 4,grammatical
+Ġshort,9.173572,4,text-davinci-003,grammatical,Order of Adjectives,TS 4,grammatical
+ĠSwedish,11.936801,5,text-davinci-003,grammatical,Order of Adjectives,TS 4,grammatical
+Ġwooden,7.151592,6,text-davinci-003,grammatical,Order of Adjectives,TS 4,grammatical
+Ġtable,4.7045436,7,text-davinci-003,grammatical,Order of Adjectives,TS 4,grammatical
+I,4.159286,0,text-davinci-003,grammatical,Order of Adjectives,TS 5,grammatical
+Ġsaw,5.740821,1,text-davinci-003,grammatical,Order of Adjectives,TS 5,grammatical
+Ġa,1.4684451,2,text-davinci-003,grammatical,Order of Adjectives,TS 5,grammatical
+Ġgraceful,12.421962,3,text-davinci-003,grammatical,Order of Adjectives,TS 5,grammatical
+Ġtall,6.4262676,4,text-davinci-003,grammatical,Order of Adjectives,TS 5,grammatical
+ĠVen,11.59384,5,text-davinci-003,grammatical,Order of Adjectives,TS 5,grammatical
+et,0.05418827,6,text-davinci-003,grammatical,Order of Adjectives,TS 5,grammatical
+ian,0.0021333713,7,text-davinci-003,grammatical,Order of Adjectives,TS 5,grammatical
+Ġvit,12.242905,8,text-davinci-003,grammatical,Order of Adjectives,TS 5,grammatical
+re,4.2508893,9,text-davinci-003,grammatical,Order of Adjectives,TS 5,grammatical
+ous,0.07724389,10,text-davinci-003,grammatical,Order of Adjectives,TS 5,grammatical
+Ġv,2.1850958,11,text-davinci-003,grammatical,Order of Adjectives,TS 5,grammatical
+ase,0.02651962,12,text-davinci-003,grammatical,Order of Adjectives,TS 5,grammatical
+I,4.159286,0,text-davinci-003,ungrammatical,Order of Adjectives,TS 6,ungrammatical
+Ġwore,9.604068,1,text-davinci-003,ungrammatical,Order of Adjectives,TS 6,ungrammatical
+Ġa,1.9973739,2,text-davinci-003,ungrammatical,Order of Adjectives,TS 6,ungrammatical
+Ġsilk,7.476939,3,text-davinci-003,ungrammatical,Order of Adjectives,TS 6,ungrammatical
+ĠItalian,8.859009,4,text-davinci-003,ungrammatical,Order of Adjectives,TS 6,ungrammatical
+Ġlong,7.2175164,5,text-davinci-003,ungrammatical,Order of Adjectives,TS 6,ungrammatical
+Ġbeautiful,10.391335,6,text-davinci-003,ungrammatical,Order of Adjectives,TS 6,ungrammatical
+Ġdress,0.544096,7,text-davinci-003,ungrammatical,Order of Adjectives,TS 6,ungrammatical
+I,4.159286,0,text-davinci-003,ungrammatical,Order of Adjectives,TS 7,ungrammatical
+Ġbought,5.0366373,1,text-davinci-003,ungrammatical,Order of Adjectives,TS 7,ungrammatical
+Ġan,3.3470898,2,text-davinci-003,ungrammatical,Order of Adjectives,TS 7,ungrammatical
+Ġelectric,5.0660357,3,text-davinci-003,ungrammatical,Order of Adjectives,TS 7,ungrammatical
+ĠGerman,11.90637,4,text-davinci-003,ungrammatical,Order of Adjectives,TS 7,ungrammatical
+Ġsmall,9.544731,5,text-davinci-003,ungrammatical,Order of Adjectives,TS 7,ungrammatical
+Ġnice,11.425882,6,text-davinci-003,ungrammatical,Order of Adjectives,TS 7,ungrammatical
+Ġbike,3.710557,7,text-davinci-003,ungrammatical,Order of Adjectives,TS 7,ungrammatical
+I,4.168007,0,text-davinci-003,ungrammatical,Order of Adjectives,TS 8,ungrammatical
+Ġwashed,11.425583,1,text-davinci-003,ungrammatical,Order of Adjectives,TS 8,ungrammatical
+Ġa,3.1728702,2,text-davinci-003,ungrammatical,Order of Adjectives,TS 8,ungrammatical
+Ġwool,4.4347982,3,text-davinci-003,ungrammatical,Order of Adjectives,TS 8,ungrammatical
+ĠAmerican,12.4505,4,text-davinci-003,ungrammatical,Order of Adjectives,TS 8,ungrammatical
+Ġwide,13.458392,5,text-davinci-003,ungrammatical,Order of Adjectives,TS 8,ungrammatical
+Ġugly,13.138076,6,text-davinci-003,ungrammatical,Order of Adjectives,TS 8,ungrammatical
+Ġsweater,0.81190515,7,text-davinci-003,ungrammatical,Order of Adjectives,TS 8,ungrammatical
+I,4.159285,0,text-davinci-003,ungrammatical,Order of Adjectives,TS 9,ungrammatical
+Ġpainted,9.228239,1,text-davinci-003,ungrammatical,Order of Adjectives,TS 9,ungrammatical
+Ġa,2.3843799,2,text-davinci-003,ungrammatical,Order of Adjectives,TS 9,ungrammatical
+Ġwooden,6.2936554,3,text-davinci-003,ungrammatical,Order of Adjectives,TS 9,ungrammatical
+ĠSwedish,10.2182665,4,text-davinci-003,ungrammatical,Order of Adjectives,TS 9,ungrammatical
+Ġshort,11.258551,5,text-davinci-003,ungrammatical,Order of Adjectives,TS 9,ungrammatical
+Ġfine,12.621878,6,text-davinci-003,ungrammatical,Order of Adjectives,TS 9,ungrammatical
+Ġtable,4.869794,7,text-davinci-003,ungrammatical,Order of Adjectives,TS 9,ungrammatical
+I,4.159286,0,text-davinci-003,ungrammatical,Order of Adjectives,TS 10,ungrammatical
+Ġsaw,5.740821,1,text-davinci-003,ungrammatical,Order of Adjectives,TS 10,ungrammatical
+Ġa,1.4684451,2,text-davinci-003,ungrammatical,Order of Adjectives,TS 10,ungrammatical
+Ġvit,13.129044,3,text-davinci-003,ungrammatical,Order of Adjectives,TS 10,ungrammatical
+re,2.5040429,4,text-davinci-003,ungrammatical,Order of Adjectives,TS 10,ungrammatical
+ous,0.21836355,5,text-davinci-003,ungrammatical,Order of Adjectives,TS 10,ungrammatical
+ĠVen,12.022898,6,text-davinci-003,ungrammatical,Order of Adjectives,TS 10,ungrammatical
+et,0.12061012,7,text-davinci-003,ungrammatical,Order of Adjectives,TS 10,ungrammatical
+ian,0.0021909487,8,text-davinci-003,ungrammatical,Order of Adjectives,TS 10,ungrammatical
+Ġtall,9.401006,9,text-davinci-003,ungrammatical,Order of Adjectives,TS 10,ungrammatical
+Ġgraceful,10.600214,10,text-davinci-003,ungrammatical,Order of Adjectives,TS 10,ungrammatical
+Ġv,1.4930713,11,text-davinci-003,ungrammatical,Order of Adjectives,TS 10,ungrammatical
+ase,0.0051314076,12,text-davinci-003,ungrammatical,Order of Adjectives,TS 10,ungrammatical
+Charl,10.1516485,0,text-davinci-003,grammatical,Order of Adverbs,TS 1,grammatical
+otte,0.37317723,1,text-davinci-003,grammatical,Order of Adverbs,TS 1,grammatical
+Ġallegedly,14.431429,2,text-davinci-003,grammatical,Order of Adverbs,TS 1,grammatical
+Ġonce,6.874957,3,text-davinci-003,grammatical,Order of Adverbs,TS 1,grammatical
+Ġwas,5.7249403,4,text-davinci-003,grammatical,Order of Adverbs,TS 1,grammatical
+Ġan,3.1452632,5,text-davinci-003,grammatical,Order of Adverbs,TS 1,grammatical
+Ġac,5.9497814,6,text-davinci-003,grammatical,Order of Adverbs,TS 1,grammatical
+robat,0.40904763,7,text-davinci-003,grammatical,Order of Adverbs,TS 1,grammatical
+Charl,10.1516485,0,text-davinci-003,ungrammatical,Order of Adverbs,TS 1,grammatical
+otte,0.3731768,1,text-davinci-003,ungrammatical,Order of Adverbs,TS 1,grammatical
+Ġonce,9.967134,2,text-davinci-003,ungrammatical,Order of Adverbs,TS 1,grammatical
+Ġallegedly,10.932118,3,text-davinci-003,ungrammatical,Order of Adverbs,TS 1,grammatical
+Ġwas,5.1610465,4,text-davinci-003,ungrammatical,Order of Adverbs,TS 1,grammatical
+Ġan,3.693434,5,text-davinci-003,ungrammatical,Order of Adverbs,TS 1,grammatical
+Ġac,6.6576505,6,text-davinci-003,ungrammatical,Order of Adverbs,TS 1,grammatical
+robat,0.47658888,7,text-davinci-003,ungrammatical,Order of Adverbs,TS 1,grammatical
+Sean,10.813307,0,text-davinci-003,grammatical,Order of Adverbs,TS 2,grammatical
+Ġprobably,12.2031355,1,text-davinci-003,grammatical,Order of Adverbs,TS 2,grammatical
+Ġalready,5.225193,2,text-davinci-003,grammatical,Order of Adverbs,TS 2,grammatical
+Ġdid,4.4618673,3,text-davinci-003,grammatical,Order of Adverbs,TS 2,grammatical
+Ġhis,3.235047,4,text-davinci-003,grammatical,Order of Adverbs,TS 2,grammatical
+Ġhomework,1.0675815,5,text-davinci-003,grammatical,Order of Adverbs,TS 2,grammatical
+Sean,10.813307,0,text-davinci-003,ungrammatical,Order of Adverbs,TS 2,grammatical
+Ġalready,10.101107,1,text-davinci-003,ungrammatical,Order of Adverbs,TS 2,grammatical
+Ġprobably,9.46318,2,text-davinci-003,ungrammatical,Order of Adverbs,TS 2,grammatical
+Ġdid,4.5293574,3,text-davinci-003,ungrammatical,Order of Adverbs,TS 2,grammatical
+Ġhis,3.7179716,4,text-davinci-003,ungrammatical,Order of Adverbs,TS 2,grammatical
+Ġhomework,2.2371783,5,text-davinci-003,ungrammatical,Order of Adverbs,TS 2,grammatical
+Mel,9.28213,0,text-davinci-003,grammatical,Order of Adverbs,TS 3,grammatical
+issa,1.8523328,1,text-davinci-003,grammatical,Order of Adverbs,TS 3,grammatical
+Ġthen,11.528899,2,text-davinci-003,grammatical,Order of Adverbs,TS 3,grammatical
+Ġalways,10.495617,3,text-davinci-003,grammatical,Order of Adverbs,TS 3,grammatical
+Ġcleaned,9.124091,4,text-davinci-003,grammatical,Order of Adverbs,TS 3,grammatical
+Ġthe,1.2823582,5,text-davinci-003,grammatical,Order of Adverbs,TS 3,grammatical
+Ġdishes,3.1210136,6,text-davinci-003,grammatical,Order of Adverbs,TS 3,grammatical
+Mel,9.28213,0,text-davinci-003,ungrammatical,Order of Adverbs,TS 3,grammatical
+issa,1.8523328,1,text-davinci-003,ungrammatical,Order of Adverbs,TS 3,grammatical
+Ġalways,8.754968,2,text-davinci-003,ungrammatical,Order of Adverbs,TS 3,grammatical
+Ġthen,12.398443,3,text-davinci-003,ungrammatical,Order of Adverbs,TS 3,grammatical
+Ġcleaned,9.68516,4,text-davinci-003,ungrammatical,Order of Adverbs,TS 3,grammatical
+Ġthe,1.323153,5,text-davinci-003,ungrammatical,Order of Adverbs,TS 3,grammatical
+Ġdishes,3.3953698,6,text-davinci-003,ungrammatical,Order of Adverbs,TS 3,grammatical
+D,5.831419,0,text-davinci-003,grammatical,Order of Adverbs,TS 4,grammatical
+re,5.8959603,1,text-davinci-003,grammatical,Order of Adverbs,TS 4,grammatical
+Ġperhaps,14.7792635,2,text-davinci-003,grammatical,Order of Adverbs,TS 4,grammatical
+Ġstill,6.1973305,3,text-davinci-003,grammatical,Order of Adverbs,TS 4,grammatical
+Ġtakes,6.723157,4,text-davinci-003,grammatical,Order of Adverbs,TS 4,grammatical
+Ġdance,9.226464,5,text-davinci-003,grammatical,Order of Adverbs,TS 4,grammatical
+Ġlessons,1.499715,6,text-davinci-003,grammatical,Order of Adverbs,TS 4,grammatical
+D,5.831419,0,text-davinci-003,ungrammatical,Order of Adverbs,TS 4,grammatical
+re,5.8959603,1,text-davinci-003,ungrammatical,Order of Adverbs,TS 4,grammatical
+Ġstill,9.857708,2,text-davinci-003,ungrammatical,Order of Adverbs,TS 4,grammatical
+Ġperhaps,12.369456,3,text-davinci-003,ungrammatical,Order of Adverbs,TS 4,grammatical
+Ġtakes,7.9919705,4,text-davinci-003,ungrammatical,Order of Adverbs,TS 4,grammatical
+Ġdance,10.886069,5,text-davinci-003,ungrammatical,Order of Adverbs,TS 4,grammatical
+Ġlessons,1.6958785,6,text-davinci-003,ungrammatical,Order of Adverbs,TS 4,grammatical
+Emily,10.269545,0,text-davinci-003,grammatical,Order of Adverbs,TS 5,grammatical
+Ġprobably,12.213297,1,text-davinci-003,grammatical,Order of Adverbs,TS 5,grammatical
+Ġno,9.187739,2,text-davinci-003,grammatical,Order of Adverbs,TS 5,grammatical
+Ġlonger,0.48897383,3,text-davinci-003,grammatical,Order of Adverbs,TS 5,grammatical
+Ġdrinks,6.6437597,4,text-davinci-003,grammatical,Order of Adverbs,TS 5,grammatical
+Ġbeer,3.649591,5,text-davinci-003,grammatical,Order of Adverbs,TS 5,grammatical
+Emily,10.269546,0,text-davinci-003,ungrammatical,Order of Adverbs,TS 5,grammatical
+Ġno,10.500959,1,text-davinci-003,ungrammatical,Order of Adverbs,TS 5,grammatical
+Ġlonger,2.1476789,2,text-davinci-003,ungrammatical,Order of Adverbs,TS 5,grammatical
+Ġprobably,13.29581,3,text-davinci-003,ungrammatical,Order of Adverbs,TS 5,grammatical
+Ġdrinks,7.6839695,4,text-davinci-003,ungrammatical,Order of Adverbs,TS 5,grammatical
+Ġbeer,3.7287807,5,text-davinci-003,ungrammatical,Order of Adverbs,TS 5,grammatical
+Marc,9.992663,0,text-davinci-003,grammatical,Order of Adverbs,TS 6,ungrammatical
+Ġallegedly,15.436203,1,text-davinci-003,grammatical,Order of Adverbs,TS 6,ungrammatical
+Ġonce,7.1671467,2,text-davinci-003,grammatical,Order of Adverbs,TS 6,ungrammatical
+Ġwas,5.245177,3,text-davinci-003,grammatical,Order of Adverbs,TS 6,ungrammatical
+Ġa,1.408169,4,text-davinci-003,grammatical,Order of Adverbs,TS 6,ungrammatical
+Ġfirefighter,7.692707,5,text-davinci-003,grammatical,Order of Adverbs,TS 6,ungrammatical
+Marc,9.983964,0,text-davinci-003,ungrammatical,Order of Adverbs,TS 6,ungrammatical
+Ġonce,12.596163,1,text-davinci-003,ungrammatical,Order of Adverbs,TS 6,ungrammatical
+Ġallegedly,11.538923,2,text-davinci-003,ungrammatical,Order of Adverbs,TS 6,ungrammatical
+Ġwas,5.614455,3,text-davinci-003,ungrammatical,Order of Adverbs,TS 6,ungrammatical
+Ġa,1.748458,4,text-davinci-003,ungrammatical,Order of Adverbs,TS 6,ungrammatical
+Ġfirefighter,8.405915,5,text-davinci-003,ungrammatical,Order of Adverbs,TS 6,ungrammatical
+Son,10.237922,0,text-davinci-003,grammatical,Order of Adverbs,TS 7,ungrammatical
+ja,3.690056,1,text-davinci-003,grammatical,Order of Adverbs,TS 7,ungrammatical
+Ġprobably,11.698247,2,text-davinci-003,grammatical,Order of Adverbs,TS 7,ungrammatical
+Ġalready,5.3042355,3,text-davinci-003,grammatical,Order of Adverbs,TS 7,ungrammatical
+Ġset,7.489025,4,text-davinci-003,grammatical,Order of Adverbs,TS 7,ungrammatical
+Ġthe,1.6701038,5,text-davinci-003,grammatical,Order of Adverbs,TS 7,ungrammatical
+Ġtable,4.958351,6,text-davinci-003,grammatical,Order of Adverbs,TS 7,ungrammatical
+Son,10.237922,0,text-davinci-003,ungrammatical,Order of Adverbs,TS 7,ungrammatical
+ja,3.690056,1,text-davinci-003,ungrammatical,Order of Adverbs,TS 7,ungrammatical
+Ġalready,10.345257,2,text-davinci-003,ungrammatical,Order of Adverbs,TS 7,ungrammatical
+Ġprobably,10.361221,3,text-davinci-003,ungrammatical,Order of Adverbs,TS 7,ungrammatical
+Ġset,8.031164,4,text-davinci-003,ungrammatical,Order of Adverbs,TS 7,ungrammatical
+Ġthe,1.3978897,5,text-davinci-003,ungrammatical,Order of Adverbs,TS 7,ungrammatical
+Ġtable,5.3101993,6,text-davinci-003,ungrammatical,Order of Adverbs,TS 7,ungrammatical
+Jacob,10.873042,0,text-davinci-003,grammatical,Order of Adverbs,TS 8,ungrammatical
+Ġthen,10.753513,1,text-davinci-003,grammatical,Order of Adverbs,TS 8,ungrammatical
+Ġalways,11.280881,2,text-davinci-003,grammatical,Order of Adverbs,TS 8,ungrammatical
+Ġdid,4.941985,3,text-davinci-003,grammatical,Order of Adverbs,TS 8,ungrammatical
+Ġhis,2.605126,4,text-davinci-003,grammatical,Order of Adverbs,TS 8,ungrammatical
+Ġhomework,2.7859669,5,text-davinci-003,grammatical,Order of Adverbs,TS 8,ungrammatical
+Jacob,10.873042,0,text-davinci-003,ungrammatical,Order of Adverbs,TS 8,ungrammatical
+Ġalways,9.029598,1,text-davinci-003,ungrammatical,Order of Adverbs,TS 8,ungrammatical
+Ġthen,12.117254,2,text-davinci-003,ungrammatical,Order of Adverbs,TS 8,ungrammatical
+Ġdid,5.532632,3,text-davinci-003,ungrammatical,Order of Adverbs,TS 8,ungrammatical
+Ġhis,2.1916237,4,text-davinci-003,ungrammatical,Order of Adverbs,TS 8,ungrammatical
+Ġhomework,1.3049154,5,text-davinci-003,ungrammatical,Order of Adverbs,TS 8,ungrammatical
+Gary,10.263737,0,text-davinci-003,grammatical,Order of Adverbs,TS 9,ungrammatical
+Ġperhaps,13.927665,1,text-davinci-003,grammatical,Order of Adverbs,TS 9,ungrammatical
+Ġstill,6.939739,2,text-davinci-003,grammatical,Order of Adverbs,TS 9,ungrammatical
+Ġdrives,8.350991,3,text-davinci-003,grammatical,Order of Adverbs,TS 9,ungrammatical
+Ġto,4.086298,4,text-davinci-003,grammatical,Order of Adverbs,TS 9,ungrammatical
+Ġwork,1.5198536,5,text-davinci-003,grammatical,Order of Adverbs,TS 9,ungrammatical
+Gary,10.263737,0,text-davinci-003,ungrammatical,Order of Adverbs,TS 9,ungrammatical
+Ġstill,11.424094,1,text-davinci-003,ungrammatical,Order of Adverbs,TS 9,ungrammatical
+Ġperhaps,12.384647,2,text-davinci-003,ungrammatical,Order of Adverbs,TS 9,ungrammatical
+Ġdrives,10.354826,3,text-davinci-003,ungrammatical,Order of Adverbs,TS 9,ungrammatical
+Ġto,4.4691973,4,text-davinci-003,ungrammatical,Order of Adverbs,TS 9,ungrammatical
+Ġwork,1.9294033,5,text-davinci-003,ungrammatical,Order of Adverbs,TS 9,ungrammatical
+Jeff,8.8578615,0,text-davinci-003,grammatical,Order of Adverbs,TS 10,ungrammatical
+Ġprobably,11.577454,1,text-davinci-003,grammatical,Order of Adverbs,TS 10,ungrammatical
+Ġno,8.630911,2,text-davinci-003,grammatical,Order of Adverbs,TS 10,ungrammatical
+Ġlonger,0.7018267,3,text-davinci-003,grammatical,Order of Adverbs,TS 10,ungrammatical
+Ġeats,6.8786554,4,text-davinci-003,grammatical,Order of Adverbs,TS 10,ungrammatical
+Ġsushi,6.033943,5,text-davinci-003,grammatical,Order of Adverbs,TS 10,ungrammatical
+Jeff,8.8578615,0,text-davinci-003,ungrammatical,Order of Adverbs,TS 10,ungrammatical
+Ġno,10.834122,1,text-davinci-003,ungrammatical,Order of Adverbs,TS 10,ungrammatical
+Ġlonger,2.4043794,2,text-davinci-003,ungrammatical,Order of Adverbs,TS 10,ungrammatical
+Ġprobably,12.941417,3,text-davinci-003,ungrammatical,Order of Adverbs,TS 10,ungrammatical
+Ġeats,6.8466816,4,text-davinci-003,ungrammatical,Order of Adverbs,TS 10,ungrammatical
+Ġsushi,5.821844,5,text-davinci-003,ungrammatical,Order of Adverbs,TS 10,ungrammatical
+The,3.6610966,0,text-davinci-003,grammatical,Plural Attraction,TS 1,grammatical
+Ġkey,7.057089,1,text-davinci-003,grammatical,Plural Attraction,TS 1,grammatical
+Ġto,0.68280435,2,text-davinci-003,grammatical,Plural Attraction,TS 1,grammatical
+Ġthe,2.8062923,3,text-davinci-003,grammatical,Plural Attraction,TS 1,grammatical
+Ġcabinets,10.877626,4,text-davinci-003,grammatical,Plural Attraction,TS 1,grammatical
+Ġprobably,8.935055,5,text-davinci-003,grammatical,Plural Attraction,TS 1,grammatical
+Ġwas,4.2887483,6,text-davinci-003,grammatical,Plural Attraction,TS 1,grammatical
+Ġdestroyed,8.12004,7,text-davinci-003,grammatical,Plural Attraction,TS 1,grammatical
+Ġby,2.0261507,8,text-davinci-003,grammatical,Plural Attraction,TS 1,grammatical
+Ġthe,0.56623334,9,text-davinci-003,grammatical,Plural Attraction,TS 1,grammatical
+Ġfire,1.1617332,10,text-davinci-003,grammatical,Plural Attraction,TS 1,grammatical
+The,3.668826,0,text-davinci-003,ungrammatical,Plural Attraction,TS 1,grammatical
+Ġkey,7.0577993,1,text-davinci-003,ungrammatical,Plural Attraction,TS 1,grammatical
+Ġto,0.68385184,2,text-davinci-003,ungrammatical,Plural Attraction,TS 1,grammatical
+Ġthe,2.80625,3,text-davinci-003,ungrammatical,Plural Attraction,TS 1,grammatical
+Ġcabinets,10.878867,4,text-davinci-003,ungrammatical,Plural Attraction,TS 1,grammatical
+Ġprobably,8.932649,5,text-davinci-003,ungrammatical,Plural Attraction,TS 1,grammatical
+Ġwere,5.5581408,6,text-davinci-003,ungrammatical,Plural Attraction,TS 1,grammatical
+Ġdestroyed,7.541725,7,text-davinci-003,ungrammatical,Plural Attraction,TS 1,grammatical
+Ġby,2.0240653,8,text-davinci-003,ungrammatical,Plural Attraction,TS 1,grammatical
+Ġthe,0.48166522,9,text-davinci-003,ungrammatical,Plural Attraction,TS 1,grammatical
+Ġfire,1.0079716,10,text-davinci-003,ungrammatical,Plural Attraction,TS 1,grammatical
+The,3.6690054,0,text-davinci-003,grammatical,Plural Attraction,TS 2,grammatical
+Ġpicture,8.249805,1,text-davinci-003,grammatical,Plural Attraction,TS 2,grammatical
+Ġon,3.5100446,2,text-davinci-003,grammatical,Plural Attraction,TS 2,grammatical
+Ġthe,0.15971935,3,text-davinci-003,grammatical,Plural Attraction,TS 2,grammatical
+Ġfl,9.880999,4,text-davinci-003,grammatical,Plural Attraction,TS 2,grammatical
+iers,4.1539702,5,text-davinci-003,grammatical,Plural Attraction,TS 2,grammatical
+Ġdefinitely,8.697677,6,text-davinci-003,grammatical,Plural Attraction,TS 2,grammatical
+Ġwas,4.5852213,7,text-davinci-003,grammatical,Plural Attraction,TS 2,grammatical
+Ġof,2.4421897,8,text-davinci-003,grammatical,Plural Attraction,TS 2,grammatical
+Ġa,1.178153,9,text-davinci-003,grammatical,Plural Attraction,TS 2,grammatical
+Ġvillage,10.39216,10,text-davinci-003,grammatical,Plural Attraction,TS 2,grammatical
+Ġchurch,5.2529273,11,text-davinci-003,grammatical,Plural Attraction,TS 2,grammatical
+Ġin,3.2397308,12,text-davinci-003,grammatical,Plural Attraction,TS 2,grammatical
+Ġthe,1.25918,13,text-davinci-003,grammatical,Plural Attraction,TS 2,grammatical
+Ġsouth,4.7105517,14,text-davinci-003,grammatical,Plural Attraction,TS 2,grammatical
+Ġof,0.2024055,15,text-davinci-003,grammatical,Plural Attraction,TS 2,grammatical
+ĠFrance,1.3437006,16,text-davinci-003,grammatical,Plural Attraction,TS 2,grammatical
+The,3.66888,0,text-davinci-003,ungrammatical,Plural Attraction,TS 2,grammatical
+Ġpicture,8.250635,1,text-davinci-003,ungrammatical,Plural Attraction,TS 2,grammatical
+Ġon,3.5091786,2,text-davinci-003,ungrammatical,Plural Attraction,TS 2,grammatical
+Ġthe,0.15993597,3,text-davinci-003,ungrammatical,Plural Attraction,TS 2,grammatical
+Ġfl,9.885194,4,text-davinci-003,ungrammatical,Plural Attraction,TS 2,grammatical
+iers,4.1560807,5,text-davinci-003,ungrammatical,Plural Attraction,TS 2,grammatical
+Ġdefinitely,8.697771,6,text-davinci-003,ungrammatical,Plural Attraction,TS 2,grammatical
+Ġwere,7.10639,7,text-davinci-003,ungrammatical,Plural Attraction,TS 2,grammatical
+Ġof,2.3785183,8,text-davinci-003,ungrammatical,Plural Attraction,TS 2,grammatical
+Ġa,1.5555059,9,text-davinci-003,ungrammatical,Plural Attraction,TS 2,grammatical
+Ġvillage,9.960882,10,text-davinci-003,ungrammatical,Plural Attraction,TS 2,grammatical
+Ġchurch,5.552152,11,text-davinci-003,ungrammatical,Plural Attraction,TS 2,grammatical
+Ġin,2.8568137,12,text-davinci-003,ungrammatical,Plural Attraction,TS 2,grammatical
+Ġthe,1.3124757,13,text-davinci-003,ungrammatical,Plural Attraction,TS 2,grammatical
+Ġsouth,4.790622,14,text-davinci-003,ungrammatical,Plural Attraction,TS 2,grammatical
+Ġof,0.22612874,15,text-davinci-003,ungrammatical,Plural Attraction,TS 2,grammatical
+ĠFrance,1.3223666,16,text-davinci-003,ungrammatical,Plural Attraction,TS 2,grammatical
+The,3.6610966,0,text-davinci-003,grammatical,Plural Attraction,TS 3,grammatical
+Ġlabel,10.022436,1,text-davinci-003,grammatical,Plural Attraction,TS 3,grammatical
+Ġon,3.4503944,2,text-davinci-003,grammatical,Plural Attraction,TS 3,grammatical
+Ġthe,0.6484241,3,text-davinci-003,grammatical,Plural Attraction,TS 3,grammatical
+Ġcontainers,8.635783,4,text-davinci-003,grammatical,Plural Attraction,TS 3,grammatical
+Ġprobably,8.688311,5,text-davinci-003,grammatical,Plural Attraction,TS 3,grammatical
+Ġwas,7.0348063,6,text-davinci-003,grammatical,Plural Attraction,TS 3,grammatical
+Ġa,2.789576,7,text-davinci-003,grammatical,Plural Attraction,TS 3,grammatical
+Ġwarning,2.2442956,8,text-davinci-003,grammatical,Plural Attraction,TS 3,grammatical
+Ġabout,2.3309202,9,text-davinci-003,grammatical,Plural Attraction,TS 3,grammatical
+Ġthe,0.6458821,10,text-davinci-003,grammatical,Plural Attraction,TS 3,grammatical
+Ġhazardous,3.2542562,11,text-davinci-003,grammatical,Plural Attraction,TS 3,grammatical
+Ġchemicals,2.8364844,12,text-davinci-003,grammatical,Plural Attraction,TS 3,grammatical
+Ġinside,1.5244919,13,text-davinci-003,grammatical,Plural Attraction,TS 3,grammatical
+The,3.6610951,0,text-davinci-003,ungrammatical,Plural Attraction,TS 3,grammatical
+Ġlabel,10.022436,1,text-davinci-003,ungrammatical,Plural Attraction,TS 3,grammatical
+Ġon,3.450394,2,text-davinci-003,ungrammatical,Plural Attraction,TS 3,grammatical
+Ġthe,0.6484232,3,text-davinci-003,ungrammatical,Plural Attraction,TS 3,grammatical
+Ġcontainers,8.637142,4,text-davinci-003,ungrammatical,Plural Attraction,TS 3,grammatical
+Ġprobably,8.6926985,5,text-davinci-003,ungrammatical,Plural Attraction,TS 3,grammatical
+Ġwere,8.074755,6,text-davinci-003,ungrammatical,Plural Attraction,TS 3,grammatical
+Ġa,4.28083,7,text-davinci-003,ungrammatical,Plural Attraction,TS 3,grammatical
+Ġwarning,2.2797449,8,text-davinci-003,ungrammatical,Plural Attraction,TS 3,grammatical
+Ġabout,2.5210629,9,text-davinci-003,ungrammatical,Plural Attraction,TS 3,grammatical
+Ġthe,0.65147924,10,text-davinci-003,ungrammatical,Plural Attraction,TS 3,grammatical
+Ġhazardous,2.8806486,11,text-davinci-003,ungrammatical,Plural Attraction,TS 3,grammatical
+Ġchemicals,2.58779,12,text-davinci-003,ungrammatical,Plural Attraction,TS 3,grammatical
+Ġinside,1.4704106,13,text-davinci-003,ungrammatical,Plural Attraction,TS 3,grammatical
+The,3.6610966,0,text-davinci-003,grammatical,Plural Attraction,TS 4,grammatical
+Ġcrime,9.967343,1,text-davinci-003,grammatical,Plural Attraction,TS 4,grammatical
+Ġin,4.492673,2,text-davinci-003,grammatical,Plural Attraction,TS 4,grammatical
+Ġthe,1.5268667,3,text-davinci-003,grammatical,Plural Attraction,TS 4,grammatical
+Ġsuburbs,6.6471033,4,text-davinci-003,grammatical,Plural Attraction,TS 4,grammatical
+Ġdoubt,14.743989,5,text-davinci-003,grammatical,Plural Attraction,TS 4,grammatical
+lessly,1.3179731,6,text-davinci-003,grammatical,Plural Attraction,TS 4,grammatical
+Ġwas,5.612875,7,text-davinci-003,grammatical,Plural Attraction,TS 4,grammatical
+Ġa,1.8475165,8,text-davinci-003,grammatical,Plural Attraction,TS 4,grammatical
+Ġreflection,4.422389,9,text-davinci-003,grammatical,Plural Attraction,TS 4,grammatical
+Ġof,0.04723515,10,text-davinci-003,grammatical,Plural Attraction,TS 4,grammatical
+Ġthe,0.31091216,11,text-davinci-003,grammatical,Plural Attraction,TS 4,grammatical
+Ġviolence,5.086656,12,text-davinci-003,grammatical,Plural Attraction,TS 4,grammatical
+Ġin,1.2937093,13,text-davinci-003,grammatical,Plural Attraction,TS 4,grammatical
+Ġtoday,9.509741,14,text-davinci-003,grammatical,Plural Attraction,TS 4,grammatical
+'s,0.20235409,15,text-davinci-003,grammatical,Plural Attraction,TS 4,grammatical
+Ġsociety,0.22988851,16,text-davinci-003,grammatical,Plural Attraction,TS 4,grammatical
+The,3.66888,0,text-davinci-003,ungrammatical,Plural Attraction,TS 4,grammatical
+Ġcrime,9.966679,1,text-davinci-003,ungrammatical,Plural Attraction,TS 4,grammatical
+Ġin,4.4954157,2,text-davinci-003,ungrammatical,Plural Attraction,TS 4,grammatical
+Ġthe,1.5277383,3,text-davinci-003,ungrammatical,Plural Attraction,TS 4,grammatical
+Ġsuburbs,6.6558933,4,text-davinci-003,ungrammatical,Plural Attraction,TS 4,grammatical
+Ġdoubt,14.744194,5,text-davinci-003,ungrammatical,Plural Attraction,TS 4,grammatical
+lessly,1.3177851,6,text-davinci-003,ungrammatical,Plural Attraction,TS 4,grammatical
+Ġwere,9.247489,7,text-davinci-003,ungrammatical,Plural Attraction,TS 4,grammatical
+Ġa,2.9094555,8,text-davinci-003,ungrammatical,Plural Attraction,TS 4,grammatical
+Ġreflection,4.1028504,9,text-davinci-003,ungrammatical,Plural Attraction,TS 4,grammatical
+Ġof,0.06282546,10,text-davinci-003,ungrammatical,Plural Attraction,TS 4,grammatical
+Ġthe,0.3639297,11,text-davinci-003,ungrammatical,Plural Attraction,TS 4,grammatical
+Ġviolence,5.304142,12,text-davinci-003,ungrammatical,Plural Attraction,TS 4,grammatical
+Ġin,1.2605212,13,text-davinci-003,ungrammatical,Plural Attraction,TS 4,grammatical
+Ġtoday,9.567442,14,text-davinci-003,ungrammatical,Plural Attraction,TS 4,grammatical
+'s,0.29467714,15,text-davinci-003,ungrammatical,Plural Attraction,TS 4,grammatical
+Ġsociety,0.26263544,16,text-davinci-003,ungrammatical,Plural Attraction,TS 4,grammatical
+The,3.6610966,0,text-davinci-003,grammatical,Plural Attraction,TS 5,grammatical
+Ġentrance,9.037728,1,text-davinci-003,grammatical,Plural Attraction,TS 5,grammatical
+Ġto,0.6502966,2,text-davinci-003,grammatical,Plural Attraction,TS 5,grammatical
+Ġthe,0.5588285,3,text-davinci-003,grammatical,Plural Attraction,TS 5,grammatical
+Ġexhibits,11.111523,4,text-davinci-003,grammatical,Plural Attraction,TS 5,grammatical
+Ġevidently,15.912693,5,text-davinci-003,grammatical,Plural Attraction,TS 5,grammatical
+Ġwas,3.040354,6,text-davinci-003,grammatical,Plural Attraction,TS 5,grammatical
+Ġhard,7.572849,7,text-davinci-003,grammatical,Plural Attraction,TS 5,grammatical
+Ġto,0.095905274,8,text-davinci-003,grammatical,Plural Attraction,TS 5,grammatical
+Ġlocate,3.1623769,9,text-davinci-003,grammatical,Plural Attraction,TS 5,grammatical
+Ġon,5.7379465,10,text-davinci-003,grammatical,Plural Attraction,TS 5,grammatical
+Ġthe,0.47183785,11,text-davinci-003,grammatical,Plural Attraction,TS 5,grammatical
+Ġdiagram,10.714184,12,text-davinci-003,grammatical,Plural Attraction,TS 5,grammatical
+The,3.6610966,0,text-davinci-003,ungrammatical,Plural Attraction,TS 5,grammatical
+Ġentrance,9.037728,1,text-davinci-003,ungrammatical,Plural Attraction,TS 5,grammatical
+Ġto,0.6502966,2,text-davinci-003,ungrammatical,Plural Attraction,TS 5,grammatical
+Ġthe,0.5588285,3,text-davinci-003,ungrammatical,Plural Attraction,TS 5,grammatical
+Ġexhibits,11.111523,4,text-davinci-003,ungrammatical,Plural Attraction,TS 5,grammatical
+Ġevidently,15.912693,5,text-davinci-003,ungrammatical,Plural Attraction,TS 5,grammatical
+Ġwere,5.5662317,6,text-davinci-003,ungrammatical,Plural Attraction,TS 5,grammatical
+Ġhard,7.1807184,7,text-davinci-003,ungrammatical,Plural Attraction,TS 5,grammatical
+Ġto,0.07806398,8,text-davinci-003,ungrammatical,Plural Attraction,TS 5,grammatical
+Ġlocate,3.2333755,9,text-davinci-003,ungrammatical,Plural Attraction,TS 5,grammatical
+Ġon,5.606387,10,text-davinci-003,ungrammatical,Plural Attraction,TS 5,grammatical
+Ġthe,0.479335,11,text-davinci-003,ungrammatical,Plural Attraction,TS 5,grammatical
+Ġdiagram,11.045844,12,text-davinci-003,ungrammatical,Plural Attraction,TS 5,grammatical
+The,3.6610966,0,text-davinci-003,grammatical,Plural Attraction,TS 6,ungrammatical
+Ġslogan,10.729879,1,text-davinci-003,grammatical,Plural Attraction,TS 6,ungrammatical
+Ġon,4.2349253,2,text-davinci-003,grammatical,Plural Attraction,TS 6,ungrammatical
+Ġthe,0.36302873,3,text-davinci-003,grammatical,Plural Attraction,TS 6,ungrammatical
+Ġposters,5.169738,4,text-davinci-003,grammatical,Plural Attraction,TS 6,ungrammatical
+Ġunsurprisingly,14.534464,5,text-davinci-003,grammatical,Plural Attraction,TS 6,ungrammatical
+Ġwas,4.153239,6,text-davinci-003,grammatical,Plural Attraction,TS 6,ungrammatical
+Ġdesigned,8.498214,7,text-davinci-003,grammatical,Plural Attraction,TS 6,ungrammatical
+Ġto,0.11874034,8,text-davinci-003,grammatical,Plural Attraction,TS 6,ungrammatical
+Ġget,3.3565936,9,text-davinci-003,grammatical,Plural Attraction,TS 6,ungrammatical
+Ġattention,1.8686434,10,text-davinci-003,grammatical,Plural Attraction,TS 6,ungrammatical
+The,3.6610966,0,text-davinci-003,ungrammatical,Plural Attraction,TS 6,ungrammatical
+Ġslogan,10.729879,1,text-davinci-003,ungrammatical,Plural Attraction,TS 6,ungrammatical
+Ġon,4.2349243,2,text-davinci-003,ungrammatical,Plural Attraction,TS 6,ungrammatical
+Ġthe,0.36302832,3,text-davinci-003,ungrammatical,Plural Attraction,TS 6,ungrammatical
+Ġposters,5.169737,4,text-davinci-003,ungrammatical,Plural Attraction,TS 6,ungrammatical
+Ġunsurprisingly,14.534464,5,text-davinci-003,ungrammatical,Plural Attraction,TS 6,ungrammatical
+Ġwere,8.570452,6,text-davinci-003,ungrammatical,Plural Attraction,TS 6,ungrammatical
+Ġdesigned,6.235072,7,text-davinci-003,ungrammatical,Plural Attraction,TS 6,ungrammatical
+Ġto,0.12942636,8,text-davinci-003,ungrammatical,Plural Attraction,TS 6,ungrammatical
+Ġget,3.3415525,9,text-davinci-003,ungrammatical,Plural Attraction,TS 6,ungrammatical
+Ġattention,2.2718067,10,text-davinci-003,ungrammatical,Plural Attraction,TS 6,ungrammatical
+The,3.6688788,0,text-davinci-003,grammatical,Plural Attraction,TS 7,ungrammatical
+Ġmistake,11.351806,1,text-davinci-003,grammatical,Plural Attraction,TS 7,ungrammatical
+Ġin,2.993876,2,text-davinci-003,grammatical,Plural Attraction,TS 7,ungrammatical
+Ġthe,0.7375947,3,text-davinci-003,grammatical,Plural Attraction,TS 7,ungrammatical
+Ġprograms,10.675385,4,text-davinci-003,grammatical,Plural Attraction,TS 7,ungrammatical
+Ġcertainly,10.911841,5,text-davinci-003,grammatical,Plural Attraction,TS 7,ungrammatical
+Ġwas,4.44172,6,text-davinci-003,grammatical,Plural Attraction,TS 7,ungrammatical
+Ġdisastrous,8.565929,7,text-davinci-003,grammatical,Plural Attraction,TS 7,ungrammatical
+Ġfor,3.439013,8,text-davinci-003,grammatical,Plural Attraction,TS 7,ungrammatical
+Ġthe,0.4019758,9,text-davinci-003,grammatical,Plural Attraction,TS 7,ungrammatical
+Ġsmall,6.9789405,10,text-davinci-003,grammatical,Plural Attraction,TS 7,ungrammatical
+Ġsoftware,4.636732,11,text-davinci-003,grammatical,Plural Attraction,TS 7,ungrammatical
+Ġcompany,0.5249805,12,text-davinci-003,grammatical,Plural Attraction,TS 7,ungrammatical
+The,3.6610966,0,text-davinci-003,ungrammatical,Plural Attraction,TS 7,ungrammatical
+Ġmistake,11.352554,1,text-davinci-003,ungrammatical,Plural Attraction,TS 7,ungrammatical
+Ġin,2.9938166,2,text-davinci-003,ungrammatical,Plural Attraction,TS 7,ungrammatical
+Ġthe,0.73822135,3,text-davinci-003,ungrammatical,Plural Attraction,TS 7,ungrammatical
+Ġprograms,10.678722,4,text-davinci-003,ungrammatical,Plural Attraction,TS 7,ungrammatical
+Ġcertainly,10.927281,5,text-davinci-003,ungrammatical,Plural Attraction,TS 7,ungrammatical
+Ġwere,7.1403694,6,text-davinci-003,ungrammatical,Plural Attraction,TS 7,ungrammatical
+Ġdisastrous,7.5658255,7,text-davinci-003,ungrammatical,Plural Attraction,TS 7,ungrammatical
+Ġfor,3.4599233,8,text-davinci-003,ungrammatical,Plural Attraction,TS 7,ungrammatical
+Ġthe,0.39376095,9,text-davinci-003,ungrammatical,Plural Attraction,TS 7,ungrammatical
+Ġsmall,7.1112604,10,text-davinci-003,ungrammatical,Plural Attraction,TS 7,ungrammatical
+Ġsoftware,4.606514,11,text-davinci-003,ungrammatical,Plural Attraction,TS 7,ungrammatical
+Ġcompany,0.5016835,12,text-davinci-003,ungrammatical,Plural Attraction,TS 7,ungrammatical
+The,3.66888,0,text-davinci-003,grammatical,Plural Attraction,TS 8,ungrammatical
+Ġproblem,6.885528,1,text-davinci-003,grammatical,Plural Attraction,TS 8,ungrammatical
+Ġin,5.1527343,2,text-davinci-003,grammatical,Plural Attraction,TS 8,ungrammatical
+Ġthe,1.4669363,3,text-davinci-003,grammatical,Plural Attraction,TS 8,ungrammatical
+Ġstores,12.4650545,4,text-davinci-003,grammatical,Plural Attraction,TS 8,ungrammatical
+Ġultimately,12.636397,5,text-davinci-003,grammatical,Plural Attraction,TS 8,ungrammatical
+Ġwas,3.9284184,6,text-davinci-003,grammatical,Plural Attraction,TS 8,ungrammatical
+Ġsolved,4.7185555,7,text-davinci-003,grammatical,Plural Attraction,TS 8,ungrammatical
+Ġby,0.8044281,8,text-davinci-003,grammatical,Plural Attraction,TS 8,ungrammatical
+Ġfiring,6.6524215,9,text-davinci-003,grammatical,Plural Attraction,TS 8,ungrammatical
+Ġthe,0.36323717,10,text-davinci-003,grammatical,Plural Attraction,TS 8,ungrammatical
+Ġcustod,10.605503,11,text-davinci-003,grammatical,Plural Attraction,TS 8,ungrammatical
+ian,0.38301405,12,text-davinci-003,grammatical,Plural Attraction,TS 8,ungrammatical
+The,3.6610951,0,text-davinci-003,ungrammatical,Plural Attraction,TS 8,ungrammatical
+Ġproblem,6.8846974,1,text-davinci-003,ungrammatical,Plural Attraction,TS 8,ungrammatical
+Ġin,5.1528463,2,text-davinci-003,ungrammatical,Plural Attraction,TS 8,ungrammatical
+Ġthe,1.465655,3,text-davinci-003,ungrammatical,Plural Attraction,TS 8,ungrammatical
+Ġstores,12.470043,4,text-davinci-003,ungrammatical,Plural Attraction,TS 8,ungrammatical
+Ġultimately,12.633478,5,text-davinci-003,ungrammatical,Plural Attraction,TS 8,ungrammatical
+Ġwere,7.4397736,6,text-davinci-003,ungrammatical,Plural Attraction,TS 8,ungrammatical
+Ġsolved,5.0874896,7,text-davinci-003,ungrammatical,Plural Attraction,TS 8,ungrammatical
+Ġby,1.0676436,8,text-davinci-003,ungrammatical,Plural Attraction,TS 8,ungrammatical
+Ġfiring,6.961908,9,text-davinci-003,ungrammatical,Plural Attraction,TS 8,ungrammatical
+Ġthe,0.4049976,10,text-davinci-003,ungrammatical,Plural Attraction,TS 8,ungrammatical
+Ġcustod,10.757875,11,text-davinci-003,ungrammatical,Plural Attraction,TS 8,ungrammatical
+ian,0.6855104,12,text-davinci-003,ungrammatical,Plural Attraction,TS 8,ungrammatical
+The,3.6610966,0,text-davinci-003,grammatical,Plural Attraction,TS 9,ungrammatical
+Ġdefect,12.539338,1,text-davinci-003,grammatical,Plural Attraction,TS 9,ungrammatical
+Ġin,2.0738375,2,text-davinci-003,grammatical,Plural Attraction,TS 9,ungrammatical
+Ġthe,0.85433555,3,text-davinci-003,grammatical,Plural Attraction,TS 9,ungrammatical
+Ġappliances,10.792495,4,text-davinci-003,grammatical,Plural Attraction,TS 9,ungrammatical
+Ġlikely,8.326009,5,text-davinci-003,grammatical,Plural Attraction,TS 9,ungrammatical
+Ġwas,3.7694154,6,text-davinci-003,grammatical,Plural Attraction,TS 9,ungrammatical
+Ġunknown,7.4787235,7,text-davinci-003,grammatical,Plural Attraction,TS 9,ungrammatical
+Ġto,0.7925074,8,text-davinci-003,grammatical,Plural Attraction,TS 9,ungrammatical
+Ġconsumers,7.329442,9,text-davinci-003,grammatical,Plural Attraction,TS 9,ungrammatical
+Ġand,2.904306,10,text-davinci-003,grammatical,Plural Attraction,TS 9,ungrammatical
+Ġgovernment,8.442036,11,text-davinci-003,grammatical,Plural Attraction,TS 9,ungrammatical
+Ġregulators,0.5756585,12,text-davinci-003,grammatical,Plural Attraction,TS 9,ungrammatical
+The,3.6610966,0,text-davinci-003,ungrammatical,Plural Attraction,TS 9,ungrammatical
+Ġdefect,12.539338,1,text-davinci-003,ungrammatical,Plural Attraction,TS 9,ungrammatical
+Ġin,2.0738375,2,text-davinci-003,ungrammatical,Plural Attraction,TS 9,ungrammatical
+Ġthe,0.85433555,3,text-davinci-003,ungrammatical,Plural Attraction,TS 9,ungrammatical
+Ġappliances,10.792495,4,text-davinci-003,ungrammatical,Plural Attraction,TS 9,ungrammatical
+Ġlikely,8.326009,5,text-davinci-003,ungrammatical,Plural Attraction,TS 9,ungrammatical
+Ġwere,7.3132358,6,text-davinci-003,ungrammatical,Plural Attraction,TS 9,ungrammatical
+Ġunknown,7.563524,7,text-davinci-003,ungrammatical,Plural Attraction,TS 9,ungrammatical
+Ġto,0.7386891,8,text-davinci-003,ungrammatical,Plural Attraction,TS 9,ungrammatical
+Ġconsumers,6.644364,9,text-davinci-003,ungrammatical,Plural Attraction,TS 9,ungrammatical
+Ġand,2.919887,10,text-davinci-003,ungrammatical,Plural Attraction,TS 9,ungrammatical
+Ġgovernment,8.049058,11,text-davinci-003,ungrammatical,Plural Attraction,TS 9,ungrammatical
+Ġregulators,0.61256444,12,text-davinci-003,ungrammatical,Plural Attraction,TS 9,ungrammatical
+The,3.6610966,0,text-davinci-003,grammatical,Plural Attraction,TS 10,ungrammatical
+Ġdoor,9.410278,1,text-davinci-003,grammatical,Plural Attraction,TS 10,ungrammatical
+Ġto,2.0790043,2,text-davinci-003,grammatical,Plural Attraction,TS 10,ungrammatical
+Ġthe,0.5486646,3,text-davinci-003,grammatical,Plural Attraction,TS 10,ungrammatical
+Ġlaboratories,11.035727,4,text-davinci-003,grammatical,Plural Attraction,TS 10,ungrammatical
+Ġaccidentally,11.44269,5,text-davinci-003,grammatical,Plural Attraction,TS 10,ungrammatical
+Ġwas,5.7591763,6,text-davinci-003,grammatical,Plural Attraction,TS 10,ungrammatical
+Ġleft,0.24496312,7,text-davinci-003,grammatical,Plural Attraction,TS 10,ungrammatical
+Ġunlocked,2.8602953,8,text-davinci-003,grammatical,Plural Attraction,TS 10,ungrammatical
+Ġby,4.111601,9,text-davinci-003,grammatical,Plural Attraction,TS 10,ungrammatical
+Ġthe,0.87379766,10,text-davinci-003,grammatical,Plural Attraction,TS 10,ungrammatical
+Ġcleaning,3.6270666,11,text-davinci-003,grammatical,Plural Attraction,TS 10,ungrammatical
+Ġservice,4.524579,12,text-davinci-003,grammatical,Plural Attraction,TS 10,ungrammatical
+The,3.668878,0,text-davinci-003,ungrammatical,Plural Attraction,TS 10,ungrammatical
+Ġdoor,9.407676,1,text-davinci-003,ungrammatical,Plural Attraction,TS 10,ungrammatical
+Ġto,2.0802097,2,text-davinci-003,ungrammatical,Plural Attraction,TS 10,ungrammatical
+Ġthe,0.54776335,3,text-davinci-003,ungrammatical,Plural Attraction,TS 10,ungrammatical
+Ġlaboratories,11.038387,4,text-davinci-003,ungrammatical,Plural Attraction,TS 10,ungrammatical
+Ġaccidentally,11.443099,5,text-davinci-003,ungrammatical,Plural Attraction,TS 10,ungrammatical
+Ġwere,8.5641575,6,text-davinci-003,ungrammatical,Plural Attraction,TS 10,ungrammatical
+Ġleft,0.45323664,7,text-davinci-003,ungrammatical,Plural Attraction,TS 10,ungrammatical
+Ġunlocked,2.9554453,8,text-davinci-003,ungrammatical,Plural Attraction,TS 10,ungrammatical
+Ġby,4.0627937,9,text-davinci-003,ungrammatical,Plural Attraction,TS 10,ungrammatical
+Ġthe,0.7276872,10,text-davinci-003,ungrammatical,Plural Attraction,TS 10,ungrammatical
+Ġcleaning,3.65248,11,text-davinci-003,ungrammatical,Plural Attraction,TS 10,ungrammatical
+Ġservice,4.486884,12,text-davinci-003,ungrammatical,Plural Attraction,TS 10,ungrammatical
+The,3.6687505,0,text-davinci-003,grammatical,Plural Attraction control,TS 1,
+Ġkeys,10.5977745,1,text-davinci-003,grammatical,Plural Attraction control,TS 1,
+Ġto,0.49227083,2,text-davinci-003,grammatical,Plural Attraction control,TS 1,
+Ġthe,2.408557,3,text-davinci-003,grammatical,Plural Attraction control,TS 1,
+Ġcabinet,8.193397,4,text-davinci-003,grammatical,Plural Attraction control,TS 1,
+Ġprobably,9.684534,5,text-davinci-003,grammatical,Plural Attraction control,TS 1,
+Ġwere,3.2896357,6,text-davinci-003,grammatical,Plural Attraction control,TS 1,
+Ġdestroyed,8.216876,7,text-davinci-003,grammatical,Plural Attraction control,TS 1,
+Ġby,2.6900065,8,text-davinci-003,grammatical,Plural Attraction control,TS 1,
+Ġthe,0.5061761,9,text-davinci-003,grammatical,Plural Attraction control,TS 1,
+Ġfire,0.61572856,10,text-davinci-003,grammatical,Plural Attraction control,TS 1,
+The,3.668878,0,text-davinci-003,ungrammatical,Plural Attraction control,TS 1,
+Ġkeys,10.597349,1,text-davinci-003,ungrammatical,Plural Attraction control,TS 1,
+Ġto,0.4922191,2,text-davinci-003,ungrammatical,Plural Attraction control,TS 1,
+Ġthe,2.407782,3,text-davinci-003,ungrammatical,Plural Attraction control,TS 1,
+Ġcabinet,8.198764,4,text-davinci-003,ungrammatical,Plural Attraction control,TS 1,
+Ġprobably,9.68434,5,text-davinci-003,ungrammatical,Plural Attraction control,TS 1,
+Ġwas,8.473829,6,text-davinci-003,ungrammatical,Plural Attraction control,TS 1,
+Ġdestroyed,9.823786,7,text-davinci-003,ungrammatical,Plural Attraction control,TS 1,
+Ġby,2.0313485,8,text-davinci-003,ungrammatical,Plural Attraction control,TS 1,
+Ġthe,0.5086686,9,text-davinci-003,ungrammatical,Plural Attraction control,TS 1,
+Ġfire,0.67587084,10,text-davinci-003,ungrammatical,Plural Attraction control,TS 1,
+The,3.6610966,0,text-davinci-003,grammatical,Plural Attraction control,TS 2,
+Ġpictures,8.968971,1,text-davinci-003,grammatical,Plural Attraction control,TS 2,
+Ġon,3.5616946,2,text-davinci-003,grammatical,Plural Attraction control,TS 2,
+Ġthe,0.6679478,3,text-davinci-003,grammatical,Plural Attraction control,TS 2,
+Ġfl,8.276985,4,text-davinci-003,grammatical,Plural Attraction control,TS 2,
+ier,0.79800355,5,text-davinci-003,grammatical,Plural Attraction control,TS 2,
+Ġdefinitely,7.5021467,6,text-davinci-003,grammatical,Plural Attraction control,TS 2,
+Ġwere,5.2758174,7,text-davinci-003,grammatical,Plural Attraction control,TS 2,
+Ġof,2.8662615,8,text-davinci-003,grammatical,Plural Attraction control,TS 2,
+Ġa,1.6176988,9,text-davinci-003,grammatical,Plural Attraction control,TS 2,
+Ġvillage,9.218431,10,text-davinci-003,grammatical,Plural Attraction control,TS 2,
+Ġchurch,5.773876,11,text-davinci-003,grammatical,Plural Attraction control,TS 2,
+Ġin,2.6088362,12,text-davinci-003,grammatical,Plural Attraction control,TS 2,
+Ġthe,1.4246622,13,text-davinci-003,grammatical,Plural Attraction control,TS 2,
+Ġsouth,4.5579987,14,text-davinci-003,grammatical,Plural Attraction control,TS 2,
+Ġof,0.22238702,15,text-davinci-003,grammatical,Plural Attraction control,TS 2,
+ĠFrance,1.032064,16,text-davinci-003,grammatical,Plural Attraction control,TS 2,
+The,3.6610951,0,text-davinci-003,ungrammatical,Plural Attraction control,TS 2,
+Ġpictures,8.96897,1,text-davinci-003,ungrammatical,Plural Attraction control,TS 2,
+Ġon,3.5616946,2,text-davinci-003,ungrammatical,Plural Attraction control,TS 2,
+Ġthe,0.667947,3,text-davinci-003,ungrammatical,Plural Attraction control,TS 2,
+Ġfl,8.276986,4,text-davinci-003,ungrammatical,Plural Attraction control,TS 2,
+ier,0.7980028,5,text-davinci-003,ungrammatical,Plural Attraction control,TS 2,
+Ġdefinitely,7.502146,6,text-davinci-003,ungrammatical,Plural Attraction control,TS 2,
+Ġwas,8.520956,7,text-davinci-003,ungrammatical,Plural Attraction control,TS 2,
+Ġof,3.681717,8,text-davinci-003,ungrammatical,Plural Attraction control,TS 2,
+Ġa,1.3951136,9,text-davinci-003,ungrammatical,Plural Attraction control,TS 2,
+Ġvillage,8.847655,10,text-davinci-003,ungrammatical,Plural Attraction control,TS 2,
+Ġchurch,6.0872755,11,text-davinci-003,ungrammatical,Plural Attraction control,TS 2,
+Ġin,2.6860933,12,text-davinci-003,ungrammatical,Plural Attraction control,TS 2,
+Ġthe,1.324227,13,text-davinci-003,ungrammatical,Plural Attraction control,TS 2,
+Ġsouth,4.8723593,14,text-davinci-003,ungrammatical,Plural Attraction control,TS 2,
+Ġof,0.5512831,15,text-davinci-003,ungrammatical,Plural Attraction control,TS 2,
+ĠFrance,1.389061,16,text-davinci-003,ungrammatical,Plural Attraction control,TS 2,
+The,3.6610966,0,text-davinci-003,grammatical,Plural Attraction control,TS 3,
+Ġlabels,11.8568735,1,text-davinci-003,grammatical,Plural Attraction control,TS 3,
+Ġon,2.4779694,2,text-davinci-003,grammatical,Plural Attraction control,TS 3,
+Ġthe,1.3233253,3,text-davinci-003,grammatical,Plural Attraction control,TS 3,
+Ġcontainer,7.19489,4,text-davinci-003,grammatical,Plural Attraction control,TS 3,
+Ġprobably,7.455261,5,text-davinci-003,grammatical,Plural Attraction control,TS 3,
+Ġwere,6.570633,6,text-davinci-003,grammatical,Plural Attraction control,TS 3,
+Ġa,3.8540096,7,text-davinci-003,grammatical,Plural Attraction control,TS 3,
+Ġwarning,2.6580424,8,text-davinci-003,grammatical,Plural Attraction control,TS 3,
+Ġabout,2.2090976,9,text-davinci-003,grammatical,Plural Attraction control,TS 3,
+Ġthe,0.6605977,10,text-davinci-003,grammatical,Plural Attraction control,TS 3,
+Ġhazardous,3.5728793,11,text-davinci-003,grammatical,Plural Attraction control,TS 3,
+Ġchemicals,2.793566,12,text-davinci-003,grammatical,Plural Attraction control,TS 3,
+Ġinside,1.5845851,13,text-davinci-003,grammatical,Plural Attraction control,TS 3,
+The,3.6610966,0,text-davinci-003,ungrammatical,Plural Attraction control,TS 3,
+Ġlabels,11.856873,1,text-davinci-003,ungrammatical,Plural Attraction control,TS 3,
+Ġon,2.47797,2,text-davinci-003,ungrammatical,Plural Attraction control,TS 3,
+Ġthe,1.3233241,3,text-davinci-003,ungrammatical,Plural Attraction control,TS 3,
+Ġcontainer,7.19489,4,text-davinci-003,ungrammatical,Plural Attraction control,TS 3,
+Ġprobably,7.455261,5,text-davinci-003,ungrammatical,Plural Attraction control,TS 3,
+Ġwas,9.559977,6,text-davinci-003,ungrammatical,Plural Attraction control,TS 3,
+Ġa,2.620163,7,text-davinci-003,ungrammatical,Plural Attraction control,TS 3,
+Ġwarning,2.0654743,8,text-davinci-003,ungrammatical,Plural Attraction control,TS 3,
+Ġabout,2.25106,9,text-davinci-003,ungrammatical,Plural Attraction control,TS 3,
+Ġthe,0.7772002,10,text-davinci-003,ungrammatical,Plural Attraction control,TS 3,
+Ġhazardous,3.7465,11,text-davinci-003,ungrammatical,Plural Attraction control,TS 3,
+Ġchemicals,2.8708594,12,text-davinci-003,ungrammatical,Plural Attraction control,TS 3,
+Ġinside,1.6637855,13,text-davinci-003,ungrammatical,Plural Attraction control,TS 3,
+The,3.6610966,0,text-davinci-003,grammatical,Plural Attraction control,TS 4,
+Ġcrimes,12.045734,1,text-davinci-003,grammatical,Plural Attraction control,TS 4,
+Ġin,3.8930416,2,text-davinci-003,grammatical,Plural Attraction control,TS 4,
+Ġthe,1.2493633,3,text-davinci-003,grammatical,Plural Attraction control,TS 4,
+Ġsuburb,9.405355,4,text-davinci-003,grammatical,Plural Attraction control,TS 4,
+Ġdoubt,16.462465,5,text-davinci-003,grammatical,Plural Attraction control,TS 4,
+lessly,2.372675,6,text-davinci-003,grammatical,Plural Attraction control,TS 4,
+Ġwere,4.8812203,7,text-davinci-003,grammatical,Plural Attraction control,TS 4,
+Ġa,2.8104868,8,text-davinci-003,grammatical,Plural Attraction control,TS 4,
+Ġreflection,3.21074,9,text-davinci-003,grammatical,Plural Attraction control,TS 4,
+Ġof,0.04109942,10,text-davinci-003,grammatical,Plural Attraction control,TS 4,
+Ġthe,0.32284734,11,text-davinci-003,grammatical,Plural Attraction control,TS 4,
+Ġviolence,5.265902,12,text-davinci-003,grammatical,Plural Attraction control,TS 4,
+Ġin,1.4361892,13,text-davinci-003,grammatical,Plural Attraction control,TS 4,
+Ġtoday,8.625346,14,text-davinci-003,grammatical,Plural Attraction control,TS 4,
+'s,0.20994344,15,text-davinci-003,grammatical,Plural Attraction control,TS 4,
+Ġsociety,0.13914135,16,text-davinci-003,grammatical,Plural Attraction control,TS 4,
+The,3.6610951,0,text-davinci-003,ungrammatical,Plural Attraction control,TS 4,
+Ġcrimes,12.0457325,1,text-davinci-003,ungrammatical,Plural Attraction control,TS 4,
+Ġin,3.8930416,2,text-davinci-003,ungrammatical,Plural Attraction control,TS 4,
+Ġthe,1.2493631,3,text-davinci-003,ungrammatical,Plural Attraction control,TS 4,
+Ġsuburb,9.405355,4,text-davinci-003,ungrammatical,Plural Attraction control,TS 4,
+Ġdoubt,16.462465,5,text-davinci-003,ungrammatical,Plural Attraction control,TS 4,
+lessly,2.372675,6,text-davinci-003,ungrammatical,Plural Attraction control,TS 4,
+Ġwas,7.128025,7,text-davinci-003,ungrammatical,Plural Attraction control,TS 4,
+Ġa,1.7780987,8,text-davinci-003,ungrammatical,Plural Attraction control,TS 4,
+Ġreflection,4.2826242,9,text-davinci-003,ungrammatical,Plural Attraction control,TS 4,
+Ġof,0.07718617,10,text-davinci-003,ungrammatical,Plural Attraction control,TS 4,
+Ġthe,0.3572486,11,text-davinci-003,ungrammatical,Plural Attraction control,TS 4,
+Ġviolence,5.4655247,12,text-davinci-003,ungrammatical,Plural Attraction control,TS 4,
+Ġin,1.3595973,13,text-davinci-003,ungrammatical,Plural Attraction control,TS 4,
+Ġtoday,7.3325677,14,text-davinci-003,ungrammatical,Plural Attraction control,TS 4,
+'s,0.29225495,15,text-davinci-003,ungrammatical,Plural Attraction control,TS 4,
+Ġsociety,0.16308291,16,text-davinci-003,ungrammatical,Plural Attraction control,TS 4,
+The,3.6610966,0,text-davinci-003,grammatical,Plural Attraction control,TS 5,
+Ġentrances,13.7054205,1,text-davinci-003,grammatical,Plural Attraction control,TS 5,
+Ġto,0.574344,2,text-davinci-003,grammatical,Plural Attraction control,TS 5,
+Ġthe,0.6635888,3,text-davinci-003,grammatical,Plural Attraction control,TS 5,
+Ġexhibit,8.542816,4,text-davinci-003,grammatical,Plural Attraction control,TS 5,
+Ġevidently,15.171144,5,text-davinci-003,grammatical,Plural Attraction control,TS 5,
+Ġwere,3.182071,6,text-davinci-003,grammatical,Plural Attraction control,TS 5,
+Ġhard,7.2701664,7,text-davinci-003,grammatical,Plural Attraction control,TS 5,
+Ġto,0.07849124,8,text-davinci-003,grammatical,Plural Attraction control,TS 5,
+Ġlocate,3.2735424,9,text-davinci-003,grammatical,Plural Attraction control,TS 5,
+Ġon,6.1271315,10,text-davinci-003,grammatical,Plural Attraction control,TS 5,
+Ġthe,0.3765628,11,text-davinci-003,grammatical,Plural Attraction control,TS 5,
+Ġdiagram,9.656084,12,text-davinci-003,grammatical,Plural Attraction control,TS 5,
+The,3.6610951,0,text-davinci-003,ungrammatical,Plural Attraction control,TS 5,
+Ġentrances,13.7054205,1,text-davinci-003,ungrammatical,Plural Attraction control,TS 5,
+Ġto,0.57434386,2,text-davinci-003,ungrammatical,Plural Attraction control,TS 5,
+Ġthe,0.66358936,3,text-davinci-003,ungrammatical,Plural Attraction control,TS 5,
+Ġexhibit,8.542816,4,text-davinci-003,ungrammatical,Plural Attraction control,TS 5,
+Ġevidently,15.1711445,5,text-davinci-003,ungrammatical,Plural Attraction control,TS 5,
+Ġwas,6.4611626,6,text-davinci-003,ungrammatical,Plural Attraction control,TS 5,
+Ġhard,7.141348,7,text-davinci-003,ungrammatical,Plural Attraction control,TS 5,
+Ġto,0.10934751,8,text-davinci-003,ungrammatical,Plural Attraction control,TS 5,
+Ġlocate,3.1630602,9,text-davinci-003,ungrammatical,Plural Attraction control,TS 5,
+Ġon,5.831358,10,text-davinci-003,ungrammatical,Plural Attraction control,TS 5,
+Ġthe,0.32973477,11,text-davinci-003,ungrammatical,Plural Attraction control,TS 5,
+Ġdiagram,9.045487,12,text-davinci-003,ungrammatical,Plural Attraction control,TS 5,
+The,3.6610951,0,text-davinci-003,grammatical,Plural Attraction control,TS 6,
+Ġslogans,13.588433,1,text-davinci-003,grammatical,Plural Attraction control,TS 6,
+Ġon,3.0132835,2,text-davinci-003,grammatical,Plural Attraction control,TS 6,
+Ġthe,0.4659711,3,text-davinci-003,grammatical,Plural Attraction control,TS 6,
+Ġposter,4.6157317,4,text-davinci-003,grammatical,Plural Attraction control,TS 6,
+Ġunsurprisingly,13.44174,5,text-davinci-003,grammatical,Plural Attraction control,TS 6,
+Ġwere,4.8873014,6,text-davinci-003,grammatical,Plural Attraction control,TS 6,
+Ġdesigned,4.4169803,7,text-davinci-003,grammatical,Plural Attraction control,TS 6,
+Ġto,0.08432715,8,text-davinci-003,grammatical,Plural Attraction control,TS 6,
+Ġget,3.6696734,9,text-davinci-003,grammatical,Plural Attraction control,TS 6,
+Ġattention,2.493905,10,text-davinci-003,grammatical,Plural Attraction control,TS 6,
+The,3.6610966,0,text-davinci-003,ungrammatical,Plural Attraction control,TS 6,
+Ġslogans,13.588433,1,text-davinci-003,ungrammatical,Plural Attraction control,TS 6,
+Ġon,3.0132844,2,text-davinci-003,ungrammatical,Plural Attraction control,TS 6,
+Ġthe,0.4659711,3,text-davinci-003,ungrammatical,Plural Attraction control,TS 6,
+Ġposter,4.6157312,4,text-davinci-003,ungrammatical,Plural Attraction control,TS 6,
+Ġunsurprisingly,13.44174,5,text-davinci-003,ungrammatical,Plural Attraction control,TS 6,
+Ġwas,8.025087,6,text-davinci-003,ungrammatical,Plural Attraction control,TS 6,
+Ġdesigned,5.419716,7,text-davinci-003,ungrammatical,Plural Attraction control,TS 6,
+Ġto,0.23941368,8,text-davinci-003,ungrammatical,Plural Attraction control,TS 6,
+Ġget,3.6860106,9,text-davinci-003,ungrammatical,Plural Attraction control,TS 6,
+Ġattention,2.6218865,10,text-davinci-003,ungrammatical,Plural Attraction control,TS 6,
+The,3.6610966,0,text-davinci-003,grammatical,Plural Attraction control,TS 7,
+Ġmistakes,12.26673,1,text-davinci-003,grammatical,Plural Attraction control,TS 7,
+Ġin,3.1579113,2,text-davinci-003,grammatical,Plural Attraction control,TS 7,
+Ġthe,0.8986886,3,text-davinci-003,grammatical,Plural Attraction control,TS 7,
+Ġprogram,7.2707806,4,text-davinci-003,grammatical,Plural Attraction control,TS 7,
+Ġcertainly,9.873017,5,text-davinci-003,grammatical,Plural Attraction control,TS 7,
+Ġwere,5.0248632,6,text-davinci-003,grammatical,Plural Attraction control,TS 7,
+Ġdisastrous,7.4082994,7,text-davinci-003,grammatical,Plural Attraction control,TS 7,
+Ġfor,2.9728143,8,text-davinci-003,grammatical,Plural Attraction control,TS 7,
+Ġthe,0.43682927,9,text-davinci-003,grammatical,Plural Attraction control,TS 7,
+Ġsmall,6.691498,10,text-davinci-003,grammatical,Plural Attraction control,TS 7,
+Ġsoftware,4.524449,11,text-davinci-003,grammatical,Plural Attraction control,TS 7,
+Ġcompany,0.35686386,12,text-davinci-003,grammatical,Plural Attraction control,TS 7,
+The,3.6687505,0,text-davinci-003,ungrammatical,Plural Attraction control,TS 7,
+Ġmistakes,12.265266,1,text-davinci-003,ungrammatical,Plural Attraction control,TS 7,
+Ġin,3.1571057,2,text-davinci-003,ungrammatical,Plural Attraction control,TS 7,
+Ġthe,0.89873743,3,text-davinci-003,ungrammatical,Plural Attraction control,TS 7,
+Ġprogram,7.311599,4,text-davinci-003,ungrammatical,Plural Attraction control,TS 7,
+Ġcertainly,9.866726,5,text-davinci-003,ungrammatical,Plural Attraction control,TS 7,
+Ġwas,8.15571,6,text-davinci-003,ungrammatical,Plural Attraction control,TS 7,
+Ġdisastrous,8.363533,7,text-davinci-003,ungrammatical,Plural Attraction control,TS 7,
+Ġfor,2.0711432,8,text-davinci-003,ungrammatical,Plural Attraction control,TS 7,
+Ġthe,0.4606965,9,text-davinci-003,ungrammatical,Plural Attraction control,TS 7,
+Ġsmall,6.425785,10,text-davinci-003,ungrammatical,Plural Attraction control,TS 7,
+Ġsoftware,5.0585375,11,text-davinci-003,ungrammatical,Plural Attraction control,TS 7,
+Ġcompany,0.38649487,12,text-davinci-003,ungrammatical,Plural Attraction control,TS 7,
+The,3.6610966,0,text-davinci-003,grammatical,Plural Attraction control,TS 8,
+Ġproblems,9.427118,1,text-davinci-003,grammatical,Plural Attraction control,TS 8,
+Ġin,3.121037,2,text-davinci-003,grammatical,Plural Attraction control,TS 8,
+Ġthe,0.9910213,3,text-davinci-003,grammatical,Plural Attraction control,TS 8,
+Ġstore,9.120235,4,text-davinci-003,grammatical,Plural Attraction control,TS 8,
+Ġultimately,11.325573,5,text-davinci-003,grammatical,Plural Attraction control,TS 8,
+Ġwere,3.6907928,6,text-davinci-003,grammatical,Plural Attraction control,TS 8,
+Ġsolved,3.4535558,7,text-davinci-003,grammatical,Plural Attraction control,TS 8,
+Ġby,1.0910158,8,text-davinci-003,grammatical,Plural Attraction control,TS 8,
+Ġfiring,4.5399604,9,text-davinci-003,grammatical,Plural Attraction control,TS 8,
+Ġthe,0.149339,10,text-davinci-003,grammatical,Plural Attraction control,TS 8,
+Ġcustod,11.845442,11,text-davinci-003,grammatical,Plural Attraction control,TS 8,
+ian,0.17203452,12,text-davinci-003,grammatical,Plural Attraction control,TS 8,
+The,3.6610951,0,text-davinci-003,ungrammatical,Plural Attraction control,TS 8,
+Ġproblems,9.427118,1,text-davinci-003,ungrammatical,Plural Attraction control,TS 8,
+Ġin,3.1210375,2,text-davinci-003,ungrammatical,Plural Attraction control,TS 8,
+Ġthe,0.9910213,3,text-davinci-003,ungrammatical,Plural Attraction control,TS 8,
+Ġstore,9.120235,4,text-davinci-003,ungrammatical,Plural Attraction control,TS 8,
+Ġultimately,11.325575,5,text-davinci-003,ungrammatical,Plural Attraction control,TS 8,
+Ġwas,7.2284517,6,text-davinci-003,ungrammatical,Plural Attraction control,TS 8,
+Ġsolved,4.505958,7,text-davinci-003,ungrammatical,Plural Attraction control,TS 8,
+Ġby,0.8768667,8,text-davinci-003,ungrammatical,Plural Attraction control,TS 8,
+Ġfiring,4.7585526,9,text-davinci-003,ungrammatical,Plural Attraction control,TS 8,
+Ġthe,0.13011725,10,text-davinci-003,ungrammatical,Plural Attraction control,TS 8,
+Ġcustod,11.743215,11,text-davinci-003,ungrammatical,Plural Attraction control,TS 8,
+ian,0.15237455,12,text-davinci-003,ungrammatical,Plural Attraction control,TS 8,
+The,3.6610951,0,text-davinci-003,grammatical,Plural Attraction control,TS 9,
+Ġdefects,13.684218,1,text-davinci-003,grammatical,Plural Attraction control,TS 9,
+Ġin,1.4814324,2,text-davinci-003,grammatical,Plural Attraction control,TS 9,
+Ġthe,0.9227273,3,text-davinci-003,grammatical,Plural Attraction control,TS 9,
+Ġappliance,10.506331,4,text-davinci-003,grammatical,Plural Attraction control,TS 9,
+Ġlikely,8.460776,5,text-davinci-003,grammatical,Plural Attraction control,TS 9,
+Ġwere,4.973799,6,text-davinci-003,grammatical,Plural Attraction control,TS 9,
+Ġunknown,6.9575634,7,text-davinci-003,grammatical,Plural Attraction control,TS 9,
+Ġto,0.7636692,8,text-davinci-003,grammatical,Plural Attraction control,TS 9,
+Ġconsumers,9.34618,9,text-davinci-003,grammatical,Plural Attraction control,TS 9,
+Ġand,3.3142395,10,text-davinci-003,grammatical,Plural Attraction control,TS 9,
+Ġgovernment,8.836015,11,text-davinci-003,grammatical,Plural Attraction control,TS 9,
+Ġregulators,0.62333405,12,text-davinci-003,grammatical,Plural Attraction control,TS 9,
+The,3.6610951,0,text-davinci-003,ungrammatical,Plural Attraction control,TS 9,
+Ġdefects,13.684218,1,text-davinci-003,ungrammatical,Plural Attraction control,TS 9,
+Ġin,1.4814324,2,text-davinci-003,ungrammatical,Plural Attraction control,TS 9,
+Ġthe,0.9227273,3,text-davinci-003,ungrammatical,Plural Attraction control,TS 9,
+Ġappliance,10.506331,4,text-davinci-003,ungrammatical,Plural Attraction control,TS 9,
+Ġlikely,8.460776,5,text-davinci-003,ungrammatical,Plural Attraction control,TS 9,
+Ġwas,8.863428,6,text-davinci-003,ungrammatical,Plural Attraction control,TS 9,
+Ġunknown,8.642212,7,text-davinci-003,ungrammatical,Plural Attraction control,TS 9,
+Ġto,0.7732497,8,text-davinci-003,ungrammatical,Plural Attraction control,TS 9,
+Ġconsumers,9.348705,9,text-davinci-003,ungrammatical,Plural Attraction control,TS 9,
+Ġand,3.1592994,10,text-davinci-003,ungrammatical,Plural Attraction control,TS 9,
+Ġgovernment,7.8746023,11,text-davinci-003,ungrammatical,Plural Attraction control,TS 9,
+Ġregulators,0.87352574,12,text-davinci-003,ungrammatical,Plural Attraction control,TS 9,
+The,3.6610966,0,text-davinci-003,grammatical,Plural Attraction control,TS 10,
+Ġdoors,10.107755,1,text-davinci-003,grammatical,Plural Attraction control,TS 10,
+Ġto,1.8285373,2,text-davinci-003,grammatical,Plural Attraction control,TS 10,
+Ġthe,0.68480325,3,text-davinci-003,grammatical,Plural Attraction control,TS 10,
+Ġlaboratory,7.692821,4,text-davinci-003,grammatical,Plural Attraction control,TS 10,
+Ġaccidentally,11.321554,5,text-davinci-003,grammatical,Plural Attraction control,TS 10,
+Ġwere,5.289129,6,text-davinci-003,grammatical,Plural Attraction control,TS 10,
+Ġleft,0.35467952,7,text-davinci-003,grammatical,Plural Attraction control,TS 10,
+Ġunlocked,2.789188,8,text-davinci-003,grammatical,Plural Attraction control,TS 10,
+Ġby,4.527871,9,text-davinci-003,grammatical,Plural Attraction control,TS 10,
+Ġthe,0.5378923,10,text-davinci-003,grammatical,Plural Attraction control,TS 10,
+Ġcleaning,5.089058,11,text-davinci-003,grammatical,Plural Attraction control,TS 10,
+Ġservice,4.41774,12,text-davinci-003,grammatical,Plural Attraction control,TS 10,
+The,3.6610966,0,text-davinci-003,ungrammatical,Plural Attraction control,TS 10,
+Ġdoors,10.107755,1,text-davinci-003,ungrammatical,Plural Attraction control,TS 10,
+Ġto,1.8285373,2,text-davinci-003,ungrammatical,Plural Attraction control,TS 10,
+Ġthe,0.68480325,3,text-davinci-003,ungrammatical,Plural Attraction control,TS 10,
+Ġlaboratory,7.692821,4,text-davinci-003,ungrammatical,Plural Attraction control,TS 10,
+Ġaccidentally,11.321554,5,text-davinci-003,ungrammatical,Plural Attraction control,TS 10,
+Ġwas,9.707602,6,text-davinci-003,ungrammatical,Plural Attraction control,TS 10,
+Ġleft,0.5889959,7,text-davinci-003,ungrammatical,Plural Attraction control,TS 10,
+Ġunlocked,3.130434,8,text-davinci-003,ungrammatical,Plural Attraction control,TS 10,
+Ġby,4.116743,9,text-davinci-003,ungrammatical,Plural Attraction control,TS 10,
+Ġthe,0.61217177,10,text-davinci-003,ungrammatical,Plural Attraction control,TS 10,
+Ġcleaning,5.0369644,11,text-davinci-003,ungrammatical,Plural Attraction control,TS 10,
+Ġservice,4.3389435,12,text-davinci-003,ungrammatical,Plural Attraction control,TS 10,

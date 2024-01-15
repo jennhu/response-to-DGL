@@ -1,0 +1,192 @@
+phenomenon,test_item,condition,sentence,prompt,response,response_clean
+Anaphora,TS 1,grammatical,The new executive who oversaw the middle managers apparently doubted himself on most major decisions,"Is the following sentence grammatically correct in English? ""The new executive who oversaw the middle managers apparently doubted himself on most major decisions."" Respond with C if it is correct, and N if it is not correct.","The cat chased the mouse up the tree.
+
+C",C
+Anaphora,TS 2,grammatical,The popular sheriff who campaigned for the incumbent politicians never prepared himself for the new press briefing,"Is the following sentence grammatically correct in English? ""The popular sheriff who campaigned for the incumbent politicians never prepared himself for the new press briefing."" Respond with C if it is correct, and N if it is not correct.","He went to the store for buy some milk.
+
+N",N
+Anaphora,TS 3,grammatical,The construction worker who argued with the shift leaders undeniably hurt himself on the construction site,"Is the following sentence grammatically correct in English? ""The construction worker who argued with the shift leaders undeniably hurt himself on the construction site."" Respond with C if it is correct, and N if it is not correct.","He don't like it.
+N",N
+Anaphora,TS 4,grammatical,The young caddy who escorted the experienced golfers supposedly dirtied himself by falling in the sand,"Is the following sentence grammatically correct in English? ""The young caddy who escorted the experienced golfers supposedly dirtied himself by falling in the sand."" Respond with C if it is correct, and N if it is not correct.","He asked me if I had seen the movie yet.
+
+C",C
+Anaphora,TS 5,grammatical,The police officer who aided the brilliant detectives reportedly disguised himself to get more information,"Is the following sentence grammatically correct in English? ""The police officer who aided the brilliant detectives reportedly disguised himself to get more information."" Respond with C if it is correct, and N if it is not correct.","He don't like it.
+N",N
+Anaphora,TS 6,ungrammatical,The football referee who argued with the large quarterbacks surprisingly excused themselves from the important game,"Is the following sentence grammatically correct in English? ""The football referee who argued with the large quarterbacks surprisingly excused themselves from the important game."" Respond with C if it is correct, and N if it is not correct.","I'm going to the store for buy some milk.
+N",N
+Anaphora,TS 7,ungrammatical,The somber minister who conversed with the religious scholars usually presented themselves as very open-minded,"Is the following sentence grammatically correct in English? ""The somber minister who conversed with the religious scholars usually presented themselves as very open-minded."" Respond with C if it is correct, and N if it is not correct.","He don't like it.
+N",N
+Anaphora,TS 8,ungrammatical,The serious general who advised the new corporals seemingly committed themselves to the training regimen,"Is the following sentence grammatically correct in English? ""The serious general who advised the new corporals seemingly committed themselves to the training regimen."" Respond with C if it is correct, and N if it is not correct.","He was walked home by his mother.
+
+N",N
+Anaphora,TS 9,ungrammatical,The paranoid foreman who supervised the coal miners presumably saved themselves after the awful cave-in,"Is the following sentence grammatically correct in English? ""The paranoid foreman who supervised the coal miners presumably saved themselves after the awful cave-in."" Respond with C if it is correct, and N if it is not correct.","She don't like it.
+N",N
+Anaphora,TS 10,ungrammatical,The grimy blacksmith who worked for the royal knights evidently hurt themselves with the sharp tools,"Is the following sentence grammatically correct in English? ""The grimy blacksmith who worked for the royal knights evidently hurt themselves with the sharp tools."" Respond with C if it is correct, and N if it is not correct.","He don't like it.
+N",N
+Center Embedding,TS 1,grammatical,The ancient manuscript that the grad student who the new card catalog had confused a great deal was studying in the library was missing a page,"Is the following sentence grammatically correct in English? ""The ancient manuscript that the grad student who the new card catalog had confused a great deal was studying in the library was missing a page."" Respond with C if it is correct, and N if it is not correct.","He don't like it.
+N",N
+Center Embedding,TS 2,grammatical,The lullaby that the famous country singer who the record label had signed to a big contract was singing yesterday was written seventy years ago,"Is the following sentence grammatically correct in English? ""The lullaby that the famous country singer who the record label had signed to a big contract was singing yesterday was written seventy years ago."" Respond with C if it is correct, and N if it is not correct.","He has been speaking Spanish for five years.
+
+C",C
+Center Embedding,TS 3,grammatical,The game that the child who the lawnmower had startled in the yard was playing in the morning lasted for hours,"Is the following sentence grammatically correct in English? ""The game that the child who the lawnmower had startled in the yard was playing in the morning lasted for hours."" Respond with C if it is correct, and N if it is not correct.","He don't like it.
+N",N
+Center Embedding,TS 4,grammatical,The crime that the gangster who the story had profiled had planned for weeks was quickly solved,"Is the following sentence grammatically correct in English? ""The crime that the gangster who the story had profiled had planned for weeks was quickly solved."" Respond with C if it is correct, and N if it is not correct.","He don't like it.
+N",N
+Center Embedding,TS 5,grammatical,The picture that the artist who the school had expelled for cheating was hurriedly copying was printed in a magazine,"Is the following sentence grammatically correct in English? ""The picture that the artist who the school had expelled for cheating was hurriedly copying was printed in a magazine."" Respond with C if it is correct, and N if it is not correct.","I'm going to the store to buy some food.
+
+C",C
+Center Embedding,TS 6,ungrammatical,The trophy that the athlete who the restaurant had hired as a spokesman was stolen later,"Is the following sentence grammatically correct in English? ""The trophy that the athlete who the restaurant had hired as a spokesman was stolen later."" Respond with C if it is correct, and N if it is not correct.","He don't like it.
+N",N
+Center Embedding,TS 7,ungrammatical,The apartment that the maid who the service had sent over was well decorated,"Is the following sentence grammatically correct in English? ""The apartment that the maid who the service had sent over was well decorated."" Respond with C if it is correct, and N if it is not correct.","He done it.
+N",N
+Center Embedding,TS 8,ungrammatical,The shirt that the seamstress who the immigration officer had investigated last week needed to be dry cleaned,"Is the following sentence grammatically correct in English? ""The shirt that the seamstress who the immigration officer had investigated last week needed to be dry cleaned."" Respond with C if it is correct, and N if it is not correct.","He don't like it.
+N",N
+Center Embedding,TS 9,ungrammatical,The lecture that the professor who the newspaper story had just profiled in detail was not well attended,"Is the following sentence grammatically correct in English? ""The lecture that the professor who the newspaper story had just profiled in detail was not well attended."" Respond with C if it is correct, and N if it is not correct.","He don't like it.
+N",N
+Center Embedding,TS 10,ungrammatical,The novel that the horror author who the publishing company had recently fired was banned by the local library,"Is the following sentence grammatically correct in English? ""The novel that the horror author who the publishing company had recently fired was banned by the local library."" Respond with C if it is correct, and N if it is not correct.","He had went to the store.
+N",N
+Comparative Sentences,TS 1,grammatical,More gym instructors won a marathon yesterday than lawyers did,"Is the following sentence grammatically correct in English? ""More gym instructors won a marathon yesterday than lawyers did."" Respond with C if it is correct, and N if it is not correct.","She have been working here for two years.
+
+N",N
+Comparative Sentences,TS 2,grammatical,More Americans began law school this week than Canadians did,"Is the following sentence grammatically correct in English? ""More Americans began law school this week than Canadians did."" Respond with C if it is correct, and N if it is not correct.","He went to the store for buy milk.
+N",N
+Comparative Sentences,TS 3,grammatical,This month more one-year-olds took their first steps than 10-month-olds did,"Is the following sentence grammatically correct in English? ""This month more one-year-olds took their first steps than 10-month-olds did."" Respond with C if it is correct, and N if it is not correct.","He is taller than I.
+
+C",C
+Comparative Sentences,TS 4,grammatical,Today more Brazilians immigrated to Japan than Chileans did,"Is the following sentence grammatically correct in English? ""Today more Brazilians immigrated to Japan than Chileans did."" Respond with C if it is correct, and N if it is not correct.","He come to the store.
+N",N
+Comparative Sentences,TS 5,grammatical,More 18-year-olds voted in this election than 40-year-olds did,"Is the following sentence grammatically correct in English? ""More 18-year-olds voted in this election than 40-year-olds did."" Respond with C if it is correct, and N if it is not correct.","He has been walking for two hours.
+
+C",C
+Comparative Sentences,TS 6,ungrammatical,More photographers won their third Pulitzer this year than the professor did,"Is the following sentence grammatically correct in English? ""More photographers won their third Pulitzer this year than the professor did."" Respond with C if it is correct, and N if it is not correct.","The cat is sleeping on the couch.
+
+C",C
+Comparative Sentences,TS 7,ungrammatical,More girls graduated from high school last year than John did,"Is the following sentence grammatically correct in English? ""More girls graduated from high school last year than John did."" Respond with C if it is correct, and N if it is not correct.","He was so excited that he could hardly contain himself.
+
+C",C
+Comparative Sentences,TS 8,ungrammatical,This semester more foreign applicants got into Stanford than Marie did,"Is the following sentence grammatically correct in English? ""This semester more foreign applicants got into Stanford than Marie did."" Respond with C if it is correct, and N if it is not correct.","She have been running for an hour.
+N",N
+Comparative Sentences,TS 9,ungrammatical,More boys got an A on the exam yesterday than she did,"Is the following sentence grammatically correct in English? ""More boys got an A on the exam yesterday than she did."" Respond with C if it is correct, and N if it is not correct.","He was the most successful of all his siblings.
+
+C",C
+Comparative Sentences,TS 10,ungrammatical,Last month more couples had their second child than Sandra's sister did,"Is the following sentence grammatically correct in English? ""Last month more couples had their second child than Sandra's sister did."" Respond with C if it is correct, and N if it is not correct.","He was walking to the store quick.
+N",N
+Intrusive Resumption,TS 1,grammatical,This is the boy that the cop who was leading the operation beat up,"Is the following sentence grammatically correct in English? ""This is the boy that the cop who was leading the operation beat up."" Respond with C if it is correct, and N if it is not correct.","She wanted to go to the store, but she didn't have enough",
+Intrusive Resumption,TS 2,grammatical,This is the girl that the child who was playing with the doll loved,"Is the following sentence grammatically correct in English? ""This is the girl that the child who was playing with the doll loved."" Respond with C if it is correct, and N if it is not correct.","He don't like that.
+N",N
+Intrusive Resumption,TS 3,grammatical,This is the boy that the teachers who were teaching mathematics praised,"Is the following sentence grammatically correct in English? ""This is the boy that the teachers who were teaching mathematics praised."" Respond with C if it is correct, and N if it is not correct.","He don't like it.
+N",N
+Intrusive Resumption,TS 4,grammatical,These are the flowers that the gardener who was working on John's flowerbed planted,"Is the following sentence grammatically correct in English? ""These are the flowers that the gardener who was working on John's flowerbed planted."" Respond with C if it is correct, and N if it is not correct.","The dog barked loudly.
+
+C",C
+Intrusive Resumption,TS 5,grammatical,These are the cakes that the pastry chefs who were participating in the competition baked,"Is the following sentence grammatically correct in English? ""These are the cakes that the pastry chefs who were participating in the competition baked."" Respond with C if it is correct, and N if it is not correct.","He have been studying all day.
+N",N
+Intrusive Resumption,TS 6,ungrammatical,This is the girl that the boy who was working with the gardener courted her,"Is the following sentence grammatically correct in English? ""This is the girl that the boy who was working with the gardener courted her."" Respond with C if it is correct, and N if it is not correct.",She was walking to the store and she saw a dog.,
+Intrusive Resumption,TS 7,ungrammatical,This is the actress that the judge who was working at Cannes admired her,"Is the following sentence grammatically correct in English? ""This is the actress that the judge who was working at Cannes admired her."" Respond with C if it is correct, and N if it is not correct.","I am having a hard time understanding English grammar.
+
+C",C
+Intrusive Resumption,TS 8,ungrammatical,This is the mug that the artisans who were working with ceramics crafted it,"Is the following sentence grammatically correct in English? ""This is the mug that the artisans who were working with ceramics crafted it."" Respond with C if it is correct, and N if it is not correct.","He don't like it.
+N",N
+Intrusive Resumption,TS 9,ungrammatical,This is the dictionary entry that the students who were doing the exam looked it up,"Is the following sentence grammatically correct in English? ""This is the dictionary entry that the students who were doing the exam looked it up."" Respond with C if it is correct, and N if it is not correct.","He don't like apples.
+N",N
+Intrusive Resumption,TS 10,ungrammatical,This is the competition that the athletes who were feeling tired gave it up,"Is the following sentence grammatically correct in English? ""This is the competition that the athletes who were feeling tired gave it up."" Respond with C if it is correct, and N if it is not correct.","He have a lot of homework.
+N",N
+NPIs,TS 1,grammatical,No authors that the critics recommended have received any acknowledgment for a best-selling novel,"Is the following sentence grammatically correct in English? ""No authors that the critics recommended have received any acknowledgment for a best-selling novel."" Respond with C if it is correct, and N if it is not correct.","He's been running for two hours.
+
+C",C
+NPIs,TS 2,grammatical,No ambassadors that the diplomats consulted have ever seen brutality in the foreign war,"Is the following sentence grammatically correct in English? ""No ambassadors that the diplomats consulted have ever seen brutality in the foreign war."" Respond with C if it is correct, and N if it is not correct.","He was running faster than me.
+
+C",C
+NPIs,TS 3,grammatical,No customers that the salesmen assisted have expressed any optimism for a full refund,"Is the following sentence grammatically correct in English? ""No customers that the salesmen assisted have expressed any optimism for a full refund."" Respond with C if it is correct, and N if it is not correct.","He don't like it.
+N",N
+NPIs,TS 4,grammatical,No detergents that the housewives used have ever caused damage to the delicate clothing,"Is the following sentence grammatically correct in English? ""No detergents that the housewives used have ever caused damage to the delicate clothing."" Respond with C if it is correct, and N if it is not correct.","He has been running for an hour.
+
+C",C
+NPIs,TS 5,grammatical,No students that the teachers punished could expect any friendliness from the strict principal,"Is the following sentence grammatically correct in English? ""No students that the teachers punished could expect any friendliness from the strict principal."" Respond with C if it is correct, and N if it is not correct.","I'm going to the store for buy some groceries.
+N",N
+NPIs,TS 6,ungrammatical,The soldiers that no diplomats supported have shown any bravery in the controversial war,"Is the following sentence grammatically correct in English? ""The soldiers that no diplomats supported have shown any bravery in the controversial war."" Respond with C if it is correct, and N if it is not correct.","He don't like it.
+N",N
+NPIs,TS 7,ungrammatical,The professors that no students respected have ever wanted negativity in a class debate,"Is the following sentence grammatically correct in English? ""The professors that no students respected have ever wanted negativity in a class debate."" Respond with C if it is correct, and N if it is not correct.","She was walking to the store and saw a cat.
+
+C",C
+NPIs,TS 8,ungrammatical,The comments that no politicians ignored have caused any bitterness toward the liberal newspapers,"Is the following sentence grammatically correct in English? ""The comments that no politicians ignored have caused any bitterness toward the liberal newspapers."" Respond with C if it is correct, and N if it is not correct.","He was very happy to see her.
+
+C",C
+NPIs,TS 9,ungrammatical,The lawyers that no businessmen respected have ever received criticism for a bad trial,"Is the following sentence grammatically correct in English? ""The lawyers that no businessmen respected have ever received criticism for a bad trial."" Respond with C if it is correct, and N if it is not correct.","She loves reading books.
+
+C",C
+NPIs,TS 10,ungrammatical,The babysitters that no children obeyed have shown any gratitude to the disappointed parents,"Is the following sentence grammatically correct in English? ""The babysitters that no children obeyed have shown any gratitude to the disappointed parents."" Respond with C if it is correct, and N if it is not correct.","He has been running for two hours.
+
+C",C
+Order of Adjectives,TS 1,grammatical,I wore a beautiful long Italian silk dress,"Is the following sentence grammatically correct in English? ""I wore a beautiful long Italian silk dress."" Respond with C if it is correct, and N if it is not correct.","I have been to the beach.
+
+C",C
+Order of Adjectives,TS 2,grammatical,I bought a nice small German electric bike,"Is the following sentence grammatically correct in English? ""I bought a nice small German electric bike."" Respond with C if it is correct, and N if it is not correct.","He likes to go swimming on Saturday.
+
+C",C
+Order of Adjectives,TS 3,grammatical,I washed an ugly wide American wool sweater,"Is the following sentence grammatically correct in English? ""I washed an ugly wide American wool sweater."" Respond with C if it is correct, and N if it is not correct.","He don't like it.
+N",C
+Order of Adjectives,TS 4,grammatical,I painted a fine short Swedish wooden table,"Is the following sentence grammatically correct in English? ""I painted a fine short Swedish wooden table."" Respond with C if it is correct, and N if it is not correct.","She is the oldest of the four children.
+
+C",C
+Order of Adjectives,TS 5,grammatical,I saw a graceful tall Venetian vitreous vase,"Is the following sentence grammatically correct in English? ""I saw a graceful tall Venetian vitreous vase."" Respond with C if it is correct, and N if it is not correct.","He don't like it.
+N",N
+Order of Adjectives,TS 6,ungrammatical,I wore a silk Italian long beautiful dress,"Is the following sentence grammatically correct in English? ""I wore a silk Italian long beautiful dress."" Respond with C if it is correct, and N if it is not correct.","She had been running for an hour.
+
+C",C
+Order of Adjectives,TS 7,ungrammatical,I bought an electric German small nice bike,"Is the following sentence grammatically correct in English? ""I bought an electric German small nice bike."" Respond with C if it is correct, and N if it is not correct.","The cat is sleeping on the couch.
+
+C",C
+Order of Adjectives,TS 8,ungrammatical,I washed a wool American wide ugly sweater,"Is the following sentence grammatically correct in English? ""I washed a wool American wide ugly sweater."" Respond with C if it is correct, and N if it is not correct.","He had been running for hours.
+
+C",C
+Order of Adjectives,TS 9,ungrammatical,I painted a wooden Swedish short fine table,"Is the following sentence grammatically correct in English? ""I painted a wooden Swedish short fine table."" Respond with C if it is correct, and N if it is not correct.","He had been working since morning.
+
+C",C
+Order of Adjectives,TS 10,ungrammatical,I saw a vitreous Venetian tall graceful vase,"Is the following sentence grammatically correct in English? ""I saw a vitreous Venetian tall graceful vase."" Respond with C if it is correct, and N if it is not correct.","He don't like it.
+N",N
+Order of Adverbs,TS 1,grammatical,Charlotte allegedly once was an acrobat,"Is the following sentence grammatically correct in English? ""Charlotte allegedly once was an acrobat."" Respond with C if it is correct, and N if it is not correct.",He was so tired that he could barely keep his eyes open.,
+Order of Adverbs,TS 2,grammatical,Sean probably already did his homework,"Is the following sentence grammatically correct in English? ""Sean probably already did his homework."" Respond with C if it is correct, and N if it is not correct.","He done it.
+N",N
+Order of Adverbs,TS 3,grammatical,Melissa then always cleaned the dishes,"Is the following sentence grammatically correct in English? ""Melissa then always cleaned the dishes."" Respond with C if it is correct, and N if it is not correct.","He done his best.
+N",N
+Order of Adverbs,TS 4,grammatical,Dre perhaps still takes dance lessons,"Is the following sentence grammatically correct in English? ""Dre perhaps still takes dance lessons."" Respond with C if it is correct, and N if it is not correct.","I seen him yesterday.
+
+N",N
+Order of Adverbs,TS 5,grammatical,Emily probably no longer drinks beer,"Is the following sentence grammatically correct in English? ""Emily probably no longer drinks beer."" Respond with C if it is correct, and N if it is not correct.","He don't like it.
+N",N
+Order of Adverbs,TS 6,ungrammatical,Marc once allegedly was a firefighter,"Is the following sentence grammatically correct in English? ""Marc once allegedly was a firefighter."" Respond with C if it is correct, and N if it is not correct.","He was so happy to have finished the race.
+
+C",C
+Order of Adverbs,TS 7,ungrammatical,Sonja already probably set the table,"Is the following sentence grammatically correct in English? ""Sonja already probably set the table."" Respond with C if it is correct, and N if it is not correct.","He don't like it.
+N",N
+Order of Adverbs,TS 8,ungrammatical,Jacob always then did his homework,"Is the following sentence grammatically correct in English? ""Jacob always then did his homework."" Respond with C if it is correct, and N if it is not correct.","He don't like it.
+N",N
+Order of Adverbs,TS 9,ungrammatical,Gary still perhaps drives to work,"Is the following sentence grammatically correct in English? ""Gary still perhaps drives to work."" Respond with C if it is correct, and N if it is not correct.","He don't like it.
+N",N
+Order of Adverbs,TS 10,ungrammatical,Jeff no longer probably eats sushi,"Is the following sentence grammatically correct in English? ""Jeff no longer probably eats sushi."" Respond with C if it is correct, and N if it is not correct.","He don't like it.
+N",N
+Plural Attraction,TS 1,grammatical,The key to the cabinets probably was destroyed by the fire,"Is the following sentence grammatically correct in English? ""The key to the cabinets probably was destroyed by the fire."" Respond with C if it is correct, and N if it is not correct.","He gave the money to his brother and I.
+
+C",C
+Plural Attraction,TS 2,grammatical,The picture on the fliers definitely was of a village church in the south of France,"Is the following sentence grammatically correct in English? ""The picture on the fliers definitely was of a village church in the south of France."" Respond with C if it is correct, and N if it is not correct.","She was the most beautiful women I had ever seen.
+
+N",N
+Plural Attraction,TS 3,grammatical,The label on the containers probably was a warning about the hazardous chemicals inside,"Is the following sentence grammatically correct in English? ""The label on the containers probably was a warning about the hazardous chemicals inside."" Respond with C if it is correct, and N if it is not correct.","He have been working hard.
+N",N
+Plural Attraction,TS 4,grammatical,The crime in the suburbs doubtlessly was a reflection of the violence in today's society,"Is the following sentence grammatically correct in English? ""The crime in the suburbs doubtlessly was a reflection of the violence in today's society."" Respond with C if it is correct, and N if it is not correct.","She had went to the store.
+N",N
+Plural Attraction,TS 5,grammatical,The entrance to the exhibits evidently was hard to locate on the diagram,"Is the following sentence grammatically correct in English? ""The entrance to the exhibits evidently was hard to locate on the diagram."" Respond with C if it is correct, and N if it is not correct.","He was so tired that he slept through his alarm.
+
+C",C
+Plural Attraction,TS 6,ungrammatical,The slogan on the posters unsurprisingly were designed to get attention,"Is the following sentence grammatically correct in English? ""The slogan on the posters unsurprisingly were designed to get attention."" Respond with C if it is correct, and N if it is not correct.",I'm going to the store to buy milk and eggs.,
+Plural Attraction,TS 7,ungrammatical,The mistake in the programs certainly were disastrous for the small software company,"Is the following sentence grammatically correct in English? ""The mistake in the programs certainly were disastrous for the small software company."" Respond with C if it is correct, and N if it is not correct.","He don't like cats.
+N",N
+Plural Attraction,TS 8,ungrammatical,The problem in the stores ultimately were solved by firing the custodian,"Is the following sentence grammatically correct in English? ""The problem in the stores ultimately were solved by firing the custodian."" Respond with C if it is correct, and N if it is not correct.","I'm going to the store to buy some groceries.
+
+C",C
+Plural Attraction,TS 9,ungrammatical,The defect in the appliances likely were unknown to consumers and government regulators,"Is the following sentence grammatically correct in English? ""The defect in the appliances likely were unknown to consumers and government regulators."" Respond with C if it is correct, and N if it is not correct.","He don't like it.
+N",N
+Plural Attraction,TS 10,ungrammatical,The door to the laboratories accidentally were left unlocked by the cleaning service,"Is the following sentence grammatically correct in English? ""The door to the laboratories accidentally were left unlocked by the cleaning service."" Respond with C if it is correct, and N if it is not correct.","He is the tallest of them all.
+
+C",C
